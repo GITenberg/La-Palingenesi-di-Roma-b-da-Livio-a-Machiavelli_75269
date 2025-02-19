@@ -1,0 +1,3640 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75269 ***
+
+
+                                CULTURA
+                             CONTEMPORANEA
+
+                               BIBLIOTECA
+                                   DI
+                    LETTERATURA, STORIA E FILOSOFIA
+
+                               DIRETTA DA
+                            GEROLAMO LAZZERI
+
+                                VOL. II
+
+                          EDIZIONI «CORBACCIO»
+                            MILANO MCMXXIV
+
+                 _Proprietà Artistico Letteraria dello
+                     Studio Editoriale «Corbaccio»_
+
+                      Copyright by G. e L. Ferrero
+
+                           (Printed in Italy)
+
+
+
+
+                   *       *       *       *       *
+
+
+
+
+                        GUGLIELMO e LEO FERRERO
+
+
+                         La Palingenesi di Roma
+
+                        (DA LIVIO A MACHIAVELLI)
+
+              Con un’appendice su: _Che cos’è la Storia?_
+
+
+
+                                MCMXXIV
+
+                          EDIZIONI «CORBACCIO»
+
+                                 MILANO
+
+
+
+
+LA PALINGENESI DI ROMA
+
+
+
+
+_AL LETTORE_
+
+
+_Questo volumetto è destinato a far parte di una Collezione, che
+si pubblica nell’America Settentrionale, per cura di un comitato di
+professori delle Università; e che si propone d’illustrare gli influssi
+della civiltà antica sulla moderna._
+
+_Occupato in altri lavori, mi son fatto aiutare, per la compilazione
+di questo, da un giovane collaboratore, che è nell’età delle grandi e
+proficue letture._
+
+_L’appendice è per intero opera mia._
+
+  Firenze, 5 maggio 1924.
+
+                                                                G. F.
+
+
+
+
+LA CREAZIONE
+
+
+
+
+I.
+
+L’ANNALISTICA DEI PRIMI SECOLI.
+
+
+Nel _De Oratore_ di Cicerone Antonio domanda, a un certo punto, se per
+scriver di storia sia anche necessario essere un buon oratore, e Catulo
+gli risponde:
+
+«È necessario, se si scrive alla maniera dei Greci, ma secondo la
+nostra non c’è nessuna ragione di far dell’eloquenza: basta non essere
+falsi».
+
+«Non disprezzare i nostri» replica Antonio. «Anche i Greci scrissero in
+principio come Catone, come Fabio Pittore, come Pisone. La storia non
+era altro che una fabbrica d’annali; e per questo, cioè per conservare
+le pubbliche memorie, dalle origini di Roma fino al pontificato di
+Mucio, il Pontefice massimo raccoglieva tutti gli avvenimenti dei
+singoli anni, li scriveva nell’albo e poneva dinanzi alla sua casa
+la tavola, perchè il popolo potesse consultarla. Son quelli che si
+chiamano anche oggi annali massimi. E molti seguirono questo stile
+lasciando senz’ornarlo soltanto il ricordo dei tempi, degli uomini, dei
+luoghi e delle imprese. Perciò come i Greci hanno Ferecide, Ellanico,
+e Acusilas, così noi abbiamo Catone, Pisone e Fabio Pittore, che non
+sanno come ornare un’orazione (da poco infatti è stata importata presso
+di noi quest’arte); e purchè si capisca quello che dicono, credono che
+bisogna soltanto ricercare la brevità»[1].
+
+Questo passo ci dimostra che si conoscevano a Roma due modi di scrivere
+la storia: uno più antico, e più schiettamente romano, più rigidamente
+ufficiale, che non si elevava fino al racconto, ma si contentava
+di notare gli eventi, in uno stile diremmo quasi scheletrico se non
+stenografico; l’altro più recente, di origine greca, che apparteneva
+all’eloquenza, intesa non nel senso stretto, come arte del parlare in
+pubblico, ma nel suo senso largo, come arte del buon comporre e del
+narrare ornato.
+
+Così infatti Cicerone, un po’ più innanzi, ritratta lo storico oratore:
+
+«Non vedete che la storia è uno dei compiti maggiori dell’oratore,
+quello che richiede maggiore ricchezza e varietà di stile... Chi ignora
+che la prima legge della storia è di non tacere mai il falso e di dire
+sempre il vero, evitando il sospetto di parzialità? Questi fondamenti
+sono noti a tutti: i materiali son le cose e le parole. L’esposizione
+dei fatti richiede l’ordine dei tempi, la descrizione dei luoghi, e
+poichè negli avvenimenti importanti e degni di memoria ci si aspetta
+prima di conoscerne il disegno, poi l’esecuzione e il risultato, lo
+scrittore deve prima enunciare la sua opinione sul disegno, e poi
+narrando l’esecuzione dichiarare non solo ciò che è stato detto o
+fatto, ma anche in che modo; e quanto al risultato, elencarne le
+cause tutte, o il caso o le prudenze o le temerità dei personaggi;
+infine non solo raccontare le imprese, ma se essi eccellono per fama
+o per nome, studiarne la vita e l’indole. Lo stile e il genere del
+discorso deve essere «fusum atque tractum», scorrevole con una certa
+misurata dolcezza; senza quella asprezza e quelle punte maligne proprie
+dell’eloquenza forense»[2].
+
+È facile riconoscere nel _munus oratoris_ di Cicerone, quella che noi
+chiamiamo la storia artistica, ascritta alla famiglia dei più nobili
+generi letterarî, e contrapposta per questo, allora come ora, alla nuda
+e asciutta cronaca dei fatti positivi, sollecita solo di raccontare con
+una certa minuzia. La storia artistica entrò tardi in Roma, dove per
+lunghi secoli la rude annalistica aveva signoreggiato senza rivali,
+d’accordo con la tenace diffidenza dell’aristocrazia per tutte le
+forme dell’intellettualismo greco. Il maggior numero degli storici
+più antichi, di cui la tradizione ci ha trasmesso i nomi, appartiene
+all’annalistica. Ma se la storiografia artistica entrò così tardi a
+Roma, quando Roma, maturata ormai al dominio da una lunga esperienza
+di guerre, di contese politiche, di rivoluzioni, sede di un pensiero
+politico e di una direzione morale di valore universale, era già il
+centro e il cervello di un vasto impero; quando ci entrò finalmente,
+in questa atmosfera satura di una così grande esperienza storica,
+generò tre grandissimi scrittori — Sallustio, Tito Livio, Tacito — che
+noi dobbiamo studiare, perchè in essi e per essi lo spirito di Roma
+ha sopravvissuto alla rovina della civiltà antica, come un elemento
+creatore dei tempi nuovi, di cui noi siamo i figli, forse degeneri e
+parricidi. Quel che noi dobbiamo agli storici romani, lo dobbiamo a
+Sallustio, a Tito Livio ed a Tacito.
+
+
+
+
+II.
+
+SALLUSTIO.
+
+
+Di Sallustio, purtroppo, l’opera principale, le _Historiae_, è perduta.
+Le due opere minori che ci restano, la Giugurtina e la Catilinaria,
+figlie della passione più volubile e passeggera, la passione di parte,
+non sono storie, sia pure più o meno imparziali; ma piuttosto veementi
+libelli politici, nei quali l’amico e l’ammiratore di Cesare, sfoga i
+suoi tenaci rancori contro la consorteria di Silla, contro il Senato,
+o contro la vecchia nobiltà che aveva avversato così fieramente il
+conquistatore delle Gallie. Le due monografie sono state scritte
+con scopi precisi: la Giugurtina per dimostrare che il Senato era
+stato corrotto da Giugurta nel famoso affare della Numidia, il che,
+poco verosimile in sè, risulta falso dalla stessa narrazione di
+Sallustio[3]; la Catilinaria per dimostrare che la celebre congiura era
+stata macchinata dagli avanzi del partito di Silla: ritorsione in parte
+vera, ma non immune da esagerazione, contro quelli che l’imputavano a
+Cesare e ai suoi amici.
+
+Su due opere minori soltanto, di polemica più che di vera storia,
+dobbiamo giudicare Sallustio; ma poichè sono innanzi tutto due opere
+d’arte, senza meraviglia poniamo, nella storia della storiografia
+romana, Sallustio come il primo storico romano, di cui ci resti qualche
+opera, che sia stato sin dall’antichità e giustamente considerato
+un grande scrittore. La sua _brevità_ ora lodata, ora biasimata, già
+celebre presso gli antichi, tanto che fu ricordata tra gli altri da
+Seneca («obscura brevitas») e da Quintiliano («vitanda illa Sallustiana
+brevitas»), e la sua abitudine di collezionare arcaismi, adoprandoli
+a fare una tessitura preziosa e ricercata di prosa, in cui si sente il
+compiacimento dell’autore, che, quando si rileggeva, doveva divertirsi
+a certi effetti di simmetria e alle trovate architettoniche delle frasi
+ben composte, lascia trasparire una preoccupazione stilistica, che è
+del tutto nuova, e riesce bene, se non cade nell’artificio.
+
+«Sallustio — scrive un francese, che aveva profondo il senso della
+bellezza letteraria[4] — non cerca tanto di far conoscere i fatti,
+quanto di ostentare il suo ingegno, e ambisce più la lode che
+l’istruzione del lettore. Si diverte ogni momento a trovare delle
+antitesi riuscite, delle frasi simmetriche, delle metafore e delle
+rassomiglianze. Quando i congiurati stanno per essere condannati a
+morte, ferma il racconto e comincia a paragonare Cesare con Catone,
+contrapponendo a una a una le loro qualità, a membro a membro i
+periodi, con una straordinaria veracità e profondità di vedute; tanto
+che sarebbe uno scrittore ammirabile se non cercasse troppo di farsi
+ammirare. Le frasi corrono con gran velocità, a una a una, non più
+raggruppate in battaglioni compatti, e lo spirito è lanciato come
+su una china. Ma si sente la maniera, perchè la tecnica è invariata:
+quando incontra un assedio, una battaglia, una spedizione, un’azione
+qualsiasi, Sallustio scocca una grandine di frasine concise, ugualmente
+costrutte».
+
+Ma che forza, non ostante questo difetto! «Il suo stile cammina con
+una certa indifferenza sdegnosa; è stringato come quello di Tacito,
+pur essendo meno faticoso; è ricco come quello di Livio, ma è anche più
+sobrio. «_En arrivant au bout d’une phrase, on est parfois frappé comme
+d’un coup subit; ce sont deux mots simples qui, par un rapprochement
+nouveau, ont pris un sens accablant_»[5]. Metafore audaci, nascoste in
+un verbo, illuminano tutta un’idea. E poi una lunga e furiosa passione
+chiusa in una parola, una mescolanza di famigliarità, di poesia, di
+eloquenza, e sopratutto quegli sbalzi bruschi e potenti d’invenzione
+originale che piacciono più della perfezione liscia: il dono della
+creazione».
+
+Ma Sallustio non è soltanto un grande stilista; è anche un moralista
+ed un filosofo, il quale nella storia vuol ritrovare i segreti della
+fortuna, i piani del destino, le profonde lezioni della vita; tanto
+che la sua narrazione, sorretta da una concezione generale del mondo,
+come da una intelaiatura, mira a un alto fine morale. Siamo usciti con
+lui dalla scarna annalistica per entrare nel pieno splendore del genere
+oratorio. Senonchè ci siamo entrati un po’ bruscamente. Non è possibile
+non avvertire in Sallustio — ed è uno dei suoi difetti maggiori, pur
+non essendo un difetto scevro di grandezza e nobiltà — una sproporzione
+tra il fine e i mezzi, tra l’intelaiatura e la tela: fine ed
+intelaiatura troppo grandi per i mezzi e per la tela troppo piccoli.
+
+«Io credo che poichè ho deciso di vivere lontano dagli affari pubblici
+— scrive nella prefazione della Giugurtina — questa mia grande ed
+utile fatica sarà chiamata pigrizia da coloro ai quali pare somma
+attività andare mendicando il favore della plebe coi banchetti. E se
+essi penseranno in che tempo entrai nelle magistrature, e che uomini
+ne siano stati esclusi, e siano arrivati al Senato, conchiuderanno
+certamente che io per ragione e non per pigrizia ho cambiato parere,
+e che alla Repubblica verrà maggior bene dal mio riposo che dalla
+attività di costoro. Perciò io ho spesso udito che Q. Massimo e
+P. Scipione ed altri uomini illustri, eran soliti dire che quando
+guardavano le immagini dei loro maggiori, l’animo loro si accendeva
+di grande coraggio». Chi non potrebbe lodare questo fine nobilissimo?
+Ma per assolverlo, non basta raccontare in forma elegante e bella una
+guerricciola memorabile, invece che per la gloria delle armi, per gli
+odî e i puntigli delle fazioni, che senza scrupoli ferirono, pur di
+ferirsi l’un l’altra, financo il corpo della Repubblica.
+
+Con la storia di Catilina, Sallustio assunse il compito di mostrare che
+nei tempi antichi «in pace e in guerra si coltivavano i buoni costumi:
+e massima era la concordia, minima l’avidità; e il diritto e il bene
+eran forti più per la loro natura che per le leggi; e le brighe, le
+discordie e gli odî si riservavano ai nemici, mentre i cittadini coi
+cittadini gareggiavano di virtù. Magnifici nell’onorare gli dei, parchi
+in casa, fedeli cogli amici. Con due arti, il coraggio in guerra e
+l’equità in pace, governavano sè medesimi e la repubblica.»[6] Poi
+«il destino incominciò ad incrudelire e rivoltò tutte le cose»[7].
+Ritroviamo qui — a far da cornice al quadro — quella dottrina della
+corruzione dei costumi, opposta alla nostra fede nel progresso
+indefinito del genere umano, ma famigliare invece al pensiero antico.
+Senonchè la cornice è troppo vasta per il piccolo quadro in cui è
+dipinto il tumulto, più clamoroso che pericoloso, suscitato, nella
+repubblica, da Catilina. Cosicchè non possiamo dar torto a Quintiliano
+quando dice che «Sallustio nella Catilinaria e nella Giugurtina ci
+conduce all’una ed all’altra guerra, con dei proemi che sembrano
+non aver che fare con il soggetto», e dobbiamo riconoscere che le
+sue dissertazioni qualche volta sono un po’ lunghe e gonfie, le sue
+digressioni talora appiccicaticce e fuori di posto. Se le _Historiae_
+si fossero conservate, non avrebbero, forse, rivelato così ingenuamente
+questi difetti, perchè in quella vasta storia di tutta un’età, la
+cornice poteva essere adeguata al quadro. Ma sia colpa del caso, che
+ci ha fatto conoscere soltanto il Sallustio minore, o difetto inerente
+alla mente dello scrittore, cui mancasse un po’ quella virtù così
+difficile che è l’equilibrio, per trovare uno storico in cui la cornice
+ed il quadro, la visione della vita ed il soggetto, la materia e la
+forma si proporzionino, dobbiamo giungere a Tito Livio.
+
+
+
+
+III.
+
+TITO LIVIO.
+
+
+Tito Livio, famigliare di Augusto, e così grato nella casa del
+principe, che a lui fu affidata l’educazione del futuro imperatore
+Claudio, figlio di Druso, non ebbe ambizioni politiche, non coprì
+cariche, e visse da privato, studiando e scrivendo; fu insieme a
+Virgilio e ad Orazio, il terzo dei tre grandi restauratori, che
+aiutarono, con la penna, Augusto a ricomporre il mondo romano, disfatto
+dalle guerre civili. Livio nacque da una famiglia cospicua. Scrisse,
+come è noto, dialoghi, trattati filosofici, ed una immensa storia di
+Roma, dalle origini ai tempi suoi, nella quale volle trasfigurare la
+rudezza dell’annalistica tradizionale, adornandola e vivificandola con
+il colore, il calore e la pienezza fluente della oratoria greca.
+
+Gli storici moderni sono stati severi con Livio, e non possono
+approvare il metodo con cui trattò le sue fonti, capriccioso,
+arbitrario, ed un po’ negligente, almeno alla stregua del nostro zelo
+nel cercare la verità. Senonchè Livio non vuol cercarla, così come noi
+l’intendiamo, arrivando alla conoscenza esatta dei fatti, proprio come
+sono accaduti. Egli vuole dimostrare con la sua storia (e dimostrarla
+con la rappresentazione viva più che con la rigorosa argomentazione,
+con il colore più che con l’esattezza, prediligendo il dramma che
+sembra alla storia che vuole essere vera) una dottrina generale, una
+visione della vita in cui gli spiriti più alti del tempo credevano e
+nella quale tutta la storia di Roma entra come un quadro nella cornice:
+che la ricchezza e la potenza non sono beni ma pericoli; che Roma si è
+corrotta e guasta a mano a mano che il suo impero è ingrandito; che le
+generazioni non possono camminare verso la perfezione se non a ritroso
+della corrente del tempo. È la dottrina della corruzione, quella già
+mescolata, senza grazia e naturalezza, alla storia di Sallustio, ma
+ripresa e sviluppata con la grandiosa coerenza necessaria, per dare a
+un corpo robusto un’anima sostanziale.
+
+«Io vorrei — scrive Livio nel proemio — che ciascuno tra sè
+considerasse ansiosamente con l’animo, che vita, che costumi fossero
+i loro (quelli degli antichi), con quali uomini e con quali arti
+in pace ed in guerra sia stato fatto e ingrandito l’impero. E come
+indebolendosi a poco a poco ogni disciplina, prima i costumi quasi
+tralignassero e poi rovinando sempre di più precipitassero fino a
+questi tempi, in cui non possiamo sopportare nè i nostri vizi nè
+i nostri rimedi. E questo è nella conoscenza delle cose sopratutto
+salutare e fruttifero, che tu studi gli ammaestramenti di tutti gli
+esempi posti nelle illustri memorie; e di lì impari ciò che devi
+imitare per te e per la repubblica, e ciò che devi evitare perchè
+brutto negli inizi e nei risultati... O l’amore della mia opera mi
+illude, o non fu mai una repubblica più grande, o più saggia, o più
+ricca di esempi, ove così tardi entrassero l’avidità ed il lusso, ove
+tanto e così largamente fosse onorata la povertà e la parsimonia,
+e tale che quanto meno i suoi cittadini possedevano tanto meno
+desideravano».
+
+Posto questo proposito, si spiega come, resistendo alla fretta dei suoi
+lettori, impazienti di arrivare alla storia recente, Livio incominci
+la sua opera rammentando minutamente le origini favolose di Roma,
+sebbene, anzi appunto perchè le sa favolose, «Io credo — dice egli
+ancora nel proemio — che i primi principî e le cose vicine a quei
+tempi non divertiranno la maggior parte dei miei lettori, parendo loro
+mill’anni di giungere a queste ultime novità, per cui stanno morendo
+le forze di quello che fu il più gagliardo popolo del mondo. Ma io
+voglio invece anche questo come premio della mia fatica, che mentre con
+tutto l’ardore andrò ripetendo quelle prime cose antiche, allontanerò
+il mio pensiero dai mali di questa età; e sarò libero da quella
+preoccupazione, che se non può distogliere dal vero l’animo di chi
+vive, può però renderlo travagliato. Non è mia intenzione nè confermare
+nè rifiutare quel che si raccontò sui tempi della fondazione di Roma,
+sebbene le favole vaghe ci abbondino più che le notizie sicure».
+
+Non c’è dunque da meravigliarsi se Livio non si è scervellato, come
+gli storici moderni, per scoprire quella briciola di vero che poteva
+nascondersi sotto i miti della fondazione di Roma. In quel mondo
+lontano e solatio, come quello di una leggenda, Livio si riposa delle
+miserie e delle tragedie contemporanee, che sono tristi, perchè vere;
+si diverte a giuocare con quegli eroi vestiti di corazze lustrate,
+e che han l’aria, attardandosi fra Torquato e Bruto, di pensare con
+tristezza al momento della separazione. Egli non cerca d’infonder in
+quei personaggi una vita reale, che possa romper l’incanto di quel
+dolce e quieto artifizio; ma li toglie di peso dalla leggenda, con
+tutto l’ingenuo ingrandimento proprio del mito, che ammette solo santi
+o ribaldi; e se per un verso li dipinge così lontani dai moderni,
+che non è possibile avere neppur un’illusione di vita, dall’altra li
+veste col linguaggio e i costumi del suo tempo, come i pittori del
+quattrocento infilavano agli eroi della Bibbia il giustacuore e le
+calze lunghe. Così, quei soldati sono oratori espertissimi, che hanno
+certo letto i libri di Cicerone sull’arte del dire, e improvvisano
+ben composte orazioni, feconde in gradevoli simmetrie ogni volta che
+capita, e se non capita spontaneamente, lo storico pensa a facilitare
+l’avvento, una buona occasione — e ognuno capisce che di solennità
+politiche, religiose o militari ce n’erano fin che se ne voleva. La
+narrazione cammina sempre sull’orlo della parodia; ma Livio, che è
+un grande artista, non cade, e procedendo sereno, misurato, lontano
+dall’amarezza di Sallustio, il quale ricorda gli antichi con irritante
+pomposità e li adopra, perchè sono ormai intangibili e lontano, a
+maltrattare inutilmente i moderni, ha invece l’aria di dire che non
+importa accertare le virtù degli avi, ma che bisogna stimarli in
+ogni modo così, perchè ogni nazione ha diritto di avere dei padri
+semi-divini. «Si concede all’antichità il permesso di mescolare le cose
+umane con le divine, per rendere più venerabili i principî delle città.
+E se è lecito ad un popolo consacrar le sue origini attribuendole agli
+dei, la Gloria del popolo Romano nella guerra è così grande, che se
+egli dice essere Marte il genitore suo e del suo fondatore, le genti
+umane devono sopportare pazientemente anche questo, come sopportarono
+d’essere signoreggiate da Roma»[8].
+
+Ma questa età dell’oro non dura; non può durare a lungo. La storia di
+Livio è stata scritta per dimostrare la tesi, che Roma s’è corrotta
+ingrandendo. Al prologo degli eroi tien dietro l’età in cui gli uomini,
+ridotti alle giuste proporzioni, peggiorano a mano a mano che la storia
+progredisce. Dovremmo quindi entrare nella realtà; ma ci entriamo solo
+sino ad un certo punto, perchè anche là dove la storia di Livio non è
+più favolosa, i suoi personaggi fanno talvolta pensare a quei Romani
+che David dipinse nel «Ratto delle Sabine».
+
+Le figure del quadro infatti, disposte una dietro l’altra, vestite
+scrupolosamente con le corazze e gli schinieri, sono ordinate, senza
+che i piani si compongano o fondano in file parallele; le facce hanno
+una ricercata impersonalità, che rivela l’imitazione delle statue
+greche; così come nella carne dei corpi, che è stata dipinta con un
+modello di marmo e vuol arrivare a quell’effetto medesimo di plastica
+polita.
+
+In Livio si ritrova la stessa stilizzata ricerca del generico. Così
+che componendo, a grandi tratti, il carattere della professione e
+della carica, egli vi introduce poi volta a volta i suoi uomini e fa
+che essi ne rivestano, con le insegne esterne, anche le doti morali e
+intellettuali, come, entrando in una stanza ove un gioco di sole sulle
+persiane l’abbia bagnata tutta di luce verde, la gente è colorata di
+verde. Così abbiamo il tipo del generale, il tipo del senatore, il
+tipo del tribuno, mentre la classificazione dei buoni e dei cattivi,
+più larga, comprende tutte l’altre classificazioni minori. Ma che
+differenza c’è fra Manlio Torquato e Paolo Emilio, il primo agli inizi
+e il secondo al termine della storia; se rispetto a ogni circostanza si
+comportano allo stesso modo, come se seguissero un protocollo?
+
+Noi non possiamo dire se questa attitudine a generalizzare il tipo,
+piuttosto che ad individuare i singoli, fosse comune a tutta l’opera di
+Livio, o non piuttosto si ritrovasse soltanto nella parte più antica
+della sua storia, quella a cui appartengono i libri giunti fino a noi
+e che tratta i tempi in cui gli stampi della tradizione e del costume
+erano più forti e gli uomini fatti tutti secondo pochi modelli. Forse,
+se potessimo leggere i libri, in cui si raccontavano i tempi di Silla
+e di Cesare — pieni di rivoluzioni, e più ricchi di tempre singolari
+— vedremmo in quelli un maggior rilievo di uomini meno simbolici. Ma
+nei libri che possediamo i personaggi sono come li abbiamo descritti.
+E poichè gli avvenimenti procedono in modo già prestabilito dagli
+Dei, la storia apparisce quasi una enumerazione di battaglie e di
+lotte politiche, sommate le une alle altre in ordine di tempo come
+una montagna di pietre, e tutte così simili, che non si distinguono
+a colpo. Non sembra che l’intelligenza degli uomini possa influire
+su questo corso preordinato dagli eventi: caso mai, contano di più le
+virtù e lo zelo religioso, che gli Dei ricompensano con la vittoria.
+Dobbiamo dunque concludere che Livio è uno storico freddo e senz’anima?
+
+No, Livio è uno storico vivo, anche se i suoi eroi spesso non sono
+tali, perchè con quella sua attitudine a descrivere il tipo più che
+il singolo, riesce come nessuno a far muovere le folle. Per questo,
+se non è riuscito a vivificare i grandi Romani, è riuscito invece a
+rappresentare il popolo romano. Il vero protagonista della sua storia
+è il popolo romano: personaggio enorme, che occupa tutta la scena, e
+non si compone di tanti singoli ben distinti, così da essere la somma
+dei loro caratteri comuni; ma appare come un ente nel tempo stesso
+umano e sovrumano, da cui loro caratteri particolari, come uomini che
+attingono acqua ad una fontana. In questa potentissima personificazione
+del popolo romano sta il fascino incomparabile della Storia di Livio;
+perchè questa personificazione è riuscita ad essere nel tempo stesso di
+un alto ideale e di un’efficace verità.
+
+Il popolo romano, in Livio, si presenta da principio come una
+generalizzazione di Appio Claudio; sprezzante le fatiche, giorno e
+notte corazzato per ogni battaglia, indifferente alla morte e valoroso
+in guerra, semplice di costumi, laborioso in pace, ambizioso di gloria,
+scrupoloso di verità, ligio alla fede data, ossequiente dinnanzi
+alla Giustizia che lo governa per mezzo di tante leggi, devoto alle
+Divinità, che ne ricompensano lo zelo facendolo oggetto di un favore
+priviligiato. Religione, patria, lavoro, obbedienza alle leggi, spirito
+di sacrificio, sono le virtù che rifulgono in fondo ai secoli dalla
+sua vita privata e pubblica. La storia non ha mai visto una luce più
+intensa. Lo scrupolo della verità e della giustizia, che fra tutte
+le qualità dei romani è la più coltivata, ha l’aria di resistere in
+loro, anche quando le circostanze offrono, senza pericoli, allettanti
+transazioni. Bisogna vedere che importanza ha un giuramento fatto al
+nemico: e con quali tortuose invenzioni i Romani cercano di svincolarsi
+senza disonore da queste promesse! Uno dei prigionieri di Annibale,
+quando furon mandati in commissione a Roma, per trattare del riscatto,
+col giuramento di tornare, appena uscito dal campo ritornò indietro,
+toccò le palizzate e si riunì ai compagni, sperando di essere con
+questo libero da ogni impegno. Ma fu rimandato ai Cartaginesi. Anche
+le cattive azioni di questo Popolo devono esser compite rispettando
+rigorosamente la legalità, ossia rendendo omaggio al principio che
+quella tale azione non deve essere compiuta perchè illecita.
+
+Ora, siccome un popolo di questo stampo non è mai esistito, Livio
+avrebbe l’aria di dipingere in lui uno di quegli eroi puritani,
+che vivono solo nelle leggende; così che le gesta di questo popolo
+immaginario formerebbero un poema, più che una storia. Senonchè, anche
+in mezzo al racconto delle età più antiche e leggendarie, qualche
+tratto verace fa intravedere nell’eroe sovrumano un po’ di triste
+umanità. Così, sulla bocca del Sannita, si sente forse la voce dello
+storico, che riconosce nei grandi eroi il fango per cui si riattaccano
+gli uomini.
+
+«Voi deste gli ostaggi a Porsenna e col furto li avete ripresi;
+ricompraste dai Galli le città con l’oro, e sono stati trucidati mentre
+prendevano l’oro. Ci avete promesso la pace, per ottenere le legioni
+prigioniere e ora la fate vana; e compite sempre ogni frode sotto
+apparenze di giustizia»[9].
+
+Senonchè anche nella figurazione del popolo romano si osserva quello
+che già vedemmo nelle figure degli eroi; così che essa si fa più
+umana, di pari passo col procedere della storia. Che la dottrina della
+corruzione, fondamento di tutta la storia di Livio, sia filosoficamente
+vera, è riprovato per via indiretta dalla vivacità di cui si anima la
+storia di Livio, a mano a mano che questa dottrina domina e quasi guida
+la narrazione. Pur conservando una certa nobiltà ideale, il popolo
+romano si fa vivo a mano a mano che i difetti della ricchezza e della
+potenza escono dall’ombra dell’antichità incorrotta: l’indisciplina, la
+cupidigia, l’amore del lusso e dei piaceri, la gola e la sensualità,
+l’egoismo, l’invidia sopratutto, che distrugge Roma con la guerra
+intestina delle ambizioni e delle cupidige insoddisfatte.
+
+«Qui si tratta della fama dei soldati, anzi universalmente di tutto
+il popolo romano»[10], dice Servilio rampognando i soldati che si
+oppongono al trionfo di Lucio Paolo, «perchè il popolo romano non
+abbia fama di invidioso ed ingrato contro tutti i suoi più illustri
+cittadini, e non sembri con questo imitare il popolo Ateniese, solito
+a perseguitare con l’invidia i migliori. Abbastanza si peccò contro
+Camillo, il quale almeno fu offeso prima di aver riconquistato la
+città dai Galli. Abbastanza contro Scipione Africano. A Linterno si
+trova la casa del vincitore dell’Africa; e Linterno ostenta il suo
+sepolcro. Vergogniamoci se L. Paolo, uguale per gloria a tali uomini,
+sia loro uguagliato anche per l’ingiurie vostre. Cancelliamo finalmente
+questa nostra mala fama, sozza e vilipesa presso le altre genti e
+dannosa presso di noi.» Chi non riconosce qui l’eterna malignità della
+democrazia? Così gli idillici rapporti fra il senato concepito come un
+«consesso di Re» e la plebe, sui primordi obbediente carne da macello,
+sempre pronta per il mattatoio delle battaglie, si fanno a poco a
+poco torbidi e violenti; quella docile moltitudine di cittadini-eroi
+diventa tumultuosa, sediziosa; accecata dai propri interessi non vede
+più quelli della comunità; si lascia trascinare dal più ignobile dei
+demagoghi e non ascolta le parole dei saggi e dei grandi; passa da
+un accesso di furore oceanico in cui pretende rivendicazioni — anche
+giuste — coi mezzi più rivoluzionari, ad uno stato di indifferente
+incoscienza e di fatalistica sopportazione quando è vessata da un
+regime sanguinario, ingiusto e terroristico.
+
+E il Senato perde, se si comincia a passeggiare fra i rostri e a
+conversare sotto le colonne, quella regale apparenza che presentava
+agli occhi di Cinna. Si vede una moltitudine di patrizi, pieni di
+pregiudizi e di altezzosità, egoisti, che si preoccupano di Roma,
+per quel che riguarda la loro classe e i loro interessi, ma non hanno
+nessun pensiero per i Romani, come se Roma e i Romani fossero due cose
+distinte. E le gelosie e le diffidenze reciproche alterano il loro
+retto giudizio, e li spingono a operare, in ogni occasione, per secondi
+fini.
+
+«Si stabilì un patto con gli Ernici, si tolsero due parti del
+territorio, e una metà fu data ai Latini, e l’altra il Console Cassio
+voleva dividerla fra la Plebe. Aggiungeva a questo dono alcune terre
+le quali, essendo pubbliche, egli biasimava che fossero di privati. E
+questo spaventò molti senatori che ne eran possessori, e vedevano in
+pericolo le cose loro. Ma erano ancor più inquieti perchè il Console
+con queste largizioni si acquistava una potenza pericolosa alla
+libertà.»[11]
+
+Così la grandezza romana, idealizzata tutta insieme come una meraviglia
+sovrumana, ci apparisce umanissima nei singoli elementi di bene e di
+male, che la compongono. Questa è nel tempo stesso la grande bellezza
+e la profonda verità dell’opera di Livio, alle quali corrisponde
+mirabilmente lo stile. Lo stile di Livio è veramente come un fiume
+immenso dalla corrente tranquilla, che scende dal monte sicuro di
+arrivare alla foce, trasportando una mescolanza di cose diverse. Nei
+momenti solenni, o tragici, è maestoso e lento, quasi per trattenere
+il respiro a chi legge e non accontentarlo nella sua impazienza con
+piccole frasi rapide; alle volte perde la sua serenità olimpica, si
+commuove, si agita come uno stagno in cui sia piombato un macigno; ma
+la chiusa degli avvenimenti è spesso composta con poche frasi corte
+e succosissime, che appaiono più potenti che mai, appunto perchè, con
+grande arte, son collocate dopo un periodare ampio e fertile, in cui
+le frasi tendono la mano una all’altra e si allacciano con rotonda
+scorrevolezza. In tal modo i due ritmi si sostengono e si analizzano
+a vicenda: il primo mette in rilievo quella stringatezza del secondo,
+che, dopo un capitolo di Tacito, non sarebbe neppure avvertita; il
+secondo drammatizza lo stile per quel variare improvviso di tono, che
+sorprende, e ci fa sentire come il primo ritmo fosse armoniosamente
+pieno.
+
+
+
+
+IV.
+
+TACITO.
+
+
+Tra Tacito e Livio abbiamo una fioritura copiosissima di storici.
+Citiamo Asinio Pollione, che trattò delle guerre civili; Pompeo Trogo,
+che scrisse una storia universale, epitomata da Giustino; Fenestella,
+Iginio e Verrio Flacco, contemporanei di Tito Livio. Nel I secolo
+Cremunzio Cordo che fece l’apologia di Bruto e Cassio, Valerio Massimo,
+Velleio Patercolo, Punico che vivendo accanto a Tiberio, lo comprese, e
+ne lasciò una vita imparziale, e fu per questo accusato di adulazione.
+Delle quali calunnie la responsabilità più grande pesa proprio su
+Tacito, il terzo storico di Roma.
+
+Vissuto durante il primo secolo dell’impero; campione di quella
+nuova aristocrazia, cresciuta nelle provincie europee e africane dopo
+Augusto, che con Vespasiano sale al Governo, più semplice, più austera,
+più disciplinata, più innamorata del romanesimo autentico, che la
+nobiltà dei tempi dei Giulio-Claudî, crebbe studiando nell’ambiente
+delle scuole di eloquenza; fu pretore, sacerdote quindecenvirale,
+propretore e finalmente, sotto Traiano, console. La vetta delle
+ambizioni era stata scalata. Dopo lasciò la vita pubblica e scrisse. E
+il suo soggetto fu triste.
+
+«Prendo a scrivere un tempo pieno di vicende, tremendo per battaglie
+e discordie, per sedizioni, crudele anche in pace. Quattro principi
+assassinati: tre guerre civili, molte all’esterno, e per lo più
+mescolate. Imprese prospere in Oriente, avverse in Occidente:
+sconvolta l’Illiria, le Gallie vacillanti, domata la Brittannia e
+tosto abbandonata: i Sarmati e gli Svevi risollevati contro di noi...
+L’Italia afflitta da stragi nuove o rinnovate, dopo una lunga serie
+di secoli. Città sprofondate o rovinate, nella zona più fertile
+della Campania. Roma incendiata, distrutti i templi più antichi,
+il Campidoglio stesso arso dai cittadini; profanata la religione,
+grandi adulterî, mare pieno d’esuli, scogli intrisi di sangue...
+Secolo non però così sterile di virtù da non produrre anche dei buoni
+esempi»...[12] «Ma non mai per più atroci stragi del popolo Romano
+o per più giusti indizi, si capì che gli Dei avevano a cuore non la
+nostra sicurezza ma il nostro castigo.»[13]
+
+Quanto siamo lontani dalla serenità quasi gioiosa di Livio! La vasta
+pianura si trasforma in una treggiaia chiusa, seminata di rovi e di
+lappe pungenti, sgradevole al piede. Un’afa insopportabile pesa sul
+viandante, che aspetta ogni tanto invano dal cielo una ventata salubre,
+e una passata d’acqua dalla nuvolaglia turbolenta. Tacito stesso,
+ripensando a Tito Livio, ne soffre e lo confessa apertamente.
+
+«Narravano di grandi guerre, di città conquistate, di re vinti e
+prigionieri, e i litigi dei tribuni e dei consoli, le leggi agrarie e
+frumentarie, le lotte del popolo e del senato. Era un soggetto largo,
+spazioso, dove si muovevano con libertà. Ma io sono chiuso in una
+stretta carreggiata, e l’opera mia sarà senza gloria.»[14]
+
+Mentre Tito Livio, come si vede da una citazione che Seneca trasse
+dalle opere scomparse, si nutre della sua opera concepita nella gioia,
+e nella gioia dello scrivere e nell’amore della sua storia moltiplica
+le sue forze all’immensa fatica, si sente che il soggetto è antipatico
+a Tacito, che le sue previsioni sono dolorose, che lo scrivere gli
+costa sforzo e lo attrista. Perchè scrive allora la storia dei tempi
+che gli erano così odiosi? Egli stesso ce lo dice.
+
+«Noi raccontiamo questo perchè chiunque leggerà i casi di quei
+tempi, da noi scritti o da altri, sappia, benchè si taccia, come
+si ringraziavano gli Dei, ogni volta che il Principe esiliava od
+assassinava. E come le insegne della prosperità annunziavano le
+disgrazie pubbliche.»[15]
+
+Nato fra le follie sanguinarie di Nerone, cresciuto sotto il governo
+pauroso di Domiziano, dopo aver temuto e sofferto lunghi anni,
+ricordando ancora le favole atroci, che si susurravano nei giardini dei
+nobili morituri, quando il silenzio regnava, e non vinta era la paura
+dei delatori, Tacito volle, stabilita finalmente con Traiano la pace e
+la sicurezza, prendersi una imperitura vendetta, per sè e per tutta la
+nobiltà a cui apparteneva; volle dirsi «ho patito, ma questi patimenti
+non saranno inutili». Hanno fatto di lui un repubblicano, ma non è
+vero nel senso moderno della parola. Per quanto abbia spesso visto la
+tirannia dove non c’era, egli non ha mai pensato che una rivoluzione
+contro il regime imperiale fosse possibile e desiderabile nè che fosse
+necessaria per ricostruire la repubblica, che ai suoi occhi era stata
+maltrattata ma non distrutta. Egli non è il censore dell’impero, ma
+di alcuni imperatori, di molti vizî, dei costumi contemporanei, della
+società, come egli la vedeva, nella sua crescente depravazione, del
+senato, che perdeva ogni giorno un po’ della sua autorità, benchè ne
+avesse più di quanto sembrava. Tacito è un moralista, che osserva la
+depravazione dei suoi tempi e ne soffre; ma che invece di curarla,
+come Livio, proponendo loro il modello ideale di una età più antica,
+mitologicamente austera, semplice e ricca delle più eccelse virtù,
+vuol curare quella cancrena con la pietra infernale dell’indignazione.
+La storia è per lui una specie di tribunale del vizio e della colpa,
+innanzi al quale egli, giustiziere implacabile, cita i suoi tempi in
+forza del codice non scritto della propria coscienza. Egli scrive la
+storia perchè «pochi uomini distinguono con il loro senno l’onesto dal
+criminale; l’utile dal nocivo. E gli esempi degli altri formano, per lo
+più, la vera scuola»[16]. Perchè «il compito principale della storia è
+di salvare la virtù dall’oblio e di incutere alle azioni e alle parole
+malvagie la paura della posterità».[17]
+
+Un giustiziere, dunque, il quale vuol scrivere la storia _sine ira et
+studio_, come egli stesso dice, imparzialmente, sui documenti. A Tito
+Livio questa idea, che la storia potesse o dovesse essere scritta a
+mente fredda, senza ira e senza amore, non venne mai, poichè scrisse
+per ingrandire Roma agli occhi della posterità, con l’entusiasmo e
+l’amore, non dubitando di abbellire, o di velare, o anche addirittura
+di alterare la verità, quando poteva nuocere alla reputazione del
+suo idolo. Per Tito Livio la gloria di Roma non riconosce nessun
+obbligo d’imparzialità nello storico, la sua grandezza sta al di
+sopra del giudizio della storia. Per Tacito non più. Anche Tacito è un
+tradizionalista, come Tito Livio, ligio all’ammirazione degli antichi
+esempi nazionali; ma nella sua ammirazione per l’antichità ormai il
+momento morale si distacca dal momento nazionale, e si impone, invece
+di mescolarsi ad esso, come in Livio. Egli ammira gli antichi, non
+perchè erano nel tempo stesso virtuosi e schiavi, ma solo perchè erano
+virtuosi; e cercando, ma non trovando, queste virtù nei suoi tempi, non
+esita a scrivere storie, che ci appaiono le più terribili accuse contro
+Roma e il suo impero, tramandate a noi dall’antichità.
+
+Livio ingrandisce per contrasto la gloria e l’ammirazione di Roma,
+con il male che è costretto a raccontare. Tacito accresce l’orrore per
+l’impero di Roma anche con i rari esempi di virtù, che inserisce nel
+lungo racconto dei vizi e delle colpe. Per quanto tradizionalista,
+come la maggior parte dei senatori del suo tempo, Tacito presente,
+senza saperlo, il Cristianesimo, e quel prevalere della morale sulla
+politica, in cui starà la grande rivoluzione cristiana. È già in un
+certo senso cristiana, e non è più romana, almeno al modo di Livio,
+la intrepidità con cui questo senatore infama tutto un secolo di
+storia dell’impero per castigare un certo numero di imperatori, da lui
+giudicati malvagi.
+
+Ma se il giustiziere voleva scrivere la storia _sine ira et studio_,
+immolando alla giustizia anche la gloria di Roma, è poi riuscito
+ad essere giusto? Noi possiamo rispondere risolutamente di no. La
+storia di Tacito è scritta dalla passione, non meno di quella di
+Sallustio, anche più di quella di Livio. La sua passione non è, come
+in Sallustio, il risentimento politico di un partito perseguitato,
+ma l’odio di un’epoca contro un’altra epoca; l’odio che i suoi tempi,
+dopo esser riusciti finalmente a conciliare il governo senatorio ed il
+principato, sentivano contro i Giulio-Claudi, i quali intorno a questa
+conciliazione si erano inutilmente affaticati per tanti anni. Tiberio
+e Claudio avevano fallito più per colpa del Senato che propria, ma
+la giustizia sommaria della generazione seguente serbava rancore agli
+imperatori, in quanto erano un bersaglio più vistoso; e Tacito fu la
+penna illustre che soddisfece, eternandoli in uno stile immortale,
+con un’arte di scorci potentissima, questi odî. Egli è dunque un
+giustiziere sospettoso, inquieto, implacabile, che per lo zelo di
+scoprire e bollare il vizio ed il male, lo trova con certezza là dove
+proprio nessuno avrebbe avuto soltanto il coraggio di sospettarlo.
+Quanti esempi si potrebbero citare!
+
+Egli riferisce, mostrando di approvarla, la diceria che Augusto
+«scelse Tiberio a suo successore, non già per amore o per zelo
+della repubblica, ma per acquistarsi gloria col paragone di un
+principe assai peggiore, poichè ne aveva già intuita l’arroganza e la
+crudeltà»[18]. In che modo ha conosciuto Tacito questo riposto pensare
+dell’imperatore? E quale altro personaggio avrebbe egli potuto indicare
+a successore, associandolo nella suprema autorità? Tacito ci racconta
+che non volendo Tiberio e Livia uscire in Roma dopo la morte di
+Germanico «Tiberio e l’Augusta tennero Antonia (la madre di Germanico),
+chiusa in casa, perchè, dato questo esempio, si vedesse che avola,
+madre e zio erano tormentati da uguale dolore.»[19] Non sarebbe stato
+più semplice e più umano supporre che restassero tutti e tre in casa
+per dolore e per rispetto del morto?
+
+Quando Tacito si è messo in mente che un suo personaggio è perverso,
+ogni cattivo pensiero gli è attribuito di autorità, senza che venga
+chiarito bene con quali informazioni lo storico sia riuscito a
+documentarsi. Così, quando egli afferma che Tiberio «Germanici mortem
+inter prospera ducebat» si fonda soltanto sul presupposto, accertato
+e riconosciuto, che Tiberio sia uno scellerato e che, quindi, gode
+in segreto di quanto è dolore per gli altri. Quando Tiberio ebbe il
+governo della repubblica «aggiunse Messala Valerio che si rinnovasse
+ogni anno il giuramento di fedeltà a Tiberio, dal quale interrogato
+se avesse proposto ciò per ordine suo, rispose che aveva parlato
+spontaneamente e che negli affari riguardanti la repubblica egli
+si sarebbe consigliato solo con la sua coscienza, anche correndo il
+pericolo di dispiacere al principe»[20].
+
+La domanda di Tiberio può spiegarsi come una precauzione abbastanza
+semplice e come un riguardo ragionevole usato al Senato. Nè c’è
+serio motivo di dubitare che la risposta di Messala fosse vera.
+Ma Tacito vede subito nero e sentenzia: «Mancava soltanto questo
+genere di adulazione!» Che contrasto, fra il pessimismo sarcastico,
+amaro, violento di Tacito, e la serenità grave e composta di Tito
+Livio! Modesto non per finta, serio e sincero, dominato da alcuni
+pregiudizi che non cerca nemmeno di sradicare, Livio è corrucciato
+bonariamente con i suoi tempi, e se ne tiene lontano, senza esagerare
+nel suo sdegno. A furia di viver sognando con quei mitici eroi e
+quei generali favolosi, egli riesce a sopportare con tanta dolcezza
+il male del mondo, che non sa più immaginare un carattere doppio o
+un’anima ipocrita, crede per davvero ai discorsi de’ suoi oratori,
+senza mai permettersi un sorriso ironico, e ha troppa coscienza della
+sua responsabilità per attribuire, senza scorta di documenti sicuri,
+qualche pensiero ad un suo personaggio. Tacito invece non riesce a
+immaginare una condotta lineare, e un’anima sincera; i suoi personaggi
+procedono sempre per vie tortuose, spinti da passioni recondite o da
+pensieri segreti, che Tacito conosce a fondo come se fosse il loro
+intimo confidente. A questo modo scopre spesso doppiezze ed ambiguità
+dove c’è una tranquilla franchezza. Ma egli adopra a dimostrar certe
+tesi una divertentissima abilità, interpretando con sottigliezza greca
+i documenti, mettendo in luce quelli che gli sono utili e nascondendo i
+contradditori, tal quale un avvocato.
+
+È così riuscito ad imporre ai posteri le figure di Tiberio, di
+Claudio, di Agrippina, per il loro straordinario risalto, ma le ha
+falsificate una dopo l’altra secondo lo stesso preconcetto. Tiberio è
+il tipo che incarna meglio quello strano ideale letterario, perchè,
+essendo la doppiezza in persona, è ricchissimo di sfumature, di
+contrasti, di dubbi, di raffinate perversità, di morbose inquietudini,
+cosicchè in qualunque sua azione si possono ritrovare doppi motivi.
+Con dei «si credette»... e dei «si pensò»... Tacito fa passare delle
+gravi malignità. Ma se si legge attentamente il suo testo, è facile
+accorgersi che Tiberio può cambiare fisionomia con facilità, poichè
+tutte le azioni ambigue sono mutate in perfide e qualunque opera buona
+è messa in conto all’ipocrisia. Ora, secondo Tacito, per nove anni
+di seguito Tiberio sarebbe stato assiduamente ipocrita; ossia avrebbe
+compiuto buone azioni, pur con ripugnanza. Per provare che queste opere
+buone erano fatte ipocritamente e con ripugnanza, Tacito non ci offre
+che la propria certezza, e la penetrazione con cui lesse nei pensieri
+segreti del principe. In verità Tiberio, come tutte le altre figure,
+è un personaggio fantastico, inventato e dipinto dall’odio, combinando
+insieme molte deduzioni sottili, ingegnose, ma arbitrarie.
+
+Si spiega così come questo giustiziere, che vuole narrare e giudicare
+sui documenti, sia così spesso irresoluto e diffidente. Talvolta gli
+accade di non sapersi decidere tra due notizie contradditorie ma
+ambedue serie, onde sente il dovere di citare tutte le fonti, che
+si contraddicono, lasciando la scelta al lettore. Invece, quando
+si imbatte in voci udite durante la giovinezza, che suonino accusa
+contro i principi e che lusinghino la sua sospettosità, non resiste
+mai, nonostante le sue dichiarazioni d’imparzialità, alla tentazione
+di riferirle, dando loro il primo posto fra l’autorità della storia.
+«Io stimo indegno della gravità di quest’opera l’andare dietro alle
+favole per stuzzicare i lettori, ma non oso nemmeno sfatare ciò che è
+stato divulgato e scritto»[21]. Ciò che egli non osa sfatare sono quasi
+sempre certe calunnie, che giravano per Roma divulgate da anonimi in
+storie scandalose, di cui il pubblico naturalmente era ghiottissimo,
+tanto è vero che Tacito prega «coloro che leggeranno quest’opera
+a non anteporre quelle divulgatissime ed inverosimili storielle
+così avidamente ricercate, alle storie vere — «neque in miraculum
+corruptis»[22]. Nè Tacito riferisce soltanto queste storielle, che
+avrebbe dovuto respingere sdegnosamente; ma pure avvertendo di non dar
+loro gran peso, le racconta in modo che paiono vere, cosicchè spesso è
+riuscito ad accreditarle come storiche.
+
+Molte delle favole che si ripetono anche oggi sul conto dei
+Giulio-Claudi come verità storiche, ci sono state riferite da
+Tacito come dicerie dubbie, come malignità velate, come sarcasmi in
+sordina, come supposizioni, raccolte perchè le ritrovava spesso sulla
+bocca della gente, ed esposte con un tono pacato, che più ancora
+dell’imparzialità, affetta l’indifferenza.
+
+Ma quale è dunque la segreta ragione di questa potenza suggestiva?
+L’aver scritto una storia, i cui protagonisti sono degli uomini, e
+l’aver saputo descrivere questi protagonisti con la forza drammatica
+che un odio potente può suscitare in un grande scrittore di
+temperamento, oggi si direbbe, romantico.
+
+Noi abbiamo visto che in Tito Livio il vero protagonista è il popolo,
+personaggio pieno di vita, ma anonimo e collettivo, immenso e semplice.
+Tutti gli altri personaggi si uguagliano in alcuni gruppi, confondendo
+le loro linee personali in un’uniformità generica. Tacito invece,
+sulle rovine del popolo, morto come personaggio simbolico, costruisce
+gigantesche e isolate figure di uomini, con tanto ardore, che quando i
+documenti si ostinano a non rivelargli l’elemento che gli ci vuole, lo
+inventa. In altre parole Tacito è un poeta tragico, che ha scritto in
+prosa delle storie, le quali appartengono di pieno diritto alla grande
+letteratura dell’immaginazione.
+
+
+
+
+V.
+
+SVETONIO.
+
+
+Per capir bene la svolta a cui arriva, dopo Tacito, la storiografia,
+sarà bene che ci rifacciamo un momento da capo.
+
+Gli annalisti arcaici, che non pensarono all’arte, intesero la storia
+come uno dei loro tanti doveri civili. Poi, con Sallustio e Livio,
+il fine artistico si mescola a quello morale e politico; ma siccome
+nella vita dell’uomo si considerava solo la parte sociale e pubblica,
+trascurando la privata e vera del tutto, anche la psicologia e la
+morale si occupano di lui in quanto è cittadino romano, e perciò sono
+generiche e un po’ esteriori. Ma poi a poco a poco l’uomo prevale
+anche nella storiografia romana sul cittadino, ed ai tempi di Tacito
+si osservano già due correnti. Una, quella impersonata da Tacito,
+il quale, pur conservando la nobiltà di intendimenti, e la dignità
+stilistica degli antichi, ha già una tesi particolare da dimostrare,
+una verità da gridare; e per arrivare ai suoi fini, abbandonando la
+tradizione della psicologia e della morale _civile_, basa la sua storia
+sulla psicologia e la morale _personale_; — e ridando all’uomo come
+uomo una grande importanza ne toglie molto all’uomo come cittadino.
+L’altra è quella di cui egli stesso si lagna, che si può considerare
+come l’estrema esagerazione della storia personale: la storia
+aneddotica, scritta specialmente per divertire, e questa fa capo a
+Svetonio.
+
+Svetonio era un uomo di mondo che leggeva molto, osservava molto,
+conosceva tutte le persone intelligenti della capitale, e che, essendo
+stato segretario di Adriano — l’imperatore intellettuale ed esteta —
+ebbe la fortuna di poter leggere dei documenti ignoti a tutti e seppe
+sfruttarli con intelligenza. La sua vita dei Cesari è l’opera più
+famosa giunta a noi di questo genere nuovo. Svetonio non dispone gli
+avvenimenti nell’ordine cronologico, secondo i canoni prestabiliti;
+non conosce retorica, non si abbandona a concezioni politiche e
+considerazioni generali, nè pretende mai di far lezione. Invece,
+nella sua storia abbondano gli aneddoti, raccontati con semplicità,
+senza preoccupazioni di fare effetto o di disegnare grandi quadri; i
+documenti originali, specialmente le lettere, quando possono illuminare
+un personaggio; le facezie e le spiritosaggini che la leggenda gli
+mette in bocca e quelle inventate su di lui. Sono enumerati i monumenti
+che il personaggio ha costruiti o riparati, i giochi che ha dati al
+popolo; e non sono dimenticati mai nè i segni che annunziarono la sua
+morte nè i connotati fisici. C’è sempre un ritratto dell’imperatore
+dove dall’altezza della statua al colore degli occhi non è saltato un
+particolare. Svetonio ci confida senza scrupoli che Cesare rialzava
+i capelli sulla testa per nascondere la sua calvizia; che Claudio
+sbavava e dondolava il capo parlando; che Domiziano, bello da giovane,
+era in vecchiaia afflitto da un ventre enorme, con due gambe magre
+e tremanti. La morale civica non ha più importanza rispetto a quella
+privata. Anzi lo stesso scopo morale si perde, per lasciar posto alla
+curiosità, all’interesse, alla novità; cosicchè Tacito è l’ultimo
+grande storico classico e il primo della nuova corrente anticlassica:
+altro segno a cui si riconosce l’epoca di transizione. Dopo Svetonio
+tutti gli infiniti storici che fiorirono hanno seguito più o meno il
+metodo svetoniano. La corruzione era penetrata nelle midolla della
+storiografia, e la malattia non tardò a venire.
+
+Eppure, se pensiamo alle centinaia di storici dei quali ci è stato
+tramandato il nome, alla scarsezza di quelli che sono giunti a noi
+anche con l’opera, e alle lacune dei testi conservati, rispetto al
+numero di quelli iscritti, non possiamo non essere profondamente
+meravigliati.
+
+Perchè della storiografia, che è forse il genere letterario più
+fecondo della latinità, ci sono rimasti così scarsi frammenti? Chi è
+responsabile di questa immensa distruzione?
+
+
+
+
+LA DISTRUZIONE
+
+
+
+
+I.
+
+L’IMPERO ROMANO E LA SUA STORIA.
+
+
+Fra tutti questi frammenti, le Deche di Livio che formano ancora il
+frammento più lungo, ci offrono, sui 140 scritti, appena 35 libri.
+Il fatto è singolare, perchè l’impero Romano, più o meno forte e
+rispettato, come principio di autorità, se non come governo attivo,
+continuò con un filo ininterrotto di imperatori legalmente consacrati
+ed eletti, ora soltanto in Oriente o in Occidente, ora in Oriente ed
+in Occidente, sino al 1806. Di solito, quando un regime continua a
+vivere anche solo di nome, non si spegne la curiosità di conoscerne
+le origini e di studiarne la storia: la storia appunto che, anche nei
+tempi barbari, è la più spontanea espressione di una società, perchè
+tutti gli uomini desiderano di tramandare ai posteri le loro opere,
+e di conoscere quelle degli antenati; che è anche la più resistente,
+perchè è legata dall’interesse al regime costituito in modo che storia
+e regime si sostengono a vicenda. Eppure quell’immenso magazzino di
+documenti e di pensiero che era la letteratura storica latina, andò
+distrutto: perchè? Perchè, se alcuni vollero ancora conoscere nella
+statica determinatezza delle cose passate e giudicare certi avvenimenti
+memorabili, quasi nessuno più si curò a cominciare dal quarto secolo
+dell’era volgare di capire quale era stata l’anima di quei secoli e
+di quelle storie, e questa a poco a poco si spense nell’indifferenza
+universale?
+
+La distruzione della storiografia antica è uno dei tanti effetti
+della rivoluzione cristiana. Come avvenne, è quello che cercheremo di
+chiarire.
+
+
+
+
+II.
+
+L’AURORA DELLA MORALE UMANA.
+
+
+La morale romana fu sempre una morale civica. L’uomo non contava e non
+valeva, se non in quanto partecipava alla vita pubblica; le sue virtù
+personali eran tenute in conto, soltanto se servivano alla comunità.
+Anche certi vizi, quando riuscivano utili alla repubblica, venivan
+senz’altro lodati come virtù.
+
+Il Cristianesimo, invece, sostituì alla morale civica la morale
+personale, in modo che il cristiano rendeva direttamente conto delle
+sue azioni a Dio, e, come cittadino del mondo, non si curava di chi
+governasse il suo corpo, non preferiva questo a quel paese, uno
+straniero a un compatriota. Un barbaro o uno schiavo, se buoni e
+virtuosi cristiani, valevano ai suoi occhi assai più di un romano o di
+un senatore, viziosi ed increduli. La giustizia e la reputazione degli
+uomini lo lasciavano indifferente. Tutte le guerre spargevano il caro
+sangue di uomini a lui uguali.
+
+E allora, veniva fatto di concludere, perchè combattere, se bisogna
+amare i nemici come sè stessi, e tendere la guancia sinistra a chi ci
+percuote sulla destra?
+
+Se tutte le virtù civiche fortificavano il regno terrestre, a che
+servivano per le glorie di quello divino? Perchè ammirare il coraggio,
+quando non serviva che ad uccidere e a farsi uccidere, come gladiatori,
+per un padrone inutile? Perchè conquistare il mondo e imporgli le
+proprie leggi, se soltanto contavano quelle di Dio, alle quali si
+deve obbedire non per forza ma per amore? Perchè accumular denari
+arricchendo nello stesso tempo lo Stato con la privata avarizia,
+se tanto le vere ricchezze stanno nel proprio cuore o nei cieli; se
+inutile è pensare al domani, poichè Dio provvederà ai nostri bisogni,
+come dà cibo e vesti agli uccelli del cielo? Perchè migliorare la
+propria condizione e render sicuro lo Stato, se nella sofferenza sta
+la vera gioia, e nel patire l’ingiustizia altrui, si prova l’infinito
+godimento di sentirsi migliore?
+
+Esagererebbe chi attribuisse al Cristianesimo soltanto tutto questo
+capovolgimento della antica morale. Già in seno al paganesimo le grandi
+filosofie universalistiche, come lo stoicismo, avevano incominciato
+ad opporre la morale umana alla morale civica. Seneca era arrivato
+ad affermare «homo res sacra homini» immaginando una città universale
+ove tutti potessero abitare — amici e nemici, padroni e servi, patrizi
+e plebei — senza distinzione di nazionalità, di classe e di diritti
+politici. Nella stessa storiografia noi abbiamo veduto a Livio, per
+il quale il grande cittadino è l’uomo perfetto, succedere Tacito,
+che pur essendo tenacemente tradizionalista, giudica gli imperatori
+ed i grandi secondo un criterio di morale personale, ossia alla
+stregua della loro virtù e dei loro vizi privati. Ma nella filosofia
+e nelle storie pagane la nuova morale non si contrappone all’antica:
+si sovrappone a lei come una conciliazione, un perfezionamento, un
+addolcimento; il cristianesimo invece tronca ogni transazione, spinge
+alle ultime conseguenze il principio che importa soltanto l’adempimento
+dei doveri verso Dio, dinnanzi a cui tutti gli uomini sono uguali. Ma
+così facendo, il cristianesimo compiva una rivoluzione immensa, per cui
+la storia di Roma, oggetto fino allora di tanta venerazione, diventava
+un’orribile e incomprensibile anarchia.
+
+
+
+
+III.
+
+S. AGOSTINO, LA REPUBBLICA E IL POPOLO ROMANO.
+
+
+In nessuno scrittore questo rivolgimento, per ciò che si attiene alla
+storia della Chiesa, appare così chiaro come in S. Agostino, il quale,
+nel _De Civitate Dei_, paragonando appunto la città umana e quella
+divina, il Paganesimo e il Cristianesimo, e riferendo, purificate dallo
+stile ed approfondite dalla rigorosa dialettica, le opinioni di tutti
+i cristiani, e forse anche di molti non cristiani, suoi contemporanei,
+altera senza volerlo tutte le manifestazioni della civiltà antica
+e riesce a renderle irriconoscibili, quando addirittura non le nega
+appieno.
+
+Si vedano, come esempio, i suoi commenti a Scipione, quando, nel
+_De Republica_ di Cicerone, il grande generale parla appunto della
+repubblica. Scipione — osserva S. Agostino — «definisce concisamente
+la repubblica come _la cosa del popolo_. Se questa definizione è vera,
+la repubblica romana non esistette mai, perchè non fu mai cosa del
+popolo. Scipione, infatti, afferma che il popolo è una moltitudine di
+persone unite da interessi comuni e da un diritto accettato da tutti.
+Spiega poi nella discussione ciò che intende per diritto, accettato da
+tutti, dimostrando come senza giustizia non possa esistere repubblica,
+poichè dove non c’è giustizia vera non può esserci diritto... Perciò
+dove non c’è la vera giustizia non può neanche esserci una società di
+uomini, riuniti dal diritto, e neanche popolo, secondo la definizione
+di Cicerone e di Scipione; e se non c’è popolo non c’è nemmeno la cosa
+del popolo, ma la cosa di una folla qualunque che non è degna del nome
+di popolo. Ora, se la repubblica è la cosa del popolo, dove non c’è
+giustizia non c’è repubblica. Infatti la giustizia è la virtù che dà ad
+ognuno il suo. E si può chiamare giustizia quella che toglie l’uomo al
+vero Dio e lo affida ai demoni immondi? Questo è forse dare a ciascuno
+il suo?[23]. Insomma, così conclude a proposito della Repubblica, come
+è descritta in Sallustio, la repubblica romana non è stata mai che
+un’apparenza: «Omnino nulla erat»[24]. E se non esiste la repubblica
+non esiste neppure il popolo romano, quel glorioso popolo romano,
+innalzato da Livio a protagonista della sua storia, deità mitologica
+soprannaturale, superiore alla censura dei singoli cittadini, i quali
+sparivano in lui. Secondo S. Agostino invece, uno Stato non è che una
+somma di singoli uomini, pei quali il solo problema serio è la salute
+dell’anima. «Cum moltitudo constet ex singulis.... Neque enim aliunde
+beata civitas, aliunde homo: cum aliud civitas non sit, quam concors
+hominum multitudo»[25].
+
+Così Livio o Sallustio direbbero: sono morti molti soldati, è vero; ma
+Roma è riuscita a soggiogare il mondo; e che importano questi sacrifici
+umani, quando è stata compita un’opera senza pari? S. Agostino ribatte:
+«Una città potente e vittoriosa ha dato ai vinti, non solo le sue
+leggi, ma anche la sua lingua, per la pace dell’umanità... È vero; ma
+quante guerre ha dovuto scatenare per questa pace; e quanta strage di
+uomini ed effusione di sangue spargere sulla terra!»[26].
+
+
+
+
+IV.
+
+S. AGOSTINO E LA CORRUZIONE DEI COSTUMI.
+
+
+Anche S. Agostino parla a lungo della corruzione dei costumi romani, e
+in modo che ricorda il tono di Sallustio e di Tito Livio.
+
+«In che tempo la passione di dominare si sarebbe spenta in quei cuori
+superbi, se essa non fosse arrivata, di onore in onore, alla potenza
+reale? Poichè non sarebbe stato possibile continuare a crescer di
+onori, se non fosse prevalsa l’ambizione, e l’ambizione non poteva
+prevalere che in un popolo corrotto dall’avidità e dal lusso. Poichè
+l’avidità e il lusso di un popolo sono il frutto della prosperità; la
+quale con molta prudenza Scipione Nasica stimava essere pericolosa,
+quando non voleva distruggere la più grande, la più forte, la più ricca
+città nemica di Roma»[27].
+
+«_O mentes amentes!_ Non siete più stolti, ma ammattiti, siete,
+voi che cercate i teatri, li affollate, li riempite, e fate mille
+pazzie, mentre l’Oriente piange la vostra rovina, e le più grandi
+città sono nel lutto e nell’afflizione per voi, sino alle estreme
+lontananze del mondo!... Ebbero più forza sui vostri animi le seduzioni
+degli empi demoni, che gli ammaestramenti dei saggi. Per questo non
+volete imputare a voi stessi i mali che fate; e quelli che soffrite
+li imputate ai cristiani. Poichè nei tempi sicuri non volete la
+tranquillità dello Stato, ma l’impunità del piacere; e siete stati
+depravati nella prosperità; nè avete saputo correggervi nella sfortuna.
+Scipione voleva che foste atterriti dal nemico, perchè non foste vinti
+dalla lussuria, e voi pure essendo abbattuti dal nemico non l’avete
+repressa; avete perduto il frutto della calamità, e siete diventati i
+più infelici, restando i più cattivi di tutti i mortali»[28].
+
+Anche qui, come negli storici latini, si attribuisce la rovina
+dell’impero alla corruzione dei costumi. E su questo punto S. Agostino
+e gli storici sembrano d’accordo. Ma è facile, addentrandosi nel
+pensiero dell’uno e degli altri, accorgersi che l’accordo è apparente.
+La rovina dell’impero lascia S. Agostino indifferente; ciò che lo
+inquieta è la corruzione dei sudditi; egli è sdegnato perchè la rovina
+di Roma non ha corretto i romani, ed anche quest’ultimo ammaestramento
+è rimasto inutile; ma ha l’aria di dire che, se la catastrofe generale
+avesse migliorato i Romani, questa catastrofe sarebbe stata da lui
+benedetta come una grazia del Signore. In certi passi, infatti, S.
+Agostino sembra lodare piuttosto i tempi della decadenza che quelli
+della gloria, perchè gli sembra che gli uomini siano divenuti un poco
+migliori. Questo ad esempio: «Roma, fondata e accresciuta dalle fatiche
+degli antenati, fu più sozza nella sua potenza che nella sua rovina,
+poichè nella rovina caddero pietre e travi, ma nella corruzione dei
+romani caddero i sostegni e le bellezze non dei muri ma dei costumi,
+quando i loro cuori arsero di passioni più funeste delle fiamme che
+bruciarono i tetti della città»[29].
+
+Sallustio, invece si spaventa perchè «in Roma si cominciarono ad
+onorare troppo le ricchezze, e poi la gloria e poi la potenza: e
+allora cominciò a mancare ed a impigrire la virtù e si disprezzò come
+vergognosa la povertà e l’innocenza. E così la gioventù romana cadde
+per le ricchezze nel lusso e nell’avarizia; cominciò ad arraffare e
+consumare e disprezzare le proprie cose e desiderare quelle altrui».
+Ma lo storico teme, perchè tutti quei vizi enumerati sono dannosi
+alla repubblica, perchè con l’ambizione e l’arrivismo i migliori
+rimangono soffocati, con lo spreco si consuma il capitale romano, con
+le ricchezze è importato l’ozio, con la lussuria la debolezza, con la
+cupidigia lo sconvolgimento tumultuoso dell’ordine e della pace.
+
+Con questa opposta concezione della vita e della storia, gli stessi
+avvenimenti assumono un aspetto diverso e le stesse opere sembrano
+eroiche e scellerate, buone e cattive, ispirate da Dio e dal demonio.
+Ecco, ad esempio, come S. Agostino giudica il ratto delle Sabine.
+
+«Per questa naturale tendenza alla giustizia e alla bontà, credo, si
+rapirono le Sabine. Non è forse segno della massima giustizia e bontà
+insidiare con la frode a teatro le figlie degli altri, per prenderle,
+non col consenso dei genitori ma con la forza, e come a ciascuno
+capita? Poichè se i Sabini fecero male a rifiutare le figlie domandate,
+quanto peggio non fecero i Romani a rapirle? Sarebbe stato più giusto
+portare la guerra a quel popolo quando rifiutò di dare le sue figlie in
+matrimonio ai suoi vicini, piuttosto che quando venne a riconquistare
+le donne rapite»[30]. «E vinsero i Romani per potere estorcere funesti
+abbracci dalle figlie, con le mani ancora sanguinose della strage dei
+padri. E le figlie non osarono piangere i padri uccisi, per timore di
+offendere i mariti; e mentre quelli combattevano esse non sapevano per
+chi invocare vittoria»[31].
+
+Livio invece descrive in questo modo il Ratto delle Sabine.
+
+«La Repubblica Romana era già così forte che poteva essere uguale in
+guerra a qualunque delle città vicine; ma per la mancanza di donne,
+quella grandezza avrebbe solo durato l’età d’un uomo, non essendoci
+speranza di prole futura in patria, nè di matrimoni coi vicini»[32].
+Perchè Roma potesse seguire la via gloriosa tracciata negli astri,
+Romolo risolse, dopo il rifiuto, di violare per una volta la legge,
+obbedendo quasi, come Loth, a un comando divino. E spiegò poi «che ciò
+si era fatto per la superbia dei padri, che avevano negato i connubi
+ai loro vicini; ma che quelle tuttavia sarebbero legittime spose nel
+matrimonio e nella comunità di tutte le fortune di Roma e dei figli,
+dei quali non vi è per gli uomini cosa più cara. Perciò calmassero
+l’ira e concedessero gli animi a coloro ai quali la fortuna aveva dato
+i corpi»[33].
+
+E dopo aver vinto i Ceninensi, i Crustumini e gli Antennati che
+volevano vendicare l’ingiuria, Romolo portò sopra una barella
+le spoglie del duce nemico, le appese ad una quercia sacra sul
+Campidoglio, e consacrò un tempio a Giove Feretrio con queste parole:
+
+«O Giove Feretrio, io, Romolo, re vincitore, ti offro queste armi
+reali, e ti consacro il tempio che ora ho fondato in questa terra,
+perchè nel tempio siano deposte le prime spoglie che i posteri,
+seguendo i miei esempi, toglieranno ai re uccisi in battaglia»[34].
+
+Per S. Agostino il ratto delle Sabine non è che una violazione della
+morale. Per Livio è il momento sacro e solenne da cui comincia la
+storia di Roma, è l’esecuzione di un ordine venuto dagli dèi, è
+l’adempimento di una delle tante imprese predestinate, che dovevano
+riuscire felicemente, perchè Roma diventasse la dominatrice del mondo.
+
+E questi due contrari punti di vista si ritrovano quando S. Agostino
+parla del combattimento fra Orazi e Curiazi, e dice di Virginia
+«humanior huius unius feminae, quam universi popoli Romani, mihi fuisse
+videtur affectus»[35]. Egli non si lascia esaltare dagli argomenti
+inebrianti degli scrittori latini.
+
+«A che mi si obbiettano qui il nome della gloria, il nome della
+vittoria? Messi da parte gli intralci di una folle opinione, guardiamo,
+pesiamo, giudichiamo a nudo i delitti. E che si dica il conflitto di
+Alba come si dice l’adulterio di Troia. Non si troverà mai niente di
+uguale, niente di peggio. Tullo vuol solamente «levare in armi gli
+uomini impigriti, e le schiere ormai disavvezze ai trionfi». Per questo
+vizio, è stato dunque perpetrato il delitto di una guerra fra alleati e
+parenti!»[36].
+
+
+
+
+V.
+
+S. AGOSTINO, I GRANDI UOMINI E LA STORIA DI ROMA.
+
+
+I Cristiani non potevano neppure ammettere che i grandi uomini romani
+discendessero da antenati di origine divina, mentre l’inventare ed il
+magnificare questa origine ultra umana appariva come uno dei compiti
+fondamentali della storiografia, sin dai primi anni, quando i rozzi
+cronachisti cercavano di dimostrare, con le loro prose scabrose, che il
+popolo romano era il più grande dei popoli.
+
+Ricordate il proemio di Livio?
+
+«Si concede come licenza, all’antichità, che mescolando le cose umane
+con le divine, faccia i principî della città più sacri e venerabili.
+E quando si conceda ad alcun popolo il diritto di consacrare le
+sue origini e di attribuirle agli Dei, tanta è la gloria del popolo
+Romano nel fare la guerra, che se egli proclama specialmente Marte suo
+genitore ed edificatore, le genti umane devono sopportare anche questo,
+così serenamente come sopportano l’imperio di Roma.»
+
+Ma S. Agostino non sopporta «aequo animo» questa ambizione e si
+scandalizza quando Varrone «pretende essere utile agli stati, che i
+grandi uomini, anche se è falso, si credano discendenti degli Dei,
+perchè in questo modo l’animo umano «_velut divinae stirpis fiduciam
+gerens_» con più coraggio imprende grandi fatti, opera con più
+veemenza, e appunto per quella sua creduta sicurezza riesce con maggior
+fortuna».
+
+Ma c’è di più. Siccome molti, nello sconvolgimento del quarto e del
+quinto secolo, facevano specialmente responsabili i principî cristiani
+della disgregazione generale[37], Sant’Agostino, per dimostrare che
+in verità si era sempre stati malissimo, non esita a fare un quadro
+terrificante della storia di Roma, in cui si passa da un omicidio a una
+strage, a una rivoluzione, a una carestia, ad una guerra disastrosa,
+ad un incendio funesto. Quelli che negli storici antichi sono i grandi
+secoli di Roma diventano un’età maledetta, donde il cristiano torce lo
+sguardo inorridito.
+
+Non si capisce più come i Romani siano riusciti ad attraversare quelle
+età così calamitose, senza essere tutti distrutti. Lo Stato, oggetto
+per i Romani e per i grandi storiografi di una venerazione religiosa,
+diventa per S. Agostino uno scandalo che fa rabbrividire i secoli.
+
+«Ma i cultori e gli adoratori di quei numi, dei quali amano imitare i
+delitti e i vizi, non cercano affatto di rendere la repubblica meno
+sozza e vergognosa. Basta che viva, dicono, basta che fiorisca per
+la forza dell’armi, e per la gloria delle vittorie, oppure — e questo
+è ancora meglio — che sia sicura per la pace. Che cosa c’importa del
+resto? O piuttosto c’importa sopratutto che ciascuno aumenti sempre
+le sue ricchezze, perchè nutrano le quotidiane larghezze, con cui i
+potenti si assoggettano i più deboli; che i poveri adulino i ricchi,
+per poter mangiare, e che i ricchi, perchè i poveri godano sotto il
+loro patrocinio di un ozio tranquillo, abusino dei poveri, facendoli
+clienti e ministri del loro lusso; che i popoli applaudiscano, non
+a coloro che provvedono al loro vero bene, ma ai dispensatori di
+voluttà; che non sia comandato niente di duro, e non sia proibito
+niente di impuro; che le leggi impediscano piuttosto di danneggiare
+le vigne di un altro che di rovinare la propria vita; che uno sia
+condotto dinanzi ai giudici solo se ha attentato alle sostanze, alla
+casa, o alla esistenza di un uomo; ma che per il resto ciascuno faccia
+quello che voglia, dei suoi, o con chiunque si presti; che abbondino
+le prostitute, per tutti quelli che vorranno goderne, ma specialmente
+per quelli che non ne possono avere di private; che si costruiscano
+grandiosi e ornatissimi palazzi, che i conviti seguano i conviti; e
+come ciascuno può e vuole, di giorno e di notte si giochi, si beva,
+si vomiti e si fornichi; che risuonino d’ogni parte le musiche delle
+danze; ed echeggino per i teatri i clamori di una gioia disonesta
+e si esalti il pubblico a ogni genere di crudelissime o turpissime
+voluttà... Chi, domando, se non pazzo, può chiamare questo stato
+l’impero romano e non la casa di Sardanapalo?»[38].
+
+Questa critica demolisce ad uno ad uno, con una dialettica implacabile,
+tutti i miti e i racconti leggendarî, adoprati dagli storici per
+esaltare nei romani l’ammirazione delle virtù civiche. Un esempio
+curioso è quello di Lucrezia, la quale, per essersi uccisa dopo il
+forzato adulterio, volendo provare a tutti che non vi aveva partecipato
+segretamente, simboleggia, agli occhi dei romani, la donna esemplare,
+per la quale l’onore vale più della vita. S. Agostino invece non
+riconosce il sacrificio di Lucrezia e ragiona a lungo, per dimostrare
+che Lucrezia ha avuto torto in ogni maniera. Egli dice: se Lucrezia è
+stata sempre pura di intenzioni ed ha veramente subita la violenza di
+Sestio, perchè allora la celebre Lucrezia ha ucciso questa casta ed
+innocente Lucrezia, e l’ha castigata ingiustamente della cattiveria
+altrui? E come mai Sestio, che ha subito soltanto l’esilio, è stato
+punito meno della sua vittima? Dove è allora la giustizia, se la
+castità è punita più che il vizio? Ma se Lucrezia ha invece partecipato
+segretamente all’adulterio e si è voluta punire della sua colpa, perchè
+gli storici romani la glorificano come la più virtuosa delle donne?
+Di qui non si scappa: se non è un’omicida, è un’adultera; se non è
+un’adultera, è un’omicida; nè si può sciogliere questo dilemma: se è
+un’adultera perchè lodarla? Se è casta perchè quella morte?[39]. Ora
+S. Agostino trova la probabile ragione del suicidio di Lucrezia, ma
+la biasima, invece di ammirarla come gli antichi. «Ha avuto vergogna
+della violenza altrui commessa su di lei, anche se contro la sua
+volontà; e romana troppo avida di gloria, ha temuto che continuando
+ella a vivere si sospettasse la sua complicità nella violenza che essa
+aveva in vita subita. Ella volle infliggersi la morte, per testimoniare
+delle sue buone intenzioni agli occhi degli uomini, che non potevano
+leggere nella sua coscienza... Non fecero così le donne cristiane,
+le quali vivono, pure avendo sofferto simile violenza. Ma non hanno
+vendicato su di loro i delitti altrui, e non hanno aggiunto l’omicidio
+all’adulterio, e non si sono uccise, arrossendo di sè stesse, perchè i
+nemici, desiderandole, le hanno stuprate. Ma per le donne cristiane la
+gloria della castità è la testimonianza della loro coscienza dinnanzi a
+sè e dinnanzi a Dio; e non domandano di più. Infatti anche se agiscono
+rettamente non ottengono di più perchè non possono allontanarsi dalla
+autorità della legge divina, malamente evitando l’offesa dell’umano
+sospetto»[40].
+
+Ma S. Agostino appare più radicalmente sovvertitore, quando dà col
+piccone proprio sulla pietra angolare di tutta la creazione pagana
+della storia: la ragione della grandezza di Roma. Perchè Roma aveva
+potuto fondare quel vastissimo e fortissimo impero? Rispondeva la
+coscienza pagana: perchè così avevano voluto gli Dei, che avevano
+protetto i Romani, in considerazione delle loro virtù religiose e
+civiche. La storia di Livio è così viva, perchè è tutta animata da
+questa persuasione. Ma S. Agostino entra nell’Olimpo, dove avrebbero
+dovuto risiedere gli autori soprannaturali della grandezza di Roma, e
+ne fa una strage. Egli incomincia a domandare: quali sono gli Dei che
+hanno prodotto la grandezza di Roma?
+
+Certo, risponde, i Romani non oseranno attribuire anche la più piccola
+particella di un’opera così gloriosa e così grande «alla Dea Cloacina
+o alla Dea Volupia, che così è chiamata dalla voluttà, o a Lubentina
+dalla libidine, o a Vaticano, che presiede ai vagiti dei bambini; o a
+Cunina che veglia sulle loro cune»[41].
+
+E qui si domanda perchè i Romani abbiano inventato un tale numero di
+Dei, ciascuno con le sue funzioni particolari e con la proibizione di
+invadere il campo degli altri. «Non è bastato — egli osserva — affidare
+a un solo Dio la cura delle campagne, ma si son dati la pianura ed
+i campi alla Dea Rusina, i gioghi dei monti al Dio Jugatino, i colli
+alla Dea Collatina e le valli a Vallonia. E non hanno neanche trovato
+una Dea abbastanza vigilante per poter affidare a lei sola le difese
+delle messi. Ma alla semenza del grano, quando è ancora sotto terra,
+hanno preposto la Dea Seja, ed al grano quando spiga la Dea Segezia, ed
+al grano raccolto e riparato, perchè lo difendesse, la Dea Tutilina.
+Perchè non parve loro che Segezia bastasse, dagli erbosi inizi alle
+aride reste?»[42].
+
+Nota poi come la stessa pianta di grano è affidata alle cure di
+Proserpina, del Dio Nodato, della Dea Volutina, delle Dee Patelana,
+Ostilina, Flora, del Dio Lacturno, della Dea Matuta e della Dea
+Runcina, quando, finalmente, è tagliata. Ora, dice S. Agostino, a chi
+si deve attribuire la grandezza dell’impero romano, se Roma è stata
+difesa e sostenuta da una quantità di piccoli Dei talmente attaccati a
+un ufficio particolare, che sarebbe stato molto imprudente affidar loro
+un compito di ordine generale?
+
+Allora — egli nota, passando agli Dei maggiori — supponiamo che il
+merito dell’impero risalga a Giove. «Jovis omnia plena» dicono i
+latini; ma come mai allora è assegnata l’aria inferiore a Giunone
+e l’etere a Giove? Tutto non è dunque pieno di Giove? Oppure essi
+riempiono l’aria e l’etere, e stanno insieme in ciascuno dei due
+elementi? Ma allora perchè dare l’aria a Giunone e l’etere a Giove?
+E dopo aver dimostrato negli altri grandi Dei tutti i garbugli, che
+nascono da queste prime definizioni contradittorie, egli si chiede:
+«Ma se invece, come dicono i filosofi, non ci fosse che un Dio solo, il
+quale si impersona nei diversi Dei secondo le necessità ed i momenti?
+O allora non sarebbe stato più semplice e prudente adorare un solo Dio?
+Che parte di lui si disprezzerebbe, venerando Giove stesso?»
+
+E se si teme che si possano adirare quelle parti del Dio che non sono
+venerate, o sono dimenticate, non è più vero che egli sia l’anima del
+mondo, lo spirito di tutti gli Dei, la vita universale, ma ogni parte
+di lui ha la sua vita propria, indipendente dalle altre; perchè se no
+sarebbe assurdo che una parte del Dio fosse offesa, quando, adorando il
+Dio che le comprende tutte, ogni parte è anche adorata.
+
+Perchè invece, venerando e deificando, per esempio, alcune delle
+stelle, non si teme che tutte le infinite stelle non adorate si
+vendichino di questa oltraggiosa dimenticanza? In tutto l’universo gli
+Dei non venerati ed offesi sono innumerabili, e quindi più numerosi
+degli Dei venerati.
+
+«E prima di tutto mi domando, continua S. Agostino, perchè anche
+l’Impero non è posto tra gli Dei? E perchè no, se la vittoria è una
+Dea? E che bisogno c’è più di Giove, se la Vittoria favorisce e vola
+sempre a quelli che vuole far vincere? Con questa Dea propizia, anche
+se Giove sta con le mani in mano, o ha da fare altrove, quanti popoli
+non si possono conquistare?»[43].
+
+E così, sempre impostando la vita e la morale romana su quella degli
+Dei, egli prova che tutti gli Dei sono dei burattini, o dei mascalzoni,
+o dei pazzi, o degli imbecilli. Ma ciò che più urta la sua coscienza di
+cristiano è l’impassibilità con cui gli Dei contemplano la corruzione
+dei romani, senza cercare di migliorarli.
+
+«Perchè la repubblica non perisse, i suoi Dei custodi avrebbero dovuto
+dare dei precetti, specialmente sulla vita e sui costumi, a quel popolo
+che li venerava, e da cui erano venerati con tanti templi, sacerdoti,
+sacrifici, con tante diverse funzioni sacre, con tante solennità
+festive e celebrazioni di giorni. Mentre invece i demoni pensavano
+solo al loro interesse, non curando come i Romani vivessero, cercando
+anzi che vivessero malamente, purchè, sottomessi dal timore, li
+onorassero[44].
+
+«E dove era tuttavia quella turba di numi, quando, molto prima che gli
+antichi costumi si corrompessero, Roma fu presa e bruciata dai Galli?
+Forse i numi presenti dormivano? Allora tutta l’Urbe fu occupata dal
+nemico, e rimaneva solo il colle capitolino; ed anche quello sarebbe
+stato preso, se le oche, mentre gli Dei dormivano, non avessero
+vigilato...»[45].
+
+Ma gli Dei, oltre ad essere dormiglioni e vili sono anche cattivi,
+perchè cercano di aizzare invece che di raffrenare le passioni degli
+uomini. «Quei numi che hanno aiutato Mario, uomo nuovo e non nobile,
+responsabile delle più sanguinose guerre civili, a diventare console
+sette volte e a morire vecchio, durante il settimo consolato, in modo
+che non cadesse nelle mani di Silla, futuro vincitore, perchè non lo
+hanno aiutato a non commettere tanta mole di delitti?»[46].
+
+«E quando Silla, i cui tempi furono così crudeli che si rimpiangevano
+quelli di cui volle essere il vendicatore, mosse il campo verso
+l’urbe contro Mario, le viscere delle vittime furono tanto favorevoli,
+secondo Livio, che Postumio aruspice si dichiarò pronto a subire la
+pena capitale, se Silla coll’aiuto degli Dei non avesse compiuto tutto
+quanto aveva in animo. Dunque gli Dei non avevano abbandonati i templi
+e le are, poichè predicevano gli eventi delle cose, senza darsi la pena
+di render Silla migliore!»[47].
+
+«Ma se mi rispondono che gli Dei non li aiutarono, faccio notare esser
+molto grave che essi confessino poter gli uomini godere, anche senza
+gli Dei favorevoli, di quella felicità temporale preferita fra tutte;
+e che gli uomini possano anche, come Mario, fruire della salute, della
+forza, della potenza, degli onori, della dignità e della longevità
+tutte insieme, contro il volere degli Dei; e che possano, come Regolo,
+morire poveri e schiavi, tormentati dalle veglie e dalle torture con
+la protezione degli Dei. E se i Romani ammettono questo, sono anche
+costretti a confessare che gli Dei non servono a niente e che è inutile
+venerarli»[48].
+
+Così, a poco a poco, dopo avere numerato tutti i vizi e le ridicolezze
+dei numi, come un buon avvocato che vuole screditare i testimoni
+della parte avversa, S. Agostino conclude affermando che gli Dei
+sono inutili, e che non hanno partecipato all’ingrandimento e alla
+fondazione dell’Impero. La discussione è chiusa con un dilemma
+insolvibile, a proposito della grandezza e della decadenza degli
+imperi.
+
+«Insomma, o gli Dei sono infedeli, abbandonano i loro amici e passano
+al nemico — ciò che non fece Camillo, il quale era solo un uomo,
+quando, essendo stato pagato da Roma con ingratitudine per avere
+espugnate le città ostili più pericolose, memore della patria,
+dimenticò l’ingiuria e salvò Roma una seconda volta. O questi Dei
+non sono così potenti come dovrebbero essere, poichè possono esser
+vinti dall’ingegno o dalla forza degli uomini. O gli Dei non sono
+vinti dagli uomini, ma battagliando fra loro sono vinti da altri Dei,
+che proteggono altre città: hanno dunque anche loro delle inimicizie
+reciproche, o le sollevano ciascuno per il proprio partito»[49].
+
+
+
+
+VI.
+
+LA FORTUNA DI ROMA E CRISTO.
+
+
+Ma allora da che cosa è nata, se non è nata dalla protezione degli Dei,
+la grandezza romana? Dal caso, dalla fatalità, o dal destino? No[50].
+Siamo così arrivati, con tutte le preparazioni necessarie, sulle soglie
+della conclusione cristiana. S. Agostino ci rivela subito il fine di
+quel tormentoso sillogizzare:
+
+«Vediamo ora per quali virtù dei Romani, e per quale scopo si degnò di
+aiutare l’impero ad ingrandirsi il vero Dio, nella cui potestà sono
+anche i regni della terra. Appunto per potere discutere _absolutius_
+della questione, abbiamo dimostrato nel libro precedente come, per
+questo ingrandimento, non abbiano contato nulla quegli Dei venerati con
+cerimonie così ridicole, e, al principio di questo libro, come fosse
+da eliminarsi la versione del fato, perchè qualcuno, stufo del culto
+degli Dei, non attribuisse la grandezza e la difesa dell’Impero romano
+a non so quale fato piuttosto che alle potentissime volontà del Sommo
+Dio.»[51].
+
+L’Impero romano è stato fondato ed ingrandito da Dio, perchè unificando
+il mondo sotto uguali leggi ed in un’unica lingua, preparasse la venuta
+di Cristo e rendesse possibile l’espansione della nuova religione.
+«La città di Roma fu fondata come un’altra Babilonia e come la figlia
+della prima, per mezzo della quale piacque a Dio domare l’universo e
+pacificarlo in lungo ed in largo con la comunanza del governo e delle
+leggi. Poichè c’erano allora dei popoli forti ed agguerriti che non
+cedevano facilmente e che non si potevano vincere se non con gravi
+pericoli, grandi devastazioni reciproche e orribile travaglio»[52].
+
+Questa è la dottrina cristiana dell’impero e della sua storia. Senonchè
+è facile intendere che questa dottrina spogliava Roma di tutta la
+gloria, di cui l’antica storiografia l’aveva illuminata. Roma non ha
+virtù, ma vizi, non enumera glorie, ma orrori: ha vinto nonostante
+questi orrori e questi vizi, per volere di Dio, per combattere vizi ed
+orrori più grandi. Essa è insomma il minor male dei tempi che furono
+prima della redenzione; e il cristianesimo le deve, non ammirazione,
+ma intelligente compatimento. Così S. Agostino considerò quelle virtù
+civiche, per glorificar le quali Livio aveva scritto il suo immenso
+poema, come vizi: primo di tutti l’amor della gloria, il pilone
+centrale della grandezza romana. «E questo impero potentissimo, col
+quale voleva castigare i gravi peccati di molti popoli, Dio lo affidò
+a questi uomini, i quali, per amore di onori e di lode, misero nella
+gloria della patria la propria gloria e non esitarono ad anteporre
+la salvezza della patria alla loro salvezza, vincendo il desiderio di
+denaro e molti altri vizi con un solo vizio: l’amor della gloria»[53].
+«Poichè chi è saggio capisce subito che l’amor della gloria è un
+vizio». Vizio tanto maggiore perchè i Romani «non solo non gli
+resistevano, ma cercavano anzi di eccitarlo, pensando che sarebbe
+stato utile alla repubblica»[54]. Infatti «senza dubbio è meglio
+resistere a questa passione che cedere»[55]. Invece «quella gloria, per
+amore della quale ardevano, non è altro che la buona opinione degli
+uomini sopra un uomo. È dunque migliore la virtù che non si contenta
+della testimonianza degli uomini, ma esige quella della coscienza.
+Dice infatti l’apostolo: «Nam gloria nostra haec est, testimonium
+conscientiae nostrae»[56].
+
+Perciò il sentimento vero che S. Agostino prova per i Romani delle
+grandi epoche, tanto ammirate da Sallustio, da Livio e da Tacito,
+è una specie di compassione, come per i disgraziati condannati a
+compiere un’opera necessaria ma orrenda, quasi si direbbe per i
+carnefici della storia. «Essi amarono la gloria ardentissimamente, per
+la gloria vollero vivere, e per la gloria non esitarono a morire...
+Stimando vergognoso che la propria patria fosse schiava, e glorioso che
+dominasse e comandasse, con ogni sforzo vollero prima farla libera e
+poi sovrana». «E così era fra le aspirazioni degli uomini illustri per
+coraggio, che Bellona, agitando la sua frusta sanguinante, eccitasse
+i miseri popoli alla guerra, perchè vi potesse risplendere il loro
+valore... E prima per il desiderio di libertà, poi per quello di
+dominio e di gloria compirono grandi imprese»[57].
+
+Nè è più benigno per l’altra passione figlia dell’amore della gloria:
+l’ambizione di dominare, regina delle virtù romane, quella che creò
+e difese l’impero. S. Agostino, infatti, condanna questa qualità
+del popolo romano, accusandolo di essere dominato dalla libidine di
+dominare, («ipsa ei dominandi libido dominatur»). E non cessa mai in
+tutta l’opera, ogni volta che l’occasione gli si offre, di scapitozzare
+questa colonna della civiltà romana, sentendo bene che l’ambizione,
+essendo fra tutte le virtù antiche, la più civile e la meno personale,
+contradiceva più aspramente che ogni altra tutta la morale cristiana.
+
+«Chi potrebbe dire, egli scrive, quante calamità ha suscitato pel
+genere umano questa passione di dominio? Vinta da questa passione, Roma
+godeva di aver soggiogata Alba, ed accettava sotto il nome di gloria
+la lode del suo misfatto. Perchè, è detto nella Sacra Scrittura, il
+peccatore è lodato per i suoi cattivi desideri, ed è benedetto chi
+commette l’iniquità. Ma togliamo quel belletto fallace, e questi falsi
+colori, per esaminare sinceramente le cose come stanno. Non mi vengano
+a dire: il tale è grande perchè ha combattuto con questo e quest’altro
+ed ha vinto. Combatte il gladiatore, e la sua crudeltà ha un salario
+di lode. Ma per me è meglio essere disprezzato come un vigliacco, che
+acquistar la gloria di simile coraggio»[58].
+
+Roma, certo, non avrebbe avuto bisogno di guerreggiare così lungamente,
+se tutti gli uomini fossero stati d’accordo con S. Agostino, quando
+osservava, che per il mondo era meglio assoggettarsi senza guerre
+all’impero Romano: «tanto, dice, per la nostra vita mortale,
+così breve, che importa all’uomo morituro vivere sotto questo o
+quell’impero, se non è obbligato da quelli che comandano ad azioni
+empie od inique?»[59]. Ma ha quasi l’aria di dire che i romani hanno
+rifiutato questo semplice e profittevole mezzo di conquista — la buona
+volontà dei conquistati — «perchè sarebbe mancato loro la gloria del
+trionfo!».
+
+È facile intendere come con questa dottrina della vita, tutta la
+storiografia antica, anche quella di Sallustio e di Livio, non avesse
+più nessun senso o interesse. Che importavano tutte quelle guerre,
+quelle vittorie, quelle lotte civili, se Dio non c’entrava per nulla,
+poichè badava solo al risultato, e cioè all’unità dell’impero, come
+quella che doveva essere la gigantesca culla del redentore? A che
+serviva ormai la dottrina della corruzione, se le virtù civiche,
+che Sallustio e Livio opponevano alla corruzione, erano anche esse
+corruzione e male? E neppure la storia di Tacito, con quella sua
+sollecitudine della morale personale, poteva attrarre il pensiero
+cristiano. Dinnanzi a S. Agostino, il quale trova giusto che i buoni
+ed i cattivi godano e soffrano ugualmente, perchè secondo la dottrina
+cristiana saranno puniti e premiati con equità nella vita oltre
+mondana, come grossolana doveva sembrare la giustizia di Tacito, il
+quale aveva scritto per punire col suo stilo di storico i cattivi
+ingiustamente felici sulla terra, senza neppure sospettare, che secondo
+la dottrina cristiana i buoni e i cattivi reagiscono diversamente alle
+disgrazie e alle fortune. Infatti come «sotto lo stesso fuoco l’oro
+scintilla e la paglia fumiga... e l’olio e la morchia non si mescolano,
+quando sono espulse dallo stesso peso del frantoio, così una uguale
+disgrazia, se piomba sui buoni li prova, li purifica e li fa splendere,
+sui cattivi li tormenta, li rovina e li stermina!»[60].
+
+Tutti i sentimenti, tutte le istituzioni, tutte le credenze romane sono
+a poco a poco trasformate ed alterate. La saggezza diventa follia, il
+bene diventa il male, quello che era citato ad esempio è ricordato come
+un obbrobrio oltrepassato per la felicità degli uomini.
+
+Così la morte, che era stata stimata il peggiore dei mali, fuori che
+quando era affrontata per la difesa della patria, diventa una mèta, il
+momento desiderabile per l’acquisto della beatitudine perfetta[61].
+Viceversa il suicidio, considerato sempre un atto di coraggio, si
+giudica ora una viltà ed una follia[62], oltrechè un peccato mortale.
+La sepoltura, cerimonia consacrata religiosamente, come la più
+importante e la più sacra di tutte le funzioni, perchè era legata alla
+vita ultramondana del morto, ora non è più che una dimostrazione di
+amore, rispetto al defunto, ed un dovere igienico rispetto ai rimasti.
+L’Anima, tanto, è superiore ed indifferente al destino del suo corpo e
+al lusso della sua tomba[63].
+
+La storiografia antica è stata vittima di questo immenso rivolgimento
+dello spirito del mondo. A poco a poco, a mano a mano che i secoli
+passavano, l’indifferenza, l’incomprensione e l’ignoranza stesero
+un immenso mantellone di feltro sul passato e la storia ritornò allo
+stadio primitivo di molti secoli innanzi. A Carlo Magno, che si faceva
+leggere e rileggere il _De Civitate Dei_, le opere di Sallustio, di
+Tito Livio e di Tacito non potevano insegnare più nulla, dovevano anzi
+riuscire quasi incomprensibili. Importava tutt’al più il ricordo dei
+nudi fatti della storia di Roma, come l’aveva conservato nei primi
+secoli la annalistica. Le grandi opere di storia sono distrutte; anche
+dei grandissimi — di Sallustio, di Livio, di Tacito — solo pochi
+brandelli si salvano; si moltiplicano invece le piccole epitomi. E
+così quella grande luce intellettuale dell’antichità si ridusse a
+una piccola fiammella morente, finchè un rivolgimento del pensiero
+umano non la fece divampare di nuovo. È quella che si può chiamare la
+risurrezione della storiografia antica.
+
+
+
+
+LA RINASCITA
+
+
+
+
+I.
+
+LA STORIA E L’ANTICHITÀ NELLA MENTE DEL MACHIAVELLI.
+
+
+Niccolò Machiavelli, dopo il ritorno dei Medici a Firenze, nel 1513,
+si era ritirato in villa senza impiego politico, e si consolava della
+sua triste vita, partita fra l’osteria e i lavori dei campi, studiando
+Tito Livio. Ma ogni tanto faceva una scappata a Firenze, dove trovava
+un cenacolo di fedeli ammiratori del Savonarola, amici suoi sin dal
+tempo della repubblica, che si radunavano negli Orti Oricellari, e con
+essi leggeva commovendosi a quella rievocazione di glorie repubblicane,
+le storie di Tito Livio. In questo gruppo il Machiavelli cominciò a
+commentare in modo nuovo le decadi ed entrò «in quella via» che non era
+«stata per ancora da alcuno pesta».
+
+Perchè, si domanda il Machiavelli, gli uomini ricorrono agli antichi
+per tutte le arti e per tutte le scienze, e non li studiano quando
+si tratta di politica? Perchè non si ristudiano con intelligenza le
+storie? In verità, essi non sanno «trarne, leggendole, quel senso, nè
+gustare di loro quel sapore che le hanno in sè»[64].
+
+Siccome gli uomini «nacquero, vissero e morirono sempre con un
+medesimo ordine»[65] «gli è facil cosa a chi esamina con diligenza
+le cose passate, prevedere in ogni repubblica le future, e farvi quei
+rimedi che dagli antichi sono stati usati»[66]. Perciò «ho giudicato
+necessario scrivere sopra tutti quelli libri di Tito Livio, che dalla
+malignità dei tempi non ci sono stati interrotti, quello che io,
+secondo le antiche e moderne cose, giudicherò essere necessario per
+maggiore intelligenza di essi»[67].
+
+L’antichità in generale, ed in essa sopratutto Tito Livio, sono adunque
+assunti a maestri della politica contemporanea, mentre la politica
+contemporanea è adoperata per illuminare nei suoi punti oscuri la
+storia dell’antichità. Il metodo era doppio ed era nuovo; e diede
+risultati singolari, che dobbiamo studiare, perchè con il Machiavelli
+la storia antica rinasce dal suo sepolcro e ridiventa una viva forza
+spirituale della civiltà moderna.
+
+Gli amici degli Orti Oricellari che primi lo conobbero, sembrano aver
+più ammirato che non capito questo metodo, poichè i commenti liviani
+del Machiavelli esaltavano in loro soltanto il fervore repubblicano,
+e, come se fossero stati scritti e detti solo per insegnar l’arte
+di fondare, ordinare e reggere una repubblica nei tempi moderni,
+riempivano quegli spiriti ardimentosi, ma angusti, di invidia e
+nostalgia per la fortunata sorella di Roma; li accendevano forse
+anche incitandoli a restaurare uno stato repubblicano nella Firenze
+medicea (così forse due uditori degli Oricellari, Zanobi Buondelmonti
+e Cosimo Rucellai, gettandosi in una disgraziata congiura contro i
+Medici, pensarono di avere tradotto in pratica gli insegnamenti di
+Niccolò Machiavelli). Ma a torto, perchè il metodo del maestro non
+era monopolio della politica repubblicana. L’antichità era vasta,
+gli storici numerosi, le Deche stesse oceaniche e multiformi. Nel
+mondo classico era lecito studiare con uguale profitto le istituzioni
+tiranniche e le istituzioni monarchiche. E il Machiavelli voleva
+studiare repubbliche e monarchie, tanto che ritornando da Firenze,
+dove aveva commentato Livio negli Orti Oricellari, alla sua campagna,
+a quell’Albergaccio di cui parla nelle sue lettere, scriveva il
+_Principe_, ossia un trattato sull’arte di fondare e reggere una
+monarchia, attingendo anche per questo agli esempi dell’antichità.
+«Deve il Principe leggere le istorie ed in quelle considerare le
+azioni degli uomini eccellenti, vedere come si sono governati nelle
+guerre»[68].
+
+Non tutti gli storici e non sempre i posteri hanno capito la vera
+natura di questo eclettismo politico del Machiavelli. Si ripete spesso
+che nei _Discorsi_ il Machiavelli condensò la sua dottrina sul governo
+delle republiche, e nel _Principe_ quella sul governo dei principati
+tirannici, esaltandoli ambedue come i regimi ideali. E poichè le
+due opere furono scritte press’a poco nel tempo stesso, questa
+contemporaneità gli è stata imputata come atto di mala fede, quasi che
+scrivendo il _Principe_, egli avesse rinnegato o tradito i _Discorsi_,
+e viceversa. Ma, innanzi tutto, l’opposizione delle due opere è
+arbitraria, perchè non è lecito assegnare la teoria della repubblica ai
+_Discorsi_ e quella della tirannia al _Principe_, con quel taglio netto
+che è d’uso: tra _Il Principe_ e i _Discorsi_ c’è tanta continuità
+e coerenza di pensiero, che son quasi un’opera sola. E tu non senti
+nessun distacco passando dal primo al secondo.
+
+Fin dalle prime pagine dei _Discorsi_, il Machiavelli dichiara che
+Repubblica o Tirannia fa lo stesso. Imbevuti delle dottrine politiche
+del secolo XIX, noi non possiamo più capire questa indifferenza a
+scegliere due forme di governo, di cui l’una, secondo noi, deve essere
+il male, se l’altra è il bene. Ma il Machiavelli, vivendo quattro
+secoli fa, pensava che tutti gli ordinamenti statali hanno dei difetti
+e delle qualità. Nella sua teoria della trasformazione dei governi[69],
+che anticipa quella di Vico, non si fa illusione sulla bontà di nessun
+ordinamento. Crede però che certe situazioni richiedono questo o quel
+governo, come più conveniente e adattabile. Esamina così le condizioni
+degli Stati e i momenti storici in cui possono fondarsi e reggersi
+delle repubbliche o delle tirannie, e avverte «che colui che vuol
+fare dove sono assai gentiluomini una repubblica, non la può fare se
+prima non gli spegne tutti»[70]. E se vuol fare un Principato «dove è
+assai egualità» trova altri ostacoli invincibili. Cosicchè conclude:
+«costituisca, adunque una repubblica, colui dove è o s’è fatta una
+grande equalità; altrimenti farà una cosa senza proporzione e poco
+durabile»[71]. Poco dopo scrive un lungo capitolo sulle congiure
+«acciocchè i principi imparino a guardarsi da questi pericoli, e che i
+privati più timidamente vi si mettino, anzi imparino ad essere contenti
+a vivere sotto quell’impero che dalla sorte è stato loro preposto»[72].
+E cita questa sentenza di Tacito: «gli uomini debbono desiderare i
+buoni principi e comunque siano fatti tollerarli».
+
+Chi direbbe che questi pensieri sono stralciati dai _Discorsi_ sulla
+prima Deca, le cui primizie furono riservate agli ultimi discepoli di
+Savonarola, e che passa per un libro repubblicano? E come attribuire
+a un teorico della repubblica quella poca stima delle masse che il
+Machiavelli esprimeva a Francesco Guicciardini scrivendogli «voi sapete
+e sallo ciascuno che sa ragionare di questo mondo, che i popoli sono
+vari e sciocchi»?[73]. O quella dottrina svolta pure nei _Discorsi_,
+per cui, se si vuol ricorreggere una repubblica, che non regga
+più per la corruzione morale e politica, «è necessario venire allo
+istraordinario, come è alla violenza ed all’armi, e diventare innanzi
+ad ogni cosa, principe di quella città, e poterne disporre a suo
+modo»[74].
+
+Il Principato è dunque necessario e quindi legittimo quanto la
+repubblica. Non c’è nel Machiavelli parzialità per l’uno o per l’altra,
+o contemporanea glorificazione di tutti e due. Benchè la divisione non
+sia netta, nei _Discorsi_ si può trovare la teoria della repubblica,
+perchè il protagonista è il popolo, nel _Principe_ la teoria del
+principato, perchè si parla specialmente dei principi. Infatti
+incomincia dicendo: «Io lascerò dietro il ragionare delle repubbliche,
+perchè altra volta ne ragionai a lungo»[75], alludendo senza dubbio
+ai _Discorsi_. Ma questa è la divisione teorica di due diversi
+ordinamenti, non il cozzo di due dottrine contrarie.
+
+
+
+
+II.
+
+LA RAZIONALIZZAZIONE DELLA POLITICA.
+
+
+Ammesso che tutte le forme di governo _possano essere_ legittime, il
+Machiavelli non poteva non affrontare la questione: come si debbano
+nella realtà distinguere i governi legittimi dagli illegittimi. Lo
+studio degli antichi, massime quello di Tito Livio, lo conduce a
+stabilire la nozione di una legittimità di fatto. Il governo legittimo
+è quello buono, il quale sa compiere bene l’ufficio suo: «tanto è
+difficile e pericoloso, egli scrive senza reticenze, voler far libero
+un popolo che voglia viver servo, quanto è far servo un popolo che
+voglia viver libero». «Gli uomini nell’operare debbono considerare le
+qualità dei tempi e procedere secondo quelli». Il governo migliore è
+quello che indovina con più fortuna quali sono i mezzi necessari per
+mantenere l’ordine, aumentare la potenza e la prosperità. E chi ci
+riesce ha il plauso, qualunque esso sia, nuovo o antico, monarchico
+o democratico, aristocratico o religioso, militare o plutocratico.
+Senonchè, si potrebbe da questo argomentare che il Machiavelli
+disprezza come superflua la legittimità formale e legale dei governi,
+per non ammettere che la legittimità del merito; ma si è invece un po’
+sorpresi, in principio, trovando vicino a delle teorie così ardite,
+una preoccupazione incessante anche della legittimazione formale[76].
+Egli sa che un vecchio governo, i cui titoli non siano discussi, è
+più solido di un governo fondato dalla forza, anche se ha meno denari
+e meno soldati. Egli sa che «nel principato nuovo consistono le
+difficoltà»[77] e osserva che «il Principe naturale ha minori cagioni
+e minori necessità di offendere»[78]. Ma questa preoccupazione della
+legittimità c’è solo perchè la legittimità è una forza di persuasione
+che serve più di molti cannoni come elemento di stabilità e di
+potenza. Insomma, passando attraverso Livio e gli scrittori antichi, il
+Machiavelli arriva quasi di colpo alla razionalizzazione totale della
+politica.
+
+Risorgendo dal suo sepolcro, la storia antica rivela dopo tanti secoli
+agli uomini la dottrina dello Stato razionale ed umano. Che rivoluzione
+fosse questa è facile immaginare. Era la fine del Medioevo. Lo Stato
+non è più un pupillo del Pontefice chiamato ad attuare la legge di
+Dio sulla terra, secondo la dottrina di S. Agostino; è una creazione
+umana inventata dalla ragione per servire e sfruttare le passioni e gli
+interessi degli uomini a fini di grandezza e di potenza.
+
+Nel medioevo la Chiesa governava il mondo, e l’impero, se voleva
+essere riconosciuto dal popolo, doveva chiedere la benevolenza di Dio.
+Nelle dottrine del Machiavelli, lo Stato si serve della religione per
+governare con più forza. La religione — dice il Machiavelli — è «cosa
+al tutto necessaria a voler mantenere una civiltà»[79]. E aggiunge
+ancora «come la osservanza del culto divino è cagione della grandezza
+delle repubbliche, così il dispregio di quella è cagione della rovina
+di esse. Perchè, dove manca il timore di Dio, conviene che o quel regno
+rovini, o che sia sostenuto dal timore del Principe che supplisca ai
+difetti della religione»[80]. E si duole, lui Machiavelli in odor di
+ateismo e a cui doveva toccar più tardi di esser arso in effige sulle
+piazze, che l’Italia rovini, perchè la religione è soffocata dalla
+Chiesa. «La quale religione, se nei principî della repubblica cristiana
+si fosse mantenuta, secondo che dal datore di essa ne fu ordinata,
+sarebbero gli stati e le repubbliche cristiane più unite, e più felici
+assai che elle non sono. Nè si può fare altra maggiore congettura
+della declinazione di essa, quanto è vedere come quelli popoli che sono
+più propinqui alla Chiesa Romana, capo della religione nostra, hanno
+meno religione. E chi considerasse i fondamenti suoi, e vedesse l’uso
+presente quanto è diverso da quelli, giudicherebbe esser propinquo,
+senza dubbio, o la rovina, o il flagello»[81].
+
+
+
+
+III.
+
+LO STATO SUPERIORE ALLA MORALE.
+
+
+Lo Stato dunque ha una base razionale e sfrutta razionalmente, il
+misticismo per dominare. Ma da questo concetto puramente umano del
+governo, il Machiavelli giunge ad una conclusione che in Livio non
+c’era neppure come germe, alla conclusione che _tutto_ è lecito pel
+bene dello Stato, perchè non c’è nessuna legge al disopra di lui, tanto
+che il suo interesse stesso diventa la legge.
+
+Il celebre Valentino, divenuto come un simbolo, è per il Machiavelli
+il modello di Principe che bisogna imitare. «Chi giudica necessario
+nel suo Principato nuovo assicurarsi degli inimici, guadagnarsi amici,
+vincere o per forza o per fraude»[82] faccia come il Borgia. Non
+bisogna dimenticare che gli uomini e le cose sono come sono e non come
+dovrebbero essere: gli uomini malvagi e sciocchi, le cose difficili.
+«M’è parso più conveniente andar dietro alla verità effettuale della
+cosa che all’immaginazione di essa; e molti si sono immaginati
+repubbliche e principati che non si sono mai visti e conosciuti
+essere in vero, perchè egli è tanto discosto da come si vive a come si
+doverria vivere, che colui che lascia quello che si fa per quello che
+si doverria fare, impara piuttosto la rovina che la preservazione sua,
+perchè un uomo che voglia fare in tutte le parti professione di buono,
+conviene che rovini in fra tanti che non sono buoni. Onde è necessario
+ad un principe, volendosi mantenere, imparare a poter essere non buono
+ed usarlo secondo la necessità»[83]. La morale si biforca di nuovo
+come negli antichi: la civile è altra dalla personale. Se il principe
+ha dei vizi privati, pazienza. Fuggire assolutamente deve «l’infamia
+di quelli vizi che gli torrebbono lo Stato»[84]; e con questo ha la
+coscienza tranquilla. Egli è costretto a fare ciò che la politica
+comanda: «non partirsi dal bene, potendo, ma sapere entrare nel male,
+necessitato»[85]. Perchè «nelle azioni di tutti gli uomini e massime
+de’ Principi, dove non è giudizio a chi reclamare, si guarda al fine...
+I mezzi saranno sempre giudicati onorevoli e da ciascuno lodati»[86].
+
+La famosa frase è detta; ma una resipiscenza strana fa esitare per un
+attimo l’ardito scrittore. A proposito di Agatocle siracusano, giunto
+al principato della sua città per mezzo di inaudite efferatezze e di
+ignobili tradimenti, il Machiavelli scrive: «Non si può chiamare ancora
+virtù ammazzare li suoi cittadini, tradir li amici, essere senza fede,
+senza pietà, senza religione; li quali modi possono fare acquistare
+imperio, ma non gloria. Perchè se si considerasse la virtù di Agatocle
+nell’entrare e nell’uscire dei pericoli e la grandezza dell’animo suo
+nel superare e sopportare le cose avverse, non si vede perchè egli
+abbia a esser tenuto inferiore a qualsiasi eccellentissimo capitano.
+Nondimanco la sua efferata crudeltà ed inumanità, con infinite
+scelleratezze, non consentono che sia tra li eccellentissimi uomini
+celebrato»[87].
+
+Il fine non giustifica dunque tutti i mezzi?
+
+Che vuol dire questa improvvisa limitazione?
+
+Fu probabilmente un grido strappato alla coscienza morale del
+Machiavelli, subito zittito dalla sua infatuazione politica. Infatti,
+poco dopo, cercò questi limiti pretesi dalla sua morale. Ma chi scende
+un pendio così scosceso non si può fermare. Non trovando i limiti nella
+morale, si rivolse alla vita pratica, come se questa potesse offrire
+una misura di se stessa. E s’accorse che le crudeltà si dividono in
+due categorie: le crudeltà bene usate e le crudeltà male usate. «Bene
+usate si possono chiamare quelle (se del male è lecito dir bene) che
+si fanno una sol volta per necessità dell’assicurarsi e di poi non vi
+si insiste dentro, ma si convertiscono in più utilità dei sudditi che
+si può; le male usate sono quelle, quali, ancora che da principio siano
+poche, crescono piuttosto col tempo che le si spenghino»[88] cosicchè,
+l’occupatore di uno Stato «deve discorrere e far tutte le crudeltà in
+un tratto per non avere a ritornarvi ogni dì»[89].
+
+Per dirla più chiaramente: ben usate sono le crudeltà che riescono, mal
+usate quelle che esasperano senza risultati.
+
+Quale è, dunque, in politica, il criterio del bene e del male?
+L’abilità e il successo. Ci pare che la famosa frase «il fine
+giustifica i mezzi», con cui si esprime la politica machiavellica,
+possa essere sostituita da quest’altra «il successo giustifica i
+mezzi». Chi vince ha ragione. Questo hegelianismo precoce giustifica
+tutte le frodi. «Non può, pertanto, un signor prudente nè debbe
+osservar la fede quando tale osservanza gli torni contro, e che sono
+spente le cagioni che lo feciono promettere»[90]. Finchè ha forza
+sforzi. «È cosa veramente molto naturale e ordinaria desiderare di
+acquistare, e sempre quando gli uomini lo fanno che possino, ne saranno
+laudati e non biasimati, ma quando non possono e vogliono farlo in ogni
+modo, qui è il biasimo e l’errore»[91].
+
+Nè si creda che questi consigli siano dati soltanto al Principe il
+quale, perchè si è impadronito dello Stato colla violenza, non può
+rispettare nessun limite al di fuori della forza propria ed altrui. La
+dottrina del Machiavelli è applicata ad ogni governo senza distinzioni,
+anche alle repubbliche, se pure in misura minore. Tutte queste massime
+offerte alla meditazione dei principi, le ritroviamo nei discorsi
+stessi per illuminare coloro che vogliono fondare o debbono governare
+delle repubbliche.
+
+I _Discorsi_ cominciano con questo consiglio, a proposito dei luoghi
+più adatti per fondare una città. «Non potendo gli uomini assicurarsi
+se non con la potenza, è necessario fuggire questa sterilità del paese,
+e porsi in luoghi fertilissimi, dove potendo per la ubertà del sito
+ampliare, possa difendersi da chi l’assaltasse, e sopprimere qualunque
+alla grandezza sua si opponesse»[92].
+
+Questo, rispetto agli Stati stranieri, non vuol forse dire: ciascuno fa
+quello che vuole ed il più forte distrugge il più debole?
+
+La politica interna è retta dagli stessi principî. Il Machiavelli
+osserva, per esempio: «A coloro che in una città sono preposti per
+guardia della sua libertà, non si può dare autorità più utile e
+necessaria quanto è quella di poter accusare i cittadini al popolo, o a
+qualunque magistrato o consiglio, quando che peccassino in alcuna cosa
+contro allo stato libero»[93]. Questa abitudine è utile specialmente
+perchè così «si dà via onde sfogare a quelli umori che crescono nelle
+cittadi, in qualunque modo, contro qualunque cittadino; e quando
+questi umori non hanno onde sfogarsi ordinariamente, ricorrono a modi
+straordinari, che fanno rovinare in tutto una repubblica»[94].
+
+Qualche volta le accuse sono false, ma non importa, «perchè _se
+ordinariamente_ un cittadino è oppresso, ancora che gli fosse fatto
+torto, ne seguita o poco o nessuno disordine in la repubblica».
+
+Così, è giustificato Romolo del suo fratricidio, perchè «uno prudente
+ordinatore di una repubblica... debbe ingegnarsi d’avere l’autorità
+solo, nè mai uno ingegno savio riprenderà alcuno di alcuna azione
+istraordinaria, che per ordinare un regno o costituire una repubblica
+usasse»[95].
+
+Il diritto della forza illegale è riconosciuto persino ai cittadini
+privati, ma quando, per essere a capo di un esercito, appaiono come dei
+piccoli sovrani.
+
+Il capitano che torna vittorioso da una guerra — la gran preoccupazione
+del Rinascimento — ha solo due cose saggie da fare: «O subito dopo la
+vittoria lasci lo esercito e rimettasi nelle mani del suo Principe,
+guardandosi da ogni atto insolente o ambizioso» per non insospettire
+il suo signore, «o, quando questo non gli paia di fare, prenda
+animosamente la parte contraria, e tenga tutti quelli modi per li
+quali creda che quello acquisto sia suo proprio e non del Principe suo,
+facendosi benevoli i soldati ed i sudditi; e faccia nuova amicizia coi
+vicini, occupi con li suoi uomini le fortezze, corrompa i Principi del
+suo esercito e di quelli che non può corrompere si assicuri, _e per
+questi modi cerchi di punire il suo signore di quella ingratitudine che
+esso gli userebbe_»[96].
+
+
+
+
+IV.
+
+LO STATO-DIO IN LIVIO E NEL MACHIAVELLI.
+
+
+Quella che balza fuori ad un tratto nell’opera del Machiavelli
+dallo studio degli storici antichi e massime di Tito Livio è dunque
+la dottrina dello Stato-Dio, la cui prosperità e potenza è lo
+scopo supremo al quale ogni altro interesse, anche la religione,
+è subordinato. Che Livio sia stato il grande ispiratore di questa
+dottrina, non è meraviglia. I suoi annali sono una divinizzazione
+di Roma come Stato e come Repubblica, sono la storia di un popolo,
+arrivato ad una potenza quasi sovrumana, servendo lo Stato come una
+divinità, immolando ogni altro bene, o diritto e aspirazione al suo
+bene. In tutto il passato, che egli era in grado di conoscere, il
+Machiavelli non poteva trovare un modello più alto, più completo,
+più grandioso di Stato, che trova in sè stesso il suo scopo e la
+sua perfezione. Ed il modello gli parve così sublime che egli volle
+centuplicarlo in un numero infinito di imitazioni spicciole.
+
+Se in Livio questa subordinazione universale allo Stato-Dio poteva
+essere giustificata dalla grandezza straordinaria di Roma e dal
+meraviglioso destino che l’aspettava, il Machiavelli ne fa la legge
+di tutti gli stati, grandi e piccoli, gloriosi ed oscuri. Ogni
+repubblichetta ed ogni principato doveva tentare di essere, quanto
+poteva, una piccola Roma, innamorata solo di se stessa ed aspirante
+alla propria divinizzazione se non in cospetto dell’universo e dei
+posteri, almeno nella piccola cerchia in cui doveva vivere e operare.
+
+Senonchè, così facendo, il Machiavelli percorreva con un balzo
+formidabile quella che doveva essere la lenta evoluzione di tre secoli;
+e trascinava nel suo balzo anche Livio.
+
+Senza dubbio, la concezione medioevale dello Stato e della storia che
+aveva avuto in S. Agostino il suo grande filosofo e che poneva in Dio
+il termine della perfezione dei singoli uomini come degli Stati, era
+al principio del secolo XVI molto indebolita. Se no, il Machiavelli
+sarebbe finito sul rogo.
+
+A poco a poco i tempi si incamminavano di nuovo verso la concezione
+pagana dello Stato-Dio. Ma lentamente e non con la furia del
+Machiavelli, perchè le dottrine e le istituzioni medioevali, per quanto
+indebolite, erano abbastanza forti da resistere ancora ai più violenti
+attacchi dottrinali dei dialettici razionalisti.
+
+D’altra parte, Tito Livio era lo storico della Repubblica; e con il
+Cinquecento incomincia dappertutto, ma in Italia particolarmente, la
+decadenza delle repubbliche. Molte repubbliche cadono, e con essa si
+affievolisce anche l’ammirazione per lo storico delle Deche, il quale
+ebbe nel Nardi — un antico ammiratore e discepolo del Savonarola,
+ritirato a Venezia — l’ultimo traduttore.
+
+A poco a poco Livio è considerato come un gonfio e retorico panegirista
+di una Repubblica immaginaria, scrittore pregevole per lo stile, ma di
+poco merito per la sostanza.
+
+
+
+
+V.
+
+LA REAZIONE CONTRO LIVIO E CONTRO IL MACHIAVELLI.
+
+
+Per queste ragioni una reazione non tardò a scoppiare contro il
+Machiavelli e contro Livio: una reazione a cui fu maestro e guida
+l’altro grande storico latino, Tacito, che da lui prese il nome di
+«tacitismo» e che fu uno dei movimenti intellettuali più importanti del
+secolo XVII[97].
+
+Il Tacitismo fu l’infatuazione e la giustificazione classica della
+monarchia, che si veniva consolidando e rafforzando in Europa, a
+partire dal secolo XVI. A mano a mano che il medio evo tramonta, ogni
+pensiero, ogni teoria, ogni azione politica doveva essere legittimata
+dal consenso di uno scrittore classico. La monarchia non sfuggì a
+questo destino; volle avere anch’essa il suo maestro, tra i grandi
+della antichità, e scelse Tacito. Un’apparente somiglianza dei tempi
+fu la ragione di questa scelta. Non aveva Tacito raccontato i primi
+travagli della monarchia Romana alle prese con le tradizioni secolari
+della repubblica aristocratica? Le monarchie, che nel secolo XVI
+e XVII, lottavano contro i residui delle tradizioni teocratiche,
+repubblicane e feudali del medio evo, credettero di ritrovarsi in
+quella storia, sebbene molte somiglianze fossero più apparenti che
+vere, e frequenti fossero le cose inconciliabili.
+
+Nel 1542 Emilio Ferretti, dedicando un suo commento di Tacito ad un
+uomo di Stato, perchè ci trovasse norme di governo, scriveva: «Poterit
+Cornelii lectio nonnihil in isto concusso orbis motu, simillino eorum
+temporum, quae ab illo describuntur, adjuvare consilia tua».
+
+E il Mureto — un altro grande umanista del Cinquecento — osserva:
+«Primum igitur considerandum est, republicas hodie perquam paucas esse,
+nullam esse promemodum gentem, quae non ab unius nutu atque arbitrio
+pendeat, uni pareat, ab uno regatur».
+
+Anzi, il Mureto ammira tanto la politica di Tacito che non sente più
+neppure la differenza di molti umanisti per lo stile tacitiano, ed
+afferma che anche Tacito scrive bene.
+
+Nella seconda metà del ’500 e prima del ’600 le traduzioni ed i
+commenti di Tacito si moltiplicano, e vengon raccolte, con cura
+religiosa, le massime sparse nei suoi libri. Si scrivono ad uso dei
+prìncipi dei «Taciti, con riflessioni politiche e storiche» cioè
+paralleli coi tempi moderni, consigli politici, vagabondaggi storici.
+Non solo in Italia, ma in Francia, in Germania, in Olanda, i Tacitisti
+dilagano, si dividono in tendenze contrarie, distinguono, reagiscono
+magari, ma Tacito è sempre in bocca a tutti, e molti affermano che è il
+solo autore grande della antichità.
+
+Così, per esempio, il marchese Virgilio Malvezzi dice che Tacito
+può essere molto utile in un’epoca di governi principeschi, come si
+studiava Tito Livio, quando c’erano le repubbliche. E Raffaele Dalla
+Torre, nel primo capitolo dell’Astrolabio di Stato, polemizza in un
+dialogo contro Famiano Strada, il quale affermava col suo traduttore,
+C. Papini, che Tacito attacca le frange al racconto, e si basa sul
+verosimile ma non sul vero, ha uno stile duro, rotto, troppo pieno di
+sentenze e di massime. Scipione Ammirato scrive i famosi «Discorsi
+sopra Tacito» che corrono il mondo, citati ovunque come un testo
+fondamentale. In Francia anche il Bodin scende in campo per difendere
+lo stile di Tacito. «Quis enim non videt dictio Taciti quam sit
+elegans, quam tersa et limata?». Giusto Lipsio scrive in vece che
+Tacito potrebbe gareggiare con tutti gli scrittori dell’antichità, se
+il suo latino fosse puro come quello di Livio e di Sallustio; ma poi
+si converte. E se in mezzo alla folla innumerevole degli entusiasti,
+tra cui non bisogna dimenticare Amelot de la Houssaye, c’è il piccolo
+gruppo di dissidenti, come il Boccalini, con che ardore sorgono a
+difendere lo scrittore antico i suoi molto più numerosi ammiratori!
+Teodoro Ryck definisce «sogni e chimere politiche» i giudizi su Tacito
+del collega italiano. Il Rapin raccomanda a chi vuole fare lo storico
+«qu’il ne suppose point de faussetés pour justifier ses conjectures,
+et pour faire quadrer les choses au tour qu’il leur donne, comme Tacite
+qui jette du poison partout ou comme Paterculus qui repande des fleurs
+sur tout».
+
+
+
+
+VI.
+
+IL TACITISMO E LA RAGION DI STATO.
+
+
+Ma quale è la ragione profonda di questa ammirazione di Tacito, che
+è più forte anche dei pregiudizi letterari e stilistici a lui spesso
+avversi? Essa deve cercarsi in una specie di falsificazione di Tacito,
+per cui l’opera sua ha servito a dare la conferma e giustificazione
+classica della dottrina politica della Ragion di Stato, creata dalla
+monarchia e dalla Chiesa per attenuare la dottrina machiavellica
+dello Stato-Dio. Secondo questa teoria lo Stato non è una _istituzione
+assolutamente umana e razionale_, come volevano gli ammaestramenti del
+Machiavelli, ma è _anche_ una istituzione umana, ha cioè dei fondamenti
+— non tutti — negli interessi e nei vizi degli uomini, e pure dovendo
+l’ossequio alla superiore autorità della religione, in certi casi
+precisi e delimitati che si fissano sull’autorità degli antichi
+scrittori e specialmente di Tacito, ha diritto di violare la legge
+morale per il bene pubblico. Questa è la Ragione di Stato.
+
+Tale dottrina cerca, attenuandolo, di conciliare il Machiavelli e
+tutti gli interessi, le ambizioni e le passioni che spingevano l’Europa
+verso lo stato razionale ed umano, con le istituzioni e le tradizioni
+del Medio Evo, che lo volevano strumento d’un ideale religioso.
+Essendo un’attenuazione del Machiavelli, deriva da lui e gli somiglia,
+nel tempo stesso che gli è avversa. Accade spesso di trovare nei
+tacitisti delle frasi che sono puro Machiavelli. Questa, per esempio,
+del Lipsio[98]: «Si urbe aut provincia statui meo per opportuna,
+quam nisi occupo alius faciet cum aeterno meu metu aut damno: non
+praeveniam? Illi volunt, quibus haec talia semper licita et proba, si
+cum successu». Gli uomini sono cattivi e pazzi, diceva il Machiavelli.
+Per governarli non basta essere leone, bisogna anche essere volpe. E
+il Lipsio «interquos enim vivimus? nempe argutos, malos: et qui _ex
+fraude, fallaciis, mendaciis constare toti videntur_ (Cic. pro Rosc.
+Com.). Ipsi Principes, cum quibus nobis res, plerique in hac classe: et
+quidquid leonem praeferant; «Astutam vapido servant sub pectore vulpem»
+(Persius Sat.)... «_Per frauden et dolum regna evertuntur_ notat
+philosophus (Arist. V. Pol): Tu servari per eadem nefas esse vis? Nec
+posse Principem interdum.
+
+«Cum vulpe iunctum pariter vulpinarier»?[99].
+
+E un po’ più in là nel capitolo «Quo modo et quatemus Fraudes
+admittendae» dà una definizione della ragion di Stato che parrebbe
+estratta dal Principe. «Fraus universe mihi est, argutum consilium a
+virtute aut legibus devium, regis regnique bono»[100].
+
+Eppure, mentre si scrivevano questi pensieri, il Machiavelli era
+bruciato in effige, messo all’indice, condannato alla riprovazione
+universale, esiliato da qualsiasi libro come autore, che si potesse
+citare. I tacitiani raramente lo nominano, anche quando lo confutano,
+designandolo con prudenti allusioni. Ipocrisia? Ingiustizia? Si
+bruciava l’opera di un uomo riprendendone sotto mano le teorie? No.
+La dottrina della Ragione di Stato alla quale Tacito doveva conferire
+l’autorità degli esempi antichi è elaborata nel cinque e nel seicento
+sotto l’occhio della Chiesa, ma pure avendo affinità con la dottrina
+machiavellica dello Stato-Dio, ne differisce sopratutto perchè tenta
+di risolvere la questione capitale dei limiti, entro cui è lecito allo
+Stato violare la legge morale per il bene pubblico.
+
+Leggiamo, ad esempio, la pagina in cui Lipsio tratta della frode per
+ragione di Stato. Egli scrive: «ea triplex; Levis, media, magna. Illam
+appello quae haut longe a virtute abit malitiae rore leviter aspersa.
+In quo genere mihi est Diffidentia et Dissimulatio.
+
+«Mediam quae ab eadem virtute flecit longius et ad vitii confinia
+venit. In qua pono Conciliationem et Deceptionem.
+
+«Tertiam, quae non a virtute solum sed legibus etiam recedit, malitiae
+jam robustae et perfectae, uti sunt Perfidia et Iniustitia. Illam
+suadeo, hanc tolero, _istam damno_»[101].
+
+Quel grido che era sfuggito un momento alla coscienza del Machiavelli a
+proposito di Agatocle e che, poi, l’autore stesso aveva rinnegato, quel
+bisogno di un limite al di fuori del puro interesse che il Machiavelli
+aveva saputo trovare soltanto nel successo, è qui chiaramente sebbene
+forse un po’ sommariamente inciso. Lo Stato ha certe libertà, ma non
+tutte.
+
+Posto così il problema, si capisce che, in autori più profondi del
+Lipsio, il Machiavelli, le sue dottrine, i tempi in cui aveva vissuto e
+che le avevano ispirate, apparissero come nefasti e quasi diabolici.
+
+L’Italia era allora travagliata da un’anarchia di principi e da
+quell’esautoramento dei governi, per cui s’era incrostata sulla
+Penisola una muffa di tirannelli privi di scrupoli, che applicavano
+fino in fondo la teoria dell’Interesse proprio, senza che un limite
+morale o un interesse comune frenasse quel reciproco e continuo
+distruggersi. Siccome nessun principio di autorità li faceva legittimi,
+il Machiavelli osservava: i popoli sono cattivi, i principi birbanti;
+chi non bada come può a salvare la roba e la pelle, gli prendono la
+prima e gli fanno la seconda; se non l’ammazzo io, mi ammazza lui.
+È quindi consigliabile di cominciare per il primo. E diceva: «Un
+Principe, e massime un Principe nuovo, non può osservare tutte quelle
+cose, per le quali gli uomini sono tenuti buoni, essendo spesso
+necessitato per mantenere lo Stato operare contro alla fede, contro
+alla carità, contro alla umanità, contro alla religione»; e diceva
+pure: «A un Principe non è necessario avere tutte le soprascritte
+qualità, ma è ben necessario parere d’averle... Deve, adunque, avere
+un Principe grande cura, che non gli esca mai di bocca una cosa che
+non sia piena delle soprascritte cinque qualità e paia, a vederlo ed
+udirlo, tutto pietà, tutto fede, tutto integrità, tutto umanità, tutto
+religione»[102].
+
+Cosicchè l’interesse dello Stato, di cui era giudice il governo che lo
+rappresentava, finiva per giustificare ogni abuso.
+
+La dottrina della Ragion di Stato, che si forma nel cinquecento e nel
+seicento, è — come dice uno dei suoi maestri — il Botero «notizia di
+mezzi atti a fondare, conservare, ampliare un dominio così fatto». Ma
+col Botero stesso, col Possevino, col Ribadeneira, la Controriforma
+affermava altresì che la Ragion di Stato è necessaria e utile solo
+quando è legittimata dalla Chiesa. Concessa a qualsiasi governo, in
+nome d’interessi particolari, senza la Chiesa, la Ragion di Stato
+è un principio pericolosissimo. Con questa limitazione essa diviene
+privilegio di pochi regnanti legittimi, e non di tutti i governi per
+contrari interessi; cosicchè è sottomessa a un principio _al di sopra
+e al di fuori_ dell’interesse immediato e individuale; e gli Stati
+sono in certo modo regolati nelle loro opere da una legge comune, di
+cui la Chiesa è depositaria, e non più soltanto dal proprio comodo.
+Insomma, la Ragion di Stato, pur allargando la sfera in cui l’interesse
+dello Stato può operare, vuol sempre circoscriverla con precetti e
+regole di natura morale e di carattere religioso. Con questa dottrina
+la monarchia assoluta cercava di mettere d’accordo le necessità del
+suo sviluppo, con le tradizioni religiose e morali ancora forti nella
+società del sedicesimo e diciannovesimo secolo. Ma come e perchè essa
+ha ricorso, per essere aiutata in questa opera, tra gli scrittori
+antichi, sopratutto a Tacito?
+
+
+
+
+VII.
+
+IL TACITISMO E LA FALSIFICAZIONE DI TACITO.
+
+
+Noi abbiamo visto come Tacito reagisca, nella storiografia romana,
+per primo contro quella concezione antica che fa dell’individuo uno
+strumento dello Stato, a cui deve sacrificarsi; e per primo cerchi
+nella storia non gli stati o i popoli, ma gli uomini; e si sforzi di
+studiare psicologicamente l’anima dei suoi personaggi. L’uomo coi suoi
+vizi e con le sue virtù, studiati e giudicati quando nascono dentro il
+suo cuore, quando si manifestano nei penetrali della sua casa o dinanzi
+alle folle, verso la schiava o verso il senato, in ogni attimo di vita,
+questo è il suo protagonista.
+
+La sua storia è un drammatico intreccio e un cozzo di uomini ben
+diversificati e violentemente distinti. Lo Stato è per lui uno di
+questi uomini, che il caso ha posto sul trono: non più. I suoi meriti
+o le sue colpe verso il servo hanno per Tacito lo stesso valore che
+i suoi meriti o le sue colpe verso lo Stato. In lui, come si disse,
+splende già quell’individualismo cristiano, che volle giudicare l’uomo
+in quanto è uomo e non in quanto è parte dello Stato, e reagì contro la
+tradizione latina che sacrificava i romani a Roma.
+
+Fra tutti gli scrittori antichi, Tacito appare come il meno atto a
+giustificare una dottrina come quella della ragion di Stato, che,
+sia pure entro limiti precisi, sacrifica pur sempre l’individuo allo
+Stato e giustifica la violazione della morale per ragioni di pubblico
+interesse. Tacito è uno storico moralista, che perseguita e denuncia
+i delitti e i vizi dei grandi, senza ammettere mai, senza neppur
+supporre che si possa ammettere l’interesse pubblico come scusa o
+giustificazione. Per fondare su solenni esempi antichi una dottrina
+della Ragion di Stato, lo storico che poteva e doveva servire era
+proprio Tito Livio. E infatti il Machiavelli, pensatore profondo, aveva
+fatto testo di Livio più che di Tacito, benchè molti sostengano il
+contrario, per creare quella sua dottrina dello Stato-Dio, che era un
+po’ l’estrema esagerazione anticipata della Ragione di Stato. Come si
+spiega allora questo scambio singolare?
+
+Tito Livio era troppo repubblicano per servir di maestro ai sovrani ed
+ai ministri, in un’età dominata dall’istituto monarchico. Tacito aveva
+il vantaggio di essere lo storico di Roma in cui più che negli altri
+i personaggi rassomigliavano ai sovrani e ministri secenteschi delle
+Corti europee. La somiglianza era molto vaga, perchè la casa di Tiberio
+e di Claudio non aveva niente a che fare con una corte; ma era tuttavia
+sempre maggiore di quella che poteva correre tra l’Europa del secolo
+XVII e la Roma della seconda guerra punica.
+
+Nel «Discours critique» che precede la traduzione di Tacito fatta da
+Amelot de la Houssaye, è riassunto il commento di Filippo Cavriana
+«Sopra i cinque libri di Cornelio Tacito». È citato tra l’altro,
+questo passo: «Comme Tacite découvre tout ce que les Princes de
+son temps faisoient, les vertus et les vices de nos princes donnent
+réciproquement l’intelligence de tout ce que dit Tacite, de sorte
+que les mêmes endroits que l’on trouve obscurs la première fois, sont
+bien entendus la seconde ou la troisième. Au reste les gens qui auront
+fréquenté la cour, ou les armées, pourront expliquer fidelement cet
+auteur sans le secour d’aucun interprète»[103].
+
+Tacito è dunque una specie di guida delle corti, l’autore che si
+può intendere solo praticandole quotidianamente. Diventato l’autore
+familiare dei sovrani e dei cortigiani, Tacito è stato mutato in
+un grande maestro della Ragion di Stato, grazie a una persistente
+falsificazione, per cui le acerbe sentenze che in Tacito flagellano
+il vizio, sono interpretate e commentate come consigli di un’arcana e
+profonda saggezza, indicando al sovrano il termine a cui la Ragione di
+Stato può condurlo.
+
+Approfittando della serietà e della compostezza che Tacito conserva
+anche nei momenti in cui si sdegna, non avvertendo o fingendo di non
+avvertire la corrodente ironia che talvolta brucia più di un’invettiva
+— l’ironia si può anche prendere sul serio — il seicento interpretò
+con una esegesi paziente quei passi in cui il corruccio di Tacito,
+per rivoltare i posteri e spargere sui suoi personaggi la cenere
+dell’infamia, aveva condensato amare, torbide e cieche accuse, come
+aforismi e precetti un po’ arcani della oscura dottrina della Ragion di
+Stato.
+
+L’esempio più singolare e istruttivo di questa falsificazione
+sistematica è la metamorfosi che il Tiberio di Tacito subisce nella
+mente dei suoi maggiori ammiratori del cinque e seicento. Tacito vede
+in Tiberio una specie di mostro, di cui egli vuol dipingere l’aspetto
+fosco, perchè la posterità ne provi orrore e lo odî in eterno. Il suo
+ritratto arcigno e irreale come un simbolo del male e della perfidia,
+può star piuttosto nel catalogo delle creazioni romantiche che nella
+lista dei personaggi storici, vissuti per davvero. Ad ogni modo la
+pittura, che gli attribuisce delitti e vizî immaginari, se è falsa,
+è potente, e i tacitisti del cinquecento e del seicento trovando, nel
+loro autore, un principe in cui la dissimulazione, la segretezza, la
+perfidia, l’ipocrisia, la decisione, si uniscono in una sola fusione;
+un Principe, che si impadronisce con l’astuzia del governo e fonda
+una dinastia, cominciando la sua carriera con un fratricidio e due
+avvelenamenti; un principe che sacrifica il nemico alla propria
+vendetta, il potente alla propria diffidenza, il sicario alla propria
+prudenza; un Principe insomma che essi, se avessero letto Tacito come
+era, avrebbero dovuto tenere per uno dei peggiori uomini, che mai
+abbiano tormentato i loro simili, invece di inorridire se ne rallegrano
+e lo adottano appunto come un modello, un maestro di quella oscura
+Ragion di Stato, che preoccupava tutte le menti. A leggere Tacito gli
+uomini del tardo Rinascimento hanno gridato: Ma questo è il Valentino,
+è lo Sforza, è uno dei nostri contemporanei condottieri! Tiberio ha
+ucciso il cognato venendo al potere? Non poteva fare altrimenti! Tacito
+sa benissimo che i principi nuovi si imbattono sempre in difficoltà:
+Ragion di Stato. Ha ucciso Germanico? Tacito non ignorava il pericolo
+di un generale vittorioso e popolare: Ragion di Stato. Ha lasciato
+perir Pisone? Tutti sanno che un sicario, se non si elimina presto e
+segretamente, può essere fonte di gravi impicci: Ragion di Stato. E
+così mentre Tacito infama Tiberio per delitti che non ha mai commessi,
+trasformando persino in avvelenamenti le morti naturali, per quelli
+stessi delitti immaginari gli ammiratori di Tacito ne fanno un modello
+di saggezza!
+
+Perchè, infatti, nessuno leggeva Svetonio, che era pure storico
+dell’Impero? Il Mureto lo spiega con circonlocuzioni complicate,
+sostenendo che Tacito, aveva sì, messo a nudo le cattive azioni dei
+principi, ma aveva coscienza della loro necessità politica, mentre
+Svetonio, limitandosi a raccontare aneddoti un po’ canzonatori, che
+non sopportavano trasfigurazioni, dissolveva, col suo indifferente
+chiacchiericcio, il mito imperiale più che con delle imprecazioni e
+delle invettive. Ma i tacitisti, che non volevano la dissoluzione ma
+il rinsaldamento dell’Impero si rivolsero all’altro storico, abusando
+del suo stile un po’ misterioso, per inventare il Tacito campione della
+Ragion di Stato.
+
+
+
+
+VIII.
+
+QUEL CHE NOI DOBBIAMO AGLI STORICI ANTICHI.
+
+
+Tanto Livio che Tacito furono dunque interpretati piuttosto
+bizzarramente dall’umanesimo. Ma, sia pure attraverso alterazioni,
+hanno aiutato il pensiero europeo a ritrovare il concetto dello Stato
+umano, che ha una vita e un fine suo, in opposizione all’idea dello
+Stato teologico, servo di Dio, strumento di un principio religioso, che
+dominò nel medio evo.
+
+Questo concetto dello Stato umano, affermato con anticipazione
+profeticamente brutale da Machiavelli che si serve di Livio come
+maestro, è ripreso e adottato per mezzo di grandi limitazioni e tagli e
+rattoppi e attenuazioni, nel seicento, sotto l’influenza di Tacito con
+la teoria della Ragion di Stato, finchè si inserisce definitivamente
+nello sviluppo storico della nostra civiltà. Una volta innestato
+questo principio si allargò e fiorì sempre più nel seicento e nel
+settecento, prima sottomesso al principio teologico che era padrone da
+tanti secoli, poi a poco a poco alzando la testa, e assumendo maggior
+importanza, e finalmente, con la Rivoluzione Francese, soverchiando il
+principio teologico. La Rivoluzione Francese e l’Impero, che amavano le
+grandi apoteosi, rinnovarono l’antica venerazione per l’affrescatore
+delle prime glorie di Roma. E le trombe romane squillarono ancora
+dinnanzi al mondo, per celebrare il trionfo dello Stato degli uomini!
+
+Senonchè dallo Stato umano, che vinse lo Stato teologico tra la fine
+del Settecento e il principio dell’Ottocento, sta svolgendosi ora lo
+Stato satanico; lo Stato nemico di Dio e degli uomini, della giustizia
+e dell’onore, della pace e dell’ordine, della verità e della legalità;
+lo Stato criminale, predatore, sanguinario, corruttore, neroniano,
+cinico, sofista — e sfrontatamente vano della propria ribalderia,
+come di una forza gloriosa. Il melanconico e solitario filosofo
+dell’Albergaccio l’aveva intravisto, in quella sua smania di «andar
+dietro alla verità effettuale della cosa»; era stato lì per lì tra
+abbagliato e inorridito; l’aveva guardato, aveva chiuso gli occhi,
+aveva guardato di nuovo. La perversione dei tempi magnifica oggi questa
+sua, tra inorridita e ammirante, intuizione dello Stato satanico, come
+una mirabile anticipazione di un genio profetico: oltraggio indegno
+alla tormentata e nobile figura di quel grande ma ingenuo pensatore
+che, disgustato dai suoi tempi, in qualche momento di esasperazione,
+aveva dimenticato questo principio elementare di ogni consenso civile:
+che più forte è la tentazione e maggiore la facilità di violare una
+legge morale, più risolutamente è necessario affermare e sostenere
+l’obbligo universale di osservarla: se no «la verità effettuale della
+cosa» diventa il vestibolo della più selvaggia anarchia.
+
+
+
+
+APPENDICE
+
+
+
+
+I.
+
+CHE COS’È LA STORIA?
+
+
+1.
+
+Dopo aver visto come i Romani scrivevano la storia, e con quali occhi
+e con quale animo i secoli hanno letto le loro storie, scampate al
+diluvio barbarico, non sarà senza interesse studiare come si intenda la
+storia da certe chiesuole intellettuali moderne, a cui non spiacerebbe
+di potersi vantare maestre di una nuova arte, in confronto al passato.
+Un’occhiata alla «Teoria e storia della Storiografia» di B. Croce
+basterà per mostrarci i bei progressi che quest’arte, così cara agli
+antichi, ha fatto nei secoli del vapore e dell’elettrico!
+
+
+2.
+
+«Ogni vera storia è storia contemporanea»: con questo paradosso
+il Croce apre la sua trattazione. E lo giustifica, argomentando
+lungamente. «Anche la storia già formata, — egli scrive — che si
+dice o si vorrebbe dire storia non contemporanea o passata, se è
+davvero storia, se cioè ha un senso e non suona come discorso vuoto,
+è contemporanea e non differisce punto dall’altra (la contemporanea).
+Come dell’altra, condizione di essa è che il fatto del quale si tesse
+la storia vibri nell’animo dello storico o (per adoperar una parola
+d’uso nel mestiere storico) se ne abbiano dinnanzi, intelligibili,
+i documenti... E se la storia contemporanea balza direttamente dalla
+vita, anche direttamente dalla vita sorge quella che si vuol chiamare
+non contemporanea, perchè è evidente che solo un interesse della vita
+presente ci può muovere a indagare un fatto passato» (pag. 4).
+
+Il pensiero è abbastanza chiaro, anche se espresso in forma involuta e
+imprecisa. Non basta narrare un fatto per dirsi storici; bisogna farlo
+presente, come se noi ne fossimo spettatori ed attori; se no si ha
+«vuota narrazione... e perciò priva di verità» (pagina 9). «La storia è
+un presente; la storia, resa vuota narrazione, è un passato» (pag. 9).
+
+Ciò detto il Croce procede a distinguere, come già aveva fatto
+Cicerone, la cronaca dalla storia. Ma non oppone l’annalistica alla
+storia oratoria, venuta dalla Grecia. I moderni son persuasi che anche
+in questo ordine di scritture ne sanno più degli antichi. «La storia —
+egli scrive — è la storia viva, la cronaca la storia morta; la storia,
+la storia contemporanea, la cronaca, la storia passata» (pag. 10). Indi
+scopre che le fonti da cui scaturisce la conoscenza storica sono due:
+la vita e il pensiero che la risuscita e la eterna. «Il documento e la
+critica, la vita e il pensiero sono le vere fonti della storia, cioè i
+due elementi della sintesi storica...» (pag. 14).
+
+Accettiamo ad occhi chiusi queste dottrine, seguiamo docilmente il
+suo autore, e vediamo dove si va a finire. Dopo aver definito quale
+è la natura e quali sono gli elementi o le fonti della storia, il
+Croce procede a distinguere da questa che è la vera storia, le storie
+spurie o «pseudo-storie», come egli le chiama, alla greca. Tra queste
+pseudo-storie egli annovera la storia poetica, che definisce così:
+
+«Esempi di tale storia forniscono in copia le biografie affettuose
+che si tessono di persone care e venerate; le storie patriottiche...
+la storia universale, rischiarata dagli ideali dell’idealismo e
+dell’umanitarismo, e quella narrata da un socialista che ritragga
+le gesta... del capitalista o l’altra di un antisemita, che mostri
+dappertutto, nelle sventure o brutture umane, il giudeo... Nè la storia
+poetica si esaurisce in coteste tonalità fondamentali e generiche
+dell’amore e dell’odio (dell’odio che è amore e dell’amore che è odio!)
+ma passa tra tutte le più intricate forme e le più fini gradazioni
+del sentimento; e così si ottengono storie poetiche, che sono amorose,
+malinconiche, nostalgiche, pessimistiche, rassegnate, fidenti, allegre,
+e quante altre si possano immaginare. Erodoto canta le romanze (!)
+dell’invidia degli Dei, Livio l’epos della romana virtù; Tacito compone
+tragedie dell’orrendo, drammi elisabettiani in scultoria prosa latina;
+e per venire ai moderni e modernissimi Droysen dà forma alla sua
+aspirazione lirica verso lo Stato forte e accentratore col narrare la
+storia della Macedonia, della Prussia e dell’Ellade; e Grote a quella
+verso gli statuti della democrazia simboleggiata in Atene; e Mommsen
+all’altra verso l’impero, simboleggiata in Cesare; e Balbo effonde il
+suo ardore per l’indipendenza italiana, adoperando a tal fine tutti i
+ricordi delle pugne italiche, a cominciare nientemeno da quelle degli
+Itali e Etruschi contro i Pelasgi; e Thierry celebra la borghesia
+raccontando la storia del terzo stato» (pagg. 26 e 27).
+
+Che Erodoto, Tito Livio, Tacito, Droysen, Grote, Mommsen, Balbo
+e Thierry non sieno storici ma falsi storici e poeti, è notizia
+che giungerà alquanto inaspettata a molti lettori. Se questi otto
+valentuomini, i quali pure godono di una certa rinomanza nel gregge
+di Clio, sono dei falsi storici, vorrebbe il Croce dirci il nome e
+cognome di uno storico vero? Ma la sorpresa cresce quando il Croce
+cerca di distinguere la storia falsa dalla vera, o, come egli dice, la
+storia poetica dalla storiografia. La storia poetica si esplicherebbe
+«nel surrogare al mancante interesse del pensiero l’interesse
+del sentimento» (pag. 26); mentre invece «il valore che regge la
+storiografia è il valore del pensiero. Ma appunto per questa ragione il
+principio determinante di essa non può essere il valore che si chiama
+di sentimento e che è vita e non pensiero; e quando questa vita si
+esprime e rappresenta non ancora domata dal pensiero, è poesia e non
+storia» (pag. 27).
+
+Il principio, o la fonte, della storiografia o vera storia sarebbe
+dunque il pensiero e non la vita, la quale è invece il principio
+della poesia. Ma a carte 14 il Croce aveva detto proprio l’opposto.
+Ricordate? «Il documento e la critica, la vita e il pensiero sono le
+vere fonti della storia». La vita, che a pag. 14 è fonte della storia,
+a carte 27 diventa fonte della poesia, e alcunchè di opposto e quasi di
+ribelle al pensiero, poichè il pensiero la deve _domare. Domare_ è una
+di quelle parole equivoche, di cui la filosofia crociana abbonda con
+sua molta lode in un’epoca adorante tutte le confusioni; ma per quanto
+equivoca non può dubitarsi che implichi lo sforzo teso a vincere una
+resistenza. Difatti il Croce aggiunge più oltre: «per convertire la
+biografia poetica in biografia veramente storica bisogna reprimere...
+i nostri amori, le nostre lagrime, e i nostri sdegni...; e il medesimo
+deve farsi per la storia nazionale e per quella dell’umanità». Mentre
+nelle prime pagine la storia è il pensiero che risuscita la vita («la
+storia morta rivive» è detto a pag. 15), più innanzi la storia è il
+pensiero che combatte, che doma, che mutila la vita, recidendo da essa
+il sentimento.
+
+Sin dalle prime pagine del volume si intravede che il Croce ha della
+storia, come di molte altre cose, due concezioni contradditorie; o
+forse ha una prima concezione che, strada facendo, si muta nella
+opposta, illudendosi di esser sempre la medesima. Da principio
+egli concepisce la storia come un «eterno presente» ossia come
+la vivificazione di quello che fu, quale fu visto e sentito dai
+contemporanei. Poi a poco a poco si stacca da questa concezione sinchè,
+senza accorgersene, la nega interamente, cercando di dimostrare che
+storia e filosofia sono una cosa medesima, ossia la dottrina in azione
+del progresso, inteso non «come passaggio dal male al bene, quasi da
+uno stato all’altro, ma come passaggio dal bene al meglio, in cui il
+male è il bene stesso, visto alla luce del meglio» (pag. 23).
+
+Confronti il lettore il primo e il quinto capitolo; e subito si
+accorgerà che questo nega quello, illudendosi di svolgerlo. «La
+coscienza storica, in quanto tale, è coscienza logica e non pratica, e
+anzi fa suo proprio oggetto l’altra: la storia, _che fu già vissuta_,
+è ora in lei pensata, e nel pensiero _non hanno più luogo le antitesi,
+che si fronteggiavano nella volontà e nel sentimento_. Per essa non ci
+sono fatti buoni e fatti cattivi, ma fatti sempre buoni quando sieno
+intesi nel loro intimo e nella loro concretezza; non ci sono partiti
+avversi, ma quel partito più ampio che abbraccia gli avversi e che per
+avventura è appunto la considerazione storica... La storia non è mai
+giustiziera ma sempre giustificatrice» (pagg. 76 e 77).
+
+E ancora: «il vizio della storia negativa proviene dal separare e
+solidificare e contrapporre le antitesi dialettiche del bene e del
+male... Tutti i fatti e le epoche sono a lor modo produttivi; non solo
+nessuno di essi è al lume della storia condannabile, ma tutti sono
+laudabili e venerabili» (pag. 78).
+
+E sia pure; ma addio, allora, contemporaneità della storia! La storia
+contemporanea consiste appunto nel «solidificare e contrapporre le
+antitesi dialettiche del bene e del male». Il presente è proprio un
+momento del tempo, in cui un certo numero di antitesi si fronteggiano
+nella volontà e nel sentimento; e se nella storia, scritta dopo
+qualche secolo, si può trovare «quel partito più ampio che abbraccia
+diversi partiti», chi può esser così ingenuo da cercar questo partito
+fra i contemporanei, che vivono appunto per odiarsi, combattersi e
+sterminarsi? Intorno a che cosa hanno versato tanti fiumi di sangue gli
+uomini se non a quelle che il Croce chiama «antitesi dialettiche del
+bene e del male, solidificate»; e che la storia dovrebbe per l’appunto
+sciogliere? Se gli uomini fossero persuasi che tutti hanno ragione
+e tutti meritano almeno una menzione onorevole, se non una medaglia
+di bronzo nel concorso della storia, si sarebbero forse patrizi e
+plebei, ricchi e poveri, eretici e ortodossi, cristiani e mussulmani,
+protestanti e cattolici, aristocratici e democratici, scannati in tanti
+secoli con tanto furore? E che cosa resterebbe di tutte le «storie
+contemporanee» che si sono seguite?
+
+
+3.
+
+Una delle due: o la storia è sempre storia contemporanea e allora deve
+«separare, contrapporre e solidificare le antitesi dialettiche del
+bene e del male» perchè ogni presente non è che una di queste antitesi
+in azione. O deve giustificare tutto e allora non può essere storia
+contemporanea; anzi la storia contemporanea deve considerarsi come
+pseudo storia o poesia. Impigliato in questa contraddizione, da cui
+non riesce a districarsi, il pensiero del Croce si lascia sospingere
+dalla sua stessa confusione a conclusioni così paradossali e strane,
+da essere quasi ridicole. Questa, ad esempio: che «la storia non è mai
+storia della morte sibbene storia della vita»; che «sono da ritenere
+false... tutte le storie che narrano la morte e non la vita dei popoli,
+degli stati, delle istituzioni, dei costumi, e si contristano, e si
+angosciano e lamentano che quel che fu non è più» (pagine 79 e 80).
+
+Questa pagina confonde manifestamente il narrare le rovine e il
+disperarsi per esse. Se un moderno scrivendo la storia dell’impero
+romano si stracciasse, arrivando ai bassi secoli, i capelli, e
+ululasse inferocito ai barbari e ai cristiani, noi potremmo dirgli
+di risparmiare il suo tempo e il suo dolore, poichè le sue furie
+sono vane o ad ogni modo son cosa sua, che non ci tocca, se pure non
+ci infastidisce. Ma non per questo è men vero che l’impero romano,
+fiorente nel primo e nel secondo secolo, è stato dal terzo al quinto
+secolo a poco a poco distrutto dal di fuori e dal di dentro; e che o
+lagrimando o ad occhi asciutti uno scrittore può narrare la storia di
+questa distruzione: come, quando, e per opera di chi si compiè. Dir che
+la rovina dell’impero romano è una storia falsa, perchè sulle rovine
+dell’impero sorsero nuovi stati e nuovi popoli e nuove civiltà, sarebbe
+come dire che l’inquilino di quella tal casa, che oggi hanno portato
+al cimitero, non è morto, perchè domani un altro inquilino entrerà
+nella casa. Nuovi stati sorsero sulle rovine dell’impero romano, perchè
+l’impero era stato distrutto; e la sua distruzione fu effetto di un
+lungo seguito di azioni che la storia può narrare, come può narrare il
+lungo seguito delle azioni che lo crearono.
+
+
+4.
+
+Andare a caccia di contraddizioni nei libri del Croce è come andar
+a caccia di farfalle in primavera. Ma in questo libro si trovano
+contraddizioni anche più strane che negli altri libri, forse perchè
+egli non è mai riuscito a distinguere bene i due elementi della
+storia che sono il pensiero e il sentimento; ed ora li ha confusi
+immedesimandoli, ora li ha opposti l’uno all’altro arbitrariamente.
+
+«Condizione dello storico è che il fatto _vibri_ nell’animo dello
+storico; o (per adoperare le parole d’uso nel mestiere storico) se
+ne abbiano intelligibili i documenti» — ha scritto, come vedemmo,
+a carte 4. Sembrerebbe dunque che la storia ritornando a _vibrare_
+nell’animo, diventi _intelligibile_. Non c’è storico un po’ esperto,
+il quale ignori che spesso accade proprio l’opposto: accade che per
+_capire_ un avvenimento, ossia per distinguere chiaramente i motivi
+veri che spinsero i personaggi all’azione e i veri effetti che l’azione
+generò, è qualche volta necessario, più spesso utile liberarsi dalle
+passioni contemporanee, ossia mettersi in uno stato di freddezza,
+per cui l’evento non vibrando più nell’animo dello storico, questi
+possa osservarlo da tutte le parti, anche da quelle che gli attori
+appassionati non videro e _non potevano_ vedere. Per citare un solo
+esempio: accade spesso nelle grandi lotte umane (guerre, rivoluzioni,
+ecc.) che la parte la quale riuscì vittoriosa, si fosse per lungo
+tempo ingannata sulle forze dell’avversario, credendole molto più
+grandi che non fossero. Uno storico, il quale voglia capire ciò che
+davvero è accaduto, deve rendersi conto di questa illusione; ma dal
+momento in cui ha scoperta l’illusione l’avvenimento non può _vibrare_
+più nell’animo dello storico come vibrò nell’animo degli autori. La
+passione, che generò l’azione, diventando oggetto di fredda analisi, lo
+storico deve distaccarsene invece di confondersi con essa.
+
+Dopo aver immedesimato sentimento e pensiero, come se nella storia il
+sentire equivalesse a comprendere, con singolare contraddizione, in un
+altro punto, il Croce vuol bandire addirittura il sentimento, come un
+falsario sistematico, dalla storia, e come se il sentire un avvenimento
+volesse dir sempre fraintenderlo. «L’alterazione — egli scrive —
+continua e intrinseca a quella storiografia (la poetica) consiste
+nello scegliere e connettere i particolari, che si traggono dalle
+fonti, secondo un motivo _non di pensiero ma di sentimento_; il che se
+ben si consideri, è sostanzialmente un inventarli» (pagg. 28 e 29).
+E perchè? Da una esagerazione si casca in una esagerazione opposta.
+Qui il Croce suppone che il sentimento falsi sempre la verità e che
+il pensiero invece non la falsi mai; il che è un errore di psicologia
+manifesto. Il sentimento falsa la verità quando è pervertito, viziato,
+in rivolta contro le leggi della natura e della morale; quando odia
+quel che è bene e ama quel che è male. Ma quando ama il bene, o odia
+il male è spesso più pronto e più profondo nello scoprire il vero del
+pensiero. Quante volte il cuore precorre la mente nel divinare quello
+che la mente scoprirà dopo, faticosamente! Di quanti sentimenti altrui
+ci è difficile renderci conto se non li abbiamo provati, e quante
+volte l’essere appassionato è condizione per capire l’altrui passione!
+Viceversa, anche il pensiero spesso s’inganna, o adultera la verità per
+errore o per malizia. Un cattolico, un protestante, scrivendo la storia
+della Riforma, con la passione altereranno sfigurandolo coll’odio il
+nemico, ma ciascuno sarà nel vero nel lodare le cose buone della Chiesa
+o della Riforma; e l’uno e l’altro capiranno non solo lo stato d’animo
+dei propri ma anche quello degli avversari, meglio e più facilmente di
+un miscredente, per il quale tutte quelle dispute teologiche non siano
+che un fastidioso perditempo.
+
+E del resto se la passione fosse condannata a restar fuori della verità
+sempre e in eterno, come potremmo noi scriver la storia? Chi conosce
+un po’ quel che il Croce chiama il «mestiere storico» (l’arte, io
+direi) — sa che quasi tutti i documenti sono più o meno inquinati dalla
+passione.
+
+
+5.
+
+Anche questa dottrina della storia è un guazzabuglio di contraddizioni,
+in mezzo alle quali il pensiero del Croce cerca di reggersi e di
+camminare diritto; ma non può, chè non sa dove va, barcolla e ad ogni
+passo incespica. La Storia è problema nel tempo stesso più semplice e
+più complesso che il Croce non pensi.
+
+La Storia è l’applicazione letteraria di una facoltà dello spirito
+umano, poco o punto studiata sinora dagli psicologi e dai filosofi:
+_l’intuizione_. Che cosa è l’intuizione? È quella facoltà per cui noi
+indoviniamo gli stati d’animo dei nostri simili; i loro pensieri,
+i loro sentimenti, le loro inclinazioni, la loro indole, i loro
+propositi, le loro virtù, i loro vizi. Non c’è facoltà più comune e
+più preziosa di questa. La vita di tutti gli uomini, umili e grandi,
+dotti e ignoranti, ricchi e poveri non è, dalla mattina alla sera,
+che un esercizio ininterrotto di intuizione psicologica. Noi abbiamo
+sempre bisogno di indovinare quel che pensa, vuole, macchina, in quali
+disposizioni di animo si trova un certo numero dei nostri simili senza
+che essi ce lo dicano — sia perchè non vogliono, sia perchè non sanno e
+non possono.
+
+La natura di questa facoltà è molto misteriosa: ragione per cui forse
+gli psicologi non l’hanno punto studiata fino ad ora. È una facoltà
+mista, a cui partecipa il raziocinio, la memoria, l’associazione,
+l’immaginazione; e per la quale noi quasi entriamo a un tratto
+negli altri indovinando quel che avviene nella loro coscienza. È una
+facoltà innata, perchè tutti ne sono provvisti, come di volontà e
+d’intelligenza; ma come di volontà e di intelligenza chi più e chi
+meno. L’esercizio e l’esperienza la raffinano e la rafforzano. Quel che
+si dice di solito «imparare a conoscere gli uomini e il mondo» non è
+che l’esercizio di questa facoltà. Il nascere provvisti di intuizione
+pronta, agile, sicura, è una fortuna, perchè questa è tra le armi che
+più servono per riuscire.
+
+
+6.
+
+La Storia non è che una applicazione letteraria, nobile, profonda di
+questa facoltà comunissima, di cui tutti gli spiriti son provvisti,
+perchè è uno dei tanti cosidetti «organi di relazione». Chi scrive una
+storia, grande o piccola, non fa che intuire ed esporre degli «stati
+di coscienza» singoli o gregari. I piani, i disegni, le ambizioni, gli
+odî, gli amori, le illusioni, gli atti e i fatti dei grandi personaggi
+della storia che altro sono se non idee, sentimenti, voleri, propositi,
+ossia «stati di coscienza»? E che cosa sono, se non stati di coscienza
+gregari, le inclinazioni dello spirito pubblico, le dottrine e le
+ambizioni, gli odî e le ammirazioni dei partiti, le tradizioni e
+gli interessi delle classi sociali, le aspirazioni, gli orgogli, i
+puntigli, gli interessi dei corpi pubblici — parlamento, magistratura,
+burocrazia? Che altro è una religione, se non una cristallizzazione di
+stati di coscienza, spesso complicatissimi ed oscurissimi?
+
+La storia insomma, come opera d’arte e di pensiero, è una _psicologia
+in azione_, il cinematografo interno — se posso adoperare l’immagine
+— di singoli uomini e di gruppi: sovrani, capi di religione, generali,
+diplomatici, demagoghi, partiti, classi, amministrazioni, sette e via
+dicendo. Il Croce si è invischiato in tante difficoltà perchè non ha
+capito questa prima ed elementare verità. Senonchè se lo strumento
+con cui noi risuscitiamo questi stati di coscienza è quella stessa
+intuizione, di cui ci serviamo ogni giorno per indovinare ciò che
+i nostri simili pensano e vogliono, il nostro compito è molto più
+difficile, quando si tratta di scrivere storie. Gli stati di coscienza
+da cui nascono i grandi avvenimenti storici sono complessi, numerosi,
+spesso contradditori, spesso legati tra di loro o inestricabilmente
+aggrovigliati gli uni negli altri, e in continuo movimento. Chi ci
+vive in mezzo, se non è proprio dotato di straordinaria intelligenza,
+non vede che frammenti; onde è così difficile scrivere la «storia
+contemporanea» a cui il Croce ha voluto per un momento ridurre tutta
+la storia, ma inutilmente, perchè dire che ogni storia è «storia
+contemporanea» è come dire che l’uomo non capirà mai nulla di ciò che
+succede. Quando invece la storia è passata nasce un’altra difficoltà:
+gli «stati di coscienza» sono spariti insieme con gli uomini, e di
+essi non restano più che segni frammentari e per se stessi morti: i
+documenti.
+
+I documenti sono il grande rompicapo di tutti i teorici della storia,
+che non riescono a mettersi d’accordo intorno alla loro natura. Ma la
+oscura questione si chiarisce semplificandosi, per chi abbia capito
+che la storia è intuizione di stati di coscienza, singoli o gregari,
+di uomini e di generazioni che furono. Fuorchè nei casi in cui il
+documento è la voluta espressione degli «stati d’animo» di qualche
+personaggio storico — tali sono, per esempio, le memorie degli uomini
+politici, qualche volta le loro lettere o confidenze — il documento
+è quasi sempre il rottame, salvatosi a caso, di un _antico mezzo
+d’azione_ che per i posteri diventa il segno di uno o più stati di
+coscienza — i propositi, le illusioni, le speranze dell’uomo e del
+gruppo che se ne serviva. La corrispondenza diplomatica di un ministro,
+gli ordini e i bollettini di un generale, i discorsi di un capo di
+parte sono stati composti non perchè i posteri sapessero poi quello che
+è successo, ma per ottenere quello o quell’altro intento, che allora
+premeva a quel tale o tal’altro uomo d’azione. Ma allo storico servono
+come mezzo per conoscere ciò che l’uomo d’azione, il suo governo o
+il suo partito, voleva in quel momento; per capire la visione delle
+cose che lo guidava; i motivi che lo spinsero a quella o a quell’altra
+azione.
+
+È facile ora capire la strana e contradditoria natura del documento
+storico, intorno alla quale tanto disputano i teorici della storia, e
+che i veri storici capiscono a fondo senza aver bisogno di discuterla.
+Tre sono le contraddizioni insite nella natura del documento storico.
+
+_a_) La sopravvivenza del documento è _accidentale_ perchè dei
+mezzi d’azione si conservano spesso, per servir come segni degli
+stati d’animo, quelli che meno servono a capire «gli stati d’animo»
+_essenziali_ dai quali l’avvenimento è nato; lo storico deve invece
+indovinare questi stati d’animo _essenziali_.
+
+_b_) il documento, appunto perchè è il rottame di un mezzo d’azione
+che non serve più, è _una cosa morta_: lo storico deve servirsene per
+intuire uno stato d’animo, che è _una cosa viva_;
+
+_c_) il documento è sempre _frammentario_; da questo documento
+frammentario lo storico deve cercare di ricavare una intuizione
+di stati di coscienza quanto più gli è possibile _totalitaria_,
+indovinando quello che nel documento non c’è e non ci può essere,
+perchè il documento è per sua natura un frammento.
+
+Chi tenga presente queste tre contraddizioni insite nel documento,
+intenderà quanto sia difficile lo scriver la storia e come ai maestri
+che salgono in cattedra a insegnare la teoria si addica una certa
+modestia nel dare consigli a coloro, che invece di dir come si deve
+scriver la storia, la scrivono. Intenderà pure che il cercare una
+conclusione certa, appoggiata su documenti inoppugnabili e definitivi,
+i quali si possano interpretare in una sola maniera, è quasi sempre
+la pretesa di una presuntuosa leggerezza. Intenderà come accada che
+ogni storia si rinnovi quando lo storico muta. Intenderà che un mezzo
+sicuro e definitivo di provare vera e giusta la interpretazione di un
+documento, ossia di verificare l’intuizione degli «stati di coscienza»
+che da quel documento piglia le mosse non c’è. Intenderà infine che
+la storia si scrive per molti motivi diversi. Si scrive per ricordare
+il passato. Si scrive per soddisfare la curiosità. Si scrive per
+divertirsi e per divertire, su per giù come si scrivono romanzi. Si
+scrive per glorificare o per infamare una dinastia, un partito, una
+religione, un popolo, una nazione, un regime politico, una classe
+sociale. Si scrive per affilare le armi ad una lotta politica, sociale,
+o ad un conflitto armato tra stati. Si scrive per indagare il mistero
+dei destini umani, il perchè delle vittorie e delle sconfitte, della
+grandezza e della decadenza, delle prosperità e dei rovesci. Il Croce
+dice che questo _perchè_ è introvabile. Non importa: a quanti perchè
+senza risposta l’uomo cerca risposta!
+
+Questa molteplicità di scopi genera molte famiglie di storie e di
+storici, ciascuna delle quali esercita la sua intuizione in modo
+diverso. Lo scopo foggia per reazione lo strumento. Alcune tra le
+distinzioni che il Croce, brancicando nel buio, tenta di stabilire tra
+storia e storia nascono da questi diversi scopi. Non ci sono storie
+positive e storie negative, storie vere e storie false, storie poetiche
+e storie filosofiche. La storia è sempre storia — cioè intuizione di
+«stati di coscienza»: la scriva Tito Livio, o Tacito, o Svetonio, o il
+Machiavelli, o il Gibbon, o il Mommsen, o quel tale misterioso storico
+— chi sarà mai? — nel quale il Croce ravvisa il vero storico. Ma muta
+secondo che è scritta per uno scopo o per un altro. Così quelle che
+il Croce chiama storie poetiche o pseudo-storie sono storie dominate
+da una forte passione, o politica o religiosa o morale, la quale in
+certi momenti può falsare, in altri acuire nello storico la visione
+della verità. Tacito ha atrocemente calunniato Tiberio, che fu un
+grande imperatore, e si sacrificò per salvare lo Stato; ma se la sua
+intuizione ha errato nel raffigurare questo personaggio; e se per
+ciò la sua storia è in questo punto difettosa, è pur sempre storia
+composta con gli eterni processi che ogni storico ha adoperato, adopera
+ed adopererà, perchè non ce ne sono altri. La differenza da storico a
+storico sta solo nella maestria con cui ciascuno li adopera, e nello
+scopo che si propone.
+
+
+7.
+
+Alla luce di queste considerazioni molte questioni sul metodo storico,
+che da quando la storia si è messa in mente di essere una scienza,
+si sono tanto arruffate, si semplificano assai. Non ho tempo qui
+di dimostrarlo. Ma non posso tacere una conclusione che è la più
+importante, perchè vale a sbugiardare insieme e di colpo tutte le
+false autorità che pullulano oggi negli studi storici dalla universale
+confusione e ignoranza. La conclusione è questa: che una opera di
+storia può essere giudicata da un critico soltanto nella sua forma
+letteraria, come è stata composta e scritta; se è viva o no; se si
+capisce o se riesce oscura, se piace o annoia. Nella sostanza, ossia
+se lo storico abbia adoperato bene o male il processo intuitivo con cui
+soltanto si può scriver la storia; se sia nel vero o se s’inganni, no.
+Siccome non c’è modo o criterio per verificare inappellabilmente se un
+documento è stato o non è stato interpretato rettamente, il critico
+può soltanto scoprire o notare i piccoli errori di fatto, in cui a
+tutti gli storici accade di incorrere: per giudicare sostanzialmente
+una storia il critico _dovrebbe rifarla_ tutta quanta, interpretando di
+nuovo i documenti, a modo suo, ossia intuendo in altro modo e legando
+tra loro in un ordine diverso gli stati di coscienza di cui i documenti
+sono il segno frammentario, accidentale e morto. Al lettore spetterà
+poi di giudicare quale delle due interpretazioni lo convinca di più,
+e gli sembri più verosimile: giudizio però personale anche questo
+e quindi variabile da lettore a lettore, ma sempre posato sopra un
+paragone di più storie. Se voglio dimostrare che Tacito si è sbagliato
+scrivendo la storia di Tiberio, devo raccontarla di nuovo e in modo
+che sembri più persuasiva, perchè più verosimile; senza però presumere
+mai di giungere ad una conclusione che sia definitiva, inoppugnabile,
+irrevocabile.
+
+Desidera il lettore rendersi conto, come un critico, il quale voglia
+giudicare il valore intrinseco di una storia senza rifarla, possa
+vaneggiare? Il Croce stesso ci somministra di ciò un curioso esempio.
+Il Croce aveva rasentato la verità — che la storia sia intuizione di
+stati di coscienza — quando scriveva a pagina 29 e 30: «la fantasia
+è indispensabile allo storico: la critica vuota, la narrazione vuota,
+il concetto senza intuizione o fantasia sono affatto sterili; e ciò si
+è detto e ridetto in queste pagine col richiedere la viva esperienza
+degli accadimenti, di cui si prende a narrare la storia, il che importa
+insieme elaborazione di essa come intuizione e fantasia; senza questa
+ricostruzione o integrazione fantastica non è dato nè scrivere storia,
+nè leggerla o intenderla. Ma siffatta fantasia veramente indispensabile
+allo storico è la fantasia inscindibile dalla sintesi storica, la
+fantasia nel pensiero e per il pensiero, la concretezza del pensiero
+che non è mai un astratto concetto ma sempre una relazione e un
+giudizio, non una indeterminatezza, ma una determinatezza. Epperò essa
+è da distinguere dalla libera fantasia poetica, cara a quegli storici
+che vedono o odono il viso e la voce di Gesù sul lago di Tiberiade,
+o seguono Eraclito nelle sue quotidiane passeggiate tra le colline di
+Efeso, o ridicono i segreti colloquî tra Francesco d’Assisi e il dolce
+umbro paese».
+
+Sebbene involuta ed oscura, questa pagina distingue, una fantasia
+— chiamiamola così — «_storica_» che ricostruisce ed integra dai
+documenti quello che fu; e una _fantasia poetica_ che inventa quello
+che non fu mai; concludendo che senza la fantasia «storica» la quale
+ricostruisce ed integra, non c’è storia. «_Senza questa ricostruzione
+o integrazione fantastica non è dato nè scrivere storia, nè leggerla ed
+intenderla_».
+
+Su questo punto non possono esserci dubbi. È chiaro d’altra parte che
+quella che il Croce chiama qui, con linguaggio impreciso e barcollante,
+«_ricostruzione o integrazione fantastica_» è l’intuizione degli stati
+di coscienza passati. Ma in un’altra opera il Croce ha voluto giudicare
+l’opera mia e giudicarla non solo nella forma, ma anche nella sostanza,
+per negare che essa sia storia. Che cosa ha detto allora? Ha affermato
+che non solo la fantasia poetica, ma anche la fantasia storica,
+ossia l’intuizione, non può creare storia vera. Il lettore stenterà a
+crederlo; eppure è proprio vero che il Croce ha scritto testualmente
+così: «Il Ferrero crede che si debba con la immaginazione, o come dice,
+con la congettura integrare le fonti là dove il senso critico _vieta
+coteste integrazioni e nega che possano mai fornire storia e storia
+reale_. Al che il Ferrero, e con lui i suoi difensori, obbiettano,
+che, senza le congetture e le immaginazioni, molta parte della
+storia rimarrebbe arida esposizione e compilazione di fonti. E tale
+sia e rimanga, quando non può essere altro, ossia quando mancano le
+condizioni soggettive ed oggettive perchè sorga storia vera e propria;
+meglio allora una rassegna di fonti, che un sogno sulle fonti...»
+
+La contraddizione è evidente: «_Il senso critico vieta coteste
+integrazioni e nega che possano mai fornire storia e storia reale_». Ma
+che altro possono essere queste integrazioni vietate dal senso critico,
+se non quelle che la fantasia storica fa in opposizione alla fantasia
+poetica, che non integra ma inventa; e che nella «Teoria» erano state
+giustamente dichiarate indispensabili allo storico, perchè non sono
+altro che la sua facoltà di intuizione?
+
+Ma non poteva accadere altrimenti. Volendo negare che una storia fosse
+buona storia senza rifarla, il Croce non aveva altro mezzo che di
+negare addirittura il processo creativo della storia — l’intuizione;
+ossia, per affermare che io ho perduto il mio tempo a scrivere
+«Grandezza e Decadenza di Roma» come i suoi numerosi lettori a
+leggerla, che la storia non esiste, non è possibile, è un vano sogno.
+Per ammazzare me egli ha sacrificato addirittura Clio e la Storia tutta
+quanta; e dopo aver scritto un poderoso volume per scoprire che cosa
+sia e come si scrive!
+
+O giovani, che volete darvi alle storie, non ascoltate le false
+autorità, che vogliono insegnarvi, senza saperlo, che cosa è e come si
+scrive la storia. Leggete i grandi maestri dell’arte, incominciando
+dagli antichi. Leggete Tucidide, leggete Sallustio, leggete Livio,
+leggete Tacito. Solo chi conosce l’arte può insegnarla: troppo,
+questo vecchio precetto del buon senso è stato dimenticato dal secolo
+implacabilmente nemico di tutte le arti: della storia come della
+guerra, della pittura come della politica.
+
+
+
+
+II.
+
+IL MATERIALISMO STORICO E ROMA ANTICA.
+
+
+Quando apparve la traduzione francese dei due primi volumi di
+«Roma» alcuni, giornalisti d’oltre Alpi, uomini d’ingegno ma un po’
+precipitosi nel giudicare, come è spesso quella professione, scrissero,
+e con sincera intenzione di elogio, che l’autore aveva studiato
+Carlo Marx. Imbattutisi per la prima volta in una storia antica, che
+raccontava di commerci, di dissesti, di fallimenti, di usure, e di
+altre cose consimili, reputate da molti invenzioni moderne; avendo
+sentito dire che Carlo Marx aveva fatto degli interessi economici
+l’asse intorno a cui giri la storia universale, s’erano messi in
+mente di far onore all’opera, ascrivendola ad una famiglia così
+moderna e così illustre. Senonchè è difficile immaginare un più grosso
+sproposito, e che sia prova più manifesta di ignoranza totale, sia
+in ciò che concerne la storia in genere, sia per ciò che tocca il
+materialismo storico. Ragione per cui l’errore fu largamente ripetuto.
+
+Il materialismo storico non è una scuola, perchè una scuola suppone
+maestri e discepoli, e qui i discepoli almeno mancano; è una pura
+dottrina, campata nei cieli della speculazione, un po’ confusa e
+nebulosa, come tutto ciò che è uscito dalla mente frammentaria di
+Carlo Marx. Nessuno storico l’ha ancora applicata in nessuna opera
+di polso. Ma come dottrina si presenta negli scritti del suo autore
+e dei suoi discepoli e commentatori in due vesti: più generale la
+prima, più particolare la seconda. La dottrina più generale vuole che
+i fenomeni della storia, la religione, la politica, il diritto, l’arte
+e via dicendo, siano una specie di drappeggiamento sontuoso, sotto cui
+si nasconde la greggia ed unica realtà degli interessi economici. Ma
+del materialismo inteso così io penso che sia una dottrina puerile,
+da non poter essere presa sul serio; immaginarsi se si potranno
+trovare le sue «formule» e i suoi «derivati» nell’opera mia! Che
+ogni istituzione o associazione umana di qualsiasi natura, politica,
+religiosa o intellettuale, debba tenere un libro di conti; che tutte
+le relazioni tra gli uomini di ogni specie, dalla famiglia allo Stato
+e alla Chiesa, siano regolate anche da una ragione di dare e avere,
+non vuol dire, che l’anima di quelle associazioni e istituzioni viva
+nel libro dei conti; vuol dire soltanto che, qualunque cosa gli uomini
+facciano, pensino o vogliano, hanno bisogno di nutrirsi e di vestirsi;
+che il prete deve vivere dell’altare, come il pittore del pennello,
+e il matematico delle formule. Più seria è la dottrina particolare e
+ristretta, che assume la _trasformazione degli istrumenti del lavoro
+a motore occulto della storia_. Inteso così, il materialismo storico
+potrebbe essere una dottrina feconda e fare scuola, il giorno che
+raccogliesse intorno a sè discepoli valorosi, purchè circoscritta alla
+storia dell’Europa negli ultimi due secoli, che sola può comportarne la
+applicazione. Negli ultimi due secoli la storia dell’Europa è veramente
+condotta da due demiurghi: le dottrine razionali della società e dello
+Stato, che minano sotto sotto Dio; le macchine mosse dal vapore e
+dall’elettricità, che minano sotto sotto tutti gli antichi ideali di
+perfezione. Nessuno scrittore capirà il secolo XIX, sinchè non riesca
+a scoprire questi due demiurghi, discesi da due cieli differenti
+della storia, all’opera insieme e senza saper l’uno dell’altro. Il
+materialismo storico potrebbe studiarne con profitto uno; e quindi
+scoprire una parte della verità.
+
+Senonchè questa dottrina non ha posto nè ufficio nella storia antica,
+dalla quale il secondo demiurgo è assente; ed è addirittura infantile
+di supporre che abbia potuto applicarla proprio l’autore, che ha
+indicato nel secolo XIX e nel trapasso della civiltà qualitativa alla
+quantitativa, dall’ideale di perfezione all’ideale di potenza, il
+maggior rivolgimento della storia universale. Solo questo rivolgimento
+ha chiamato in terra, un paio di secoli fa, il demiurgo, che il
+materialismo vorrebbe presente in tutti i luoghi e in tutte le epoche;
+e le cui formidabili spinte e audacie e crudeltà gli uomini non
+conobbero, sinchè la civiltà fu per sua natura qualitativa. Intorno
+alla tecnica dei Greci e dei Romani ci somministrano numerose, per
+quanto slegate e frammentarie notizie, gli scrittori, le leggi, i
+rottami di attrezzi e di macchine — aratri, mulini, telai, forni,
+stampi e via dicendo — raccolti negli scavi, e i disegni scolpiti nei
+bassorilievi. Ma da secolo a secolo, da paese a paese, non si riesce a
+scoprire differenze visibili e quindi progresso, come l’intendiamo noi,
+fuorchè nelle macchine di guerra. Gli strumenti della industria e della
+agricoltura non mutano, a distanza di secoli; le forze motrici sono
+sempre i muscoli umani, alcuni animali, il vento e l’acqua; il vapore è
+un gingillo. In tutta la letteratura antica ho trovato una sola pagina,
+in cui l’ammirazione del progresso, oggi così fervida, sia presentita:
+la prefazione del libro diciannovesimo della _Historia naturalis_, in
+cui Plinio il vecchio, raccontando che il Mediterraneo ai suoi tempi è
+solcato in ogni verso non più da navi a remo ma da navi a vela, dopochè
+l’abbondanza del lino coltivato in Occidente ha fatto della tela un
+oggetto di consumo corrente, vanta la velocità delle navi spinte del
+vento, i viaggi affrettati, lo spazio vinto, con parole, che un moderno
+potrebbe ripetere, ritoccandole appena, del vapore. Ma se gli strumenti
+non mutavano, mutavano, e molto, i manufatti da epoca ad epoca; secondo
+che la mano di una generazione e di un popolo era più abile o meno, più
+arduo o più facile il modello di perfezione a cui i differenti secoli
+e le diverse nazioni guardavano, più fino e più rozzo il gusto che
+commetteva i lavori e li giudicava.
+
+Immaginare una storia «materialistica» di Roma sarebbe come voler
+scrivere una storia cattolica o protestante dei Faraoni. Ma come
+è nato allora questo svarione di critici orecchiuti e orecchianti?
+Nella storia degli ultimi due secoli della repubblica c’è un paradosso
+apparente: più Roma e l’Italia arricchiscono e più sono rovinate; più
+si ingrandiscono fuori, e più si indeboliscono dentro. L’aristocrazia
+romana si trova padrona di un immenso impero, quando non è più capace
+di governare e amministrare una città! Massime nell’ultimo secolo della
+repubblica ogni vittoria è una catastrofe. Parecchi storici avevano
+visto o intravisto, tra le cause di questo singolare dissolversi per
+troppo vincere, gli influssi della cultura greca — arti, filosofie,
+industrie, religioni, costumi, lussi, piaceri — sull’antica società
+latina, aristocratica, tradizionalista, bigotta e puritana. Ma questa
+causa non è la sola, ed è, per dir così, una causa seconda, derivata da
+un’altra, meno visibile e più profonda: l’oro delle conquiste. Fenomeno
+economico? Per chi cerca nella natura umana la ragione profonda della
+storia, questa azione della moneta è un altro esempio della padronanza
+e tirannia che tanti oggetti creati dall’uomo a servirlo esercitano
+sul loro autore. Che cosa è la moneta? Non è la ricchezza, ma _una
+ricchezza_; ossia uno dei tanti beni desiderati dall’uomo, ma in sè e
+per sè non dei più necessari, perchè i metalli preziosi, tanto pregiati
+per la loro bellezza e rarità, non servono a nulla fuorchè ad ornare,
+se non esistono gli altri beni necessari alla vita, che il denaro
+acquista. Ad un uomo perduto nel Sahara un pane ed un otre d’acqua
+sarebbero più preziosi, che un sacco di monete d’oro.
+
+Senonchè se questo è vero, è pur vero che gli uomini immedesimano la
+ricchezza e il denaro, come se il denaro fosse la ricchezza, e di nulla
+sono più cupidi che di denaro, sia esso coniato in metallo prezioso
+o stampato in vilissima carta, al punto che reputano felice solo chi
+ne abbonda — uomini e tempi. Come si spiega questo strano fenomeno?
+Per quale ragione questi pezzi di argento e d’oro, queste polizze
+baroccamente istoriate che da sè e per sè non potrebbero soddisfare
+nessuno dei nostri bisogni, abbagliano l’uomo al punto, che il maggior
+numero immedesima in quelli la ragione stessa del vivere? Perchè,
+quando intorno sussista una civiltà raffinata e piena di beni svariati,
+il denaro è uno schiavo docile, pronto a tutti i servizi; mentre tutte
+le altre ricchezze si prestano ai voleri dell’uomo soltanto secondo la
+loro natura rigida e limitata. Chi possiede una terra, una casa, una
+bottega, un’officina, una merce qualsiasi, ne è nel tempo stesso il
+padrone e lo schiavo; perchè può servirsene solamente per i fini e gli
+uffici a cui la loro natura destina quelle cose. Se vuol servirsene ad
+altri fini ed uffici deve venderli, ossia convertirli in denaro. Chi
+possiede denaro, può invece accumularlo o disperderlo, nasconderlo o
+ostentarlo, prestarlo o regalarlo, aiutare i suoi simili o corromperli,
+convertirlo in sapere, in sfarzo, in piacere o in vizio. Il denaro
+è amico e nemico, maestro e lenone, creatore e distruttore, angelo e
+demonio. Se l’uomo comanda, il denaro lo servirà nell’una o nell’altra
+di queste opposte persone.
+
+Questa sua natura è cagione che nessuna prova sia più ardua e
+pericolosa per un singolo uomo, come per un popolo ed una civiltà, che
+un’improvvisa abbondanza di denaro. Che cosa accade quando, per una
+ragione o per un’altra, il denaro viene improvvisamente ad abbondare
+in una nazione, _mentre gli altri beni necessari alla vita, che si
+possono comperare con il denaro, non crescono, o diminuiscono?_ Noi
+possiamo rispondere facilmente a questo quesito, dopo il diluvio di
+falso denaro sotto cui la guerra ha sommerso in sette anni l’Europa.
+Coloro, nelle cui mani affluisce questa nuova abbondanza di denaro,
+potranno accaparrare una parte assai maggiore dei beni disponibili,
+che non prima; e siccome la somma totale di questi non è cresciuta,
+dovranno toglierli ad altri che prima ne godevano: a coloro i quali,
+per una ragione o per un’altra, non sono stati raggiunti e irrorati
+dall’alta marea del denaro... Quindi alterazione violenta delle
+fortune; ingiusto e improvviso arricchimento degli uni; improvviso ed
+ingiusto impoverimento degli altri. Inoltre — ed è il disordine più
+pericoloso — mentre gli impoveriti si ridurranno a vivere strettamente
+del necessario, gli arricchiti saranno spinti sempre più al lusso ed al
+vizio. Appunto perchè questo pericoloso servitore si offre di servirli
+a loro piacere, come angelo o come demonio, gli uomini sono vinti il
+più spesso dalla curiosità di vedere come serve un demonio. Quando gli
+uomini dispongono di troppo denaro, il loro senno vacilla; cresce il
+prezzo dei gioielli, dei vini, delle vesti preziose; sorgono da ogni
+parte ville e palazzi; lupanari e bische rigurgitano; danze e feste
+tripudiano.
+
+L’ingiusto arricchimento infatua gli uni, come lo immeritato
+impoverimento inasprisce gli altri; la disciplina sociale si rallenta;
+il rispetto, la parsimonia, lo spirito d’ordine svaporano, si diffonde
+l’invidia delle altrui ricchezze, l’odio dei fortunati, una insaziabile
+cupidità. Non solo il denaro, passando da una mano all’altra, insegna
+l’ozio, la prodigalità, il lusso, la dissolutezza, la vanità, la
+ghiottoneria; ma più abbonda, più scarseggia, più ne cresce il bisogno
+perchè più rinvilia. I tempi si lagnano di impoverire, quanto più
+arricchiscono. Il denaro sembra come volatilizzarsi.
+
+Questo spasimo tetanico, in cui si contorce oggi l’Europa, infettata
+dal falso denaro della guerra intriso di tanto sangue, per poco non
+soffocò Roma e l’Italia negli ultimi due secoli della repubblica
+romana. Non la carta e i torchi litografici, ma l’oro e l’argento
+furono allora il veicolo della malattia. L’Italia fu per due secoli
+devastata periodicamente da violente maree di oro e di argento,
+suscitate dalle guerre, che nei tempi antichi, per le ragioni esposte
+nel mio primo volume, snidavano dai ripostigli e trasportavano nel
+paese vincitore i metalli preziosi. Soffrì, in quei due secoli,
+di tutti i mali che ci tormentano oggi: la carestia crescente con
+l’abbondanza, l’alterazione iniqua delle fortune, la depravazione dei
+costumi, il tramonto delle tradizioni, l’obliterarsi della disciplina
+sociale, le turbolenze politiche e gli odi civili che, via via
+esasperandosi, proruppero alla fine in aperte e sanguinose rivoluzioni.
+
+Ed ecco spiegato l’errore di coloro che hanno visto in questa visione
+della storia di Roma le formule e i derivati di un materialismo
+storico di fantasia, perchè la moneta vi comparisce come il principale
+agente del disordine di una grande epoca. Ma questa visione non è
+parente del cosidetto materialismo storico neppure in decimo grado.
+Vero è invece che la visione è mia. Senza dubbio questo spaventoso e
+meraviglioso fenomeno non è stato da me capito con quella pienezza
+e rappresentato con quella forza, di cui, dopo la guerra mondiale,
+mi sentirei oggi capace; e che spero di trasfondere un giorno in una
+edizione definitiva. Ho concepito questa parte dell’opera una ventina
+di anni fa, perduto in una pace così universale e profonda, che la
+memoria e la nozione stessa del terribile fenomeno si erano perdute;
+l’ho concepita, quasi direi, dal nulla e in piena solitudine, perchè
+nessuno dei predecessori aveva neppur presentito queste oscure verità
+e poteva quindi prestarmi aiuto. Non ostante un intensissimo sforzo
+di riflessione e di immaginazione, che ha durato anni, non ho veduto
+il fenomeno nella sua pienezza e in tutti i suoi particolari, così
+lucidamente come lo vedo ora; e qualche volta l’ho confuso un po’ con
+un altro fenomeno, che appartiene alla stessa famiglia ma è diverso:
+con la perturbazione che genera l’incremento della ricchezza, quando
+è figlia del lavoro. L’opera ha quindi bisogno di qualche ritocco. Ma
+sarò io giudicato vittima di un vano orgoglio, se dirò apertamente che,
+a mio giudizio, un critico equo e competente, invece di dottrineggiare
+fuori di tempo e luogo sul materialismo storico, avrebbe potuto, e
+forse dovuto, riconoscere un po’ di merito all’autore, che primo aveva
+avuto la visione di un fenomeno di cui si era perduta la memoria, venti
+secoli dopo che era avvenuto, venti anni innanzi che, ripetendosi in
+un intero continente, si rivelasse di nuovo alla obliviosa noncuranza
+degli uomini?
+
+
+  FINE.
+
+
+
+
+INDICE DEI NOMI
+
+
+  _Acusilas_, 6.
+  _Adriano_, imp., 42.
+  _Agatocle_, 96, 114.
+  _Agostino_ (santo), 52-82, 92, 104.
+  _Agrippina_, 37.
+  _Ammirato Scipione_, 109.
+  _Annibale_, 22.
+  _Antonia_ (madre di Germanico), 35.
+  _Augusto_, imp., 15, 29, 35.
+
+  _Balbo C._, 130.
+  _Barbagallo C._, 9.
+  _Boccalini_, 109.
+  _Bodin_, 109.
+  _Botero_, 115.
+  _Bruto_, 18, 29.
+  _Buondelmonti C._, 87.
+
+  _Camillo_, 24, 73.
+  _Carlo Magno_, 81.
+  _Cassio_, 25, 29.
+  _Catilina_, 13.
+  _Catone_, 5, 6, 11.
+  _Cavriana F._, 119.
+  _Cesare_, 9, 10, 11, 21, 43, 130.
+  _Cicerone_, 5, 6, 7, 18, 53, 54, 128.
+  _Cinna_, 25.
+  _Claudî_ (i Giulii), 29, 34, 39.
+  _Claudio Appio_, 22.
+  _Claudio_, imper. 15, 34, 37, 43, 118.
+  _Cordo Cremunzio_, 29.
+  _Cristo_, 76, 77.
+  _Croce B._, 127-149.
+  _Curiazi_ (i), 62.
+
+  _Dalla Torre R._, 109.
+  _David_ (pitt.), 19.
+  _Domiziano_, 31, 43.
+  _Droysen_, 129, 130.
+  _Druso_, 15.
+
+  _Ellanico_, 6.
+  _Eraclito_, 147.
+  _Erodoto_, 129, 130.
+
+  _Fabio Pittore_, 5, 6.
+  _Faraoni_ (i), 155.
+  _Fenestella_, 29.
+  _Ferecide_, 6.
+  _Ferrero G._, 9, 147, 148.
+  _Ferretti E._, 108.
+  _Flacco Iginio_, 29.
+  _Flacco Verrio_, 29.
+  _Francesco d’Assisi_ (san), 147.
+
+  _Germanico_, 35, 36, 121.
+  _Gesù_, v. Cristo.
+  _Gibbon_, 114.
+  _Giugurta_, 9.
+  _Giustino_, 29.
+  _Grote_, 130.
+  _Guicciardini Fr._, 89.
+
+  _Houssaye_ (de la) _Amelot_, 109, 119.
+
+  _Lipsio Giusto_, 109, 112-14.
+  _Livia_, 35.
+  _Livio Tito_, 8, 10, 11, 14, 15-27, 29, 30, 31, 32,
+    33, 34, 36, 39, 41, 47, 50, 54, 55, 57, 60, 61, 63, 68,
+    72, 76, 77, 79, 80, 81, 82, 85, 86, 87, 91, 92, 95,
+    103-105, 107-110, 118, 123, 129, 130, 144, 149.
+  _Loth_, 61.
+  _Lucrezia_, 66, 67.
+
+  _Machiavelli N._, 85-110, 111-116, 118, 123, 124, 144.
+  _Malvezzi V._, 109.
+  _Mario_, 71.
+  _Marx C._, 151, 152.
+  _Massimo Q._, 12.
+  _Massimo V._, 29.
+  _Medici_ (i), 85.
+  _Messala V._, 36.
+  _Mommsen_, 130, 144.
+  _Mucio_ (pont.), 5.
+  _Mureto_, 108, 121.
+
+  _Nardi_, 105.
+  _Nerone_, 31.
+
+  _Orazi_ (gli), 62.
+  _Orazio_, 15.
+
+  _Paolo Emilio_, 20.
+  _Paolo Lucio_, 24.
+  _Papini C._, 109.
+  _Patercolo V._, 29, 110.
+  _Pisone_, 5, 6, 121.
+  _Plinio_ (il vecchio), 154.
+  _Pollione A._, 29.
+  _Porsenna_, 23.
+  _Posevino_, 115.
+  _Postumio_, 72.
+
+  _Quintiliano_, 10, 13.
+
+  _Rapin_, 110.
+  _Regolo_, 72.
+  _Ribadeneira_, 115.
+  _Romolo_, 61, 100.
+  _Rucellai C._, 87.
+  _Rych Teodoro_, 109.
+
+  _Sallustio_, 8, 9-14, 16, 19, 34, 41, 54, 55, 57,
+    59, 77, 79, 80, 81, 82, 109, 149.
+  _Sardanapalo_, 66.
+  _Savonarola G._, 85, 89, 105.
+  _Scipione Africano_, 24, 53, 54, 58.
+  _Scipione Nasica_, 57.
+  _Scipione P._, 12.
+  _Seneca_, 10, 31, 50.
+  _Servilio_, 24.
+  _Sestio_, 66.
+  _Sforza_, 121.
+  _Silla_, 9, 21, 72.
+  _Strada Fiumano_, 109.
+  _Svetonio_, 41-43, 121, 144.
+
+  _Tacito_, 8, 11, 27, 29-40, 41, 43, 51, 77, 80, 81,
+    82, 89, 107-110, 111-16, 117-22, 123, 129, 130, 144,
+    146, 149.
+  _Taine I._, 10, 11.
+  _Thierry_, 130.
+  _Tiberio_, 29, 34, 35, 36, 37, 38, 118, 120, 121,
+    144, 146.
+  _Toffanin G._, 107.
+  _Torquato Manlio_, 18, 20.
+  _Traiano_, 30, 32.
+  _Trogo Pompeo_, 29.
+  _Tucidide_, 149.
+  _Tullo_, 62.
+
+  _Valentino_ (duca), 95, 121.
+  _Varrone_, 64.
+  _Vespasiano_, 29.
+  _Vico G. B._, 88.
+  _Virgilio_, 15.
+  _Virginia_, 62.
+
+
+
+
+INDICE DELLE MATERIE
+
+
+  _Al Lettore_                                             _pag_.   1
+
+  LA CREAZIONE.
+
+     I. L’annalistica dei primi secoli                     _pag_.   5
+    II. Sallustio                                            »      9
+   III. Tito Livio                                           »     15
+    IV. Tacito                                               »     29
+     V. Svetonio                                             »     41
+
+  LA DISTRUZIONE.
+
+     I. L’Impero romano e la sua storia                    _pag_.  47
+    II. L’aurora della morale umana                          »     49
+   III. S. Agostino, la Repubblica e il popolo romano        »     53
+    IV. S. Agostino e la corruzione dei costumi              »     57
+     V. S. Agostino, i grandi uomini e la storia di
+            Roma                                             »     63
+    VI. La fortuna di Roma e Cristo                          »     75
+
+  LA RINASCITA.
+
+     I. La storia e l’antichità nella mente del
+          Machiavelli                                      _pag_.  85
+    II. La razionalizzazione della politica                  »     91
+   III. Lo Stato superiore alla morale                       »     95
+    IV. Lo Stato-Dio in Livio e nel Machiavelli              »    103
+     V. La reazione contro Livio e contro il Machiavelli     »    107
+    VI. Il Tacitismo e la ragion di Stato                    »    111
+   VII. Il Tacitismo e la falsificazione di Tacito           »    117
+  VIII. Quel che noi dobbiamo agli storici antichi           »    123
+
+  APPENDICE.
+
+     I. Che cos’è la Storia?                               _pag_. 127
+    II. Il materialismo storico e Roma antica                »    151
+
+  _Indice dei nomi_                                        _pag_. 163
+
+
+
+
+NOTE:
+
+
+[1] _De Oratore_, II, 12.
+
+[2] _De Oratore_, II, 15.
+
+[3] Cfr.: Ferrero e Barbagallo, _Roma Antica_, I, pag. 259.
+
+[4] Taine, _Essai sur Tite Live_. Paris 1874, pag. 343 e sg.
+
+[5] Taine, _Op. cit._, pag. 346.
+
+[6] _Cat._, VII.
+
+[7] _Cat._, VII.
+
+[8] Livio, _Proemio_.
+
+[9] Liv., IX, 11.
+
+[10] Liv., XLV, 38.
+
+[11] Liv., 2, 41.
+
+[12] Tac. _Hist._, I, 2.
+
+[13] Tac. _Hist._, I, 3.
+
+[14] Tac. _Ann._, IV, 32.
+
+[15] Tac. _Ann._, XIV, 64.
+
+[16] _Ann._, IV, 33.
+
+[17] _Ann._, III, 65.
+
+[18] _Ann._, I, 10.
+
+[19] _Ann._, III, 3.
+
+[20] _Ann._, I, 8.
+
+[21] _Hist._, II, 50.
+
+[22] _Ann._, IV, 11.
+
+[23] _De Civit. Dei_, XIX, 21.
+
+[24] _De Civit. Dei_, II, 21.
+
+[25] _De Civit. Dei_, I, 15.
+
+[26] _De Civit. Dei_, XIX, 7.
+
+[27] _De Civit. Dei_, I, 31.
+
+[28] _De Civit. Dei_, I, 33.
+
+[29] _De Civit. Dei_, II, 2.
+
+[30] _De Civit. Dei_, II, 17.
+
+[31] _De Civit. Dei_, III, 13.
+
+[32] Livio, I, 9.
+
+[33] Livio, I, 9.
+
+[34] Livio, I, 10.
+
+[35] _De Civit. Dei_, III, 14.
+
+[36] _De Civit. Dei_, III, 14.
+
+[37] _De Civit. Dei_, III, 4.
+
+[38] _De Civit. Dei_, II, 20.
+
+[39] _De Civit. Dei_, I, 19.
+
+[40] _De Civit. Dei_, I, 19.
+
+[41] _De Civit. Dei_, IV, 8.
+
+[42] _De Civit. Dei_, IV, 8.
+
+[43] _De Civit. Dei_, IV, 14.
+
+[44] _De Civit. Dei_, II, 22.
+
+[45] _De Civit. Dei_, II, 22.
+
+[46] _De Civit. Dei_, II, 23.
+
+[47] _De Civit. Dei_, II, 24.
+
+[48] _De Civit. Dei_, II, 23.
+
+[49] _De Civit. Dei_, IV, 7.
+
+[50] _De Civit. Dei_, V, 1 e 10.
+
+[51] _De Civit. Dei_, V, 12.
+
+[52] _De Civit. Dei_, XVIII, 22.
+
+[53] _De Civit. Dei_, V, 13.
+
+[54] _De Civit. Dei_, V, 13.
+
+[55] _De Civit. Dei_, V, 14.
+
+[56] _De Civit. Dei_, V, 12.
+
+[57] _De Civit. Dei_, I, 1.
+
+[58] _De Civit. Dei_, III, 14.
+
+[59] _De Civit. Dei_, V, 17.
+
+[60] _De Civit. Dei_, I, 8.
+
+[61] _De Civit. Dei_, I, 11.
+
+[62] _De Civit. Dei_, I, 17 e 24.
+
+[63] _De Civit. Dei_, I, 12.
+
+[64] _Discorsi sulla Prima Deca di Tito Livio_. Proemio.
+
+[65] _Discorsi_, I, 11.
+
+[66] _Discorsi_, I, 39.
+
+[67] _Discorsi_, Proemio.
+
+[68] _Principe_, XIV.
+
+[69] _Discorsi_, I, 2.
+
+[70] _Discorsi_, I, 55.
+
+[71] _Discorsi_, I, 55.
+
+[72] _Discorsi_, III, 6.
+
+[73] Cfr. _Discorsi_, I, 2; I, 38; I, 57.
+
+[74] _Discorsi_, I, 18.
+
+[75] _Principe_, II.
+
+[76] _Discorsi_, III, 5. — _Principe_, 3 e 19.
+
+[77] _Principe_, 3.
+
+[78] _Principe_, 2.
+
+[79] _Discorsi_, I, 11.
+
+[80] _Discorsi_, I, 11.
+
+[81] _Discorsi_, I, 12.
+
+[82] _Principe_, 7.
+
+[83] _Principe_, 15.
+
+[84] _Principe_, 15.
+
+[85] _Principe_, 18.
+
+[86] _Principe_, 18.
+
+[87] _Principe_, 8.
+
+[88] _Principe_, 8.
+
+[89] _Principe_, 8.
+
+[90] _Principe_, 18.
+
+[91] _Principe_, 3.
+
+[92] _Discorsi_, I, 1.
+
+[93] _Discorsi_, I, 7.
+
+[94] _Discorsi_, I, 7.
+
+[95] _Discorsi_, I, 9.
+
+[96] _Discorsi_, I, 30.
+
+[97] Sul _Tacitismo_ si può leggere con profitto il bel lavoro di G.
+Toffanin, _Machiavelli e il Tacitismo_. Padova, 1921.
+
+[98] Iusti Lipsi, _Polit._, IV, 14.
+
+[99] Iusti Lipsi, _Polit._, IV, 13.
+
+[100] Iusti Lipsi, _Polit._, IV, 14.
+
+[101] Iusti Lipsi, _Polit._, IV, 14.
+
+[102] _Principe_, 18.
+
+[103] _Tacite, avec des notes politiques et historiques par Amelot de
+la Houssaye_. Paris, 1724.
+
+
+
+
+
+Nota del Trascrittore
+
+Ortografia e punteggiatura originali sono state mantenute, correggendo
+senza annotazione minimi errori tipografici.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75269 ***
