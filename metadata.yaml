@@ -1,5 +1,8 @@
 _repo: La-Palingenesi-di-Roma-b-da-Livio-a-Machiavelli_75269
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75269-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ferrero, Guglielmo
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56201
     wikipedia: https://it.wikipedia.org/wiki/Leo_Ferrero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75269#La-Palingenesi-di-Roma-b-da-Livio-a-Machiavelli
 gutenberg_issued: '2025-02-01'
 gutenberg_type: Text
 identifiers:
